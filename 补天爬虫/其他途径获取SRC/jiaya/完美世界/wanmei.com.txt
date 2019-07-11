@@ -1,0 +1,268 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+am.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+arc.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+anhei.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+bbs.mhzx.wanmei.com	222.186.145.188,221.230.143.101	80,443	获取失败	80:-
+bbs.kdxy.wanmei.com	221.228.192.68	80,443	nginx	80:正常访问
+bbs.rewu.wanmei.com	222.186.145.188,221.230.143.101	80,443	获取失败	80:-
+bbs.mhzx2.wanmei.com	221.228.192.68	80,443	nginx	80:正常访问
+bbs.nw.wanmei.com	221.228.192.68	80,443	nginx	80:正常访问
+bbs.zzbq.wanmei.com	221.228.192.68	80,443	nginx	80:正常访问
+campus.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+cd.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+chibi.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+client.ms.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx/1.10.3	80:(403) 已禁止
+co.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+cs.wanmei.com	221.228.74.159	80,443	nginx	80:正常访问
+d.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+burentuan.mhzx2.wanmei.com	221.228.210.155	-	端口未开放	端口未开放
+dota2.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+esales.wanmei.com	221.228.210.100	80,443	Apache-Coyote/1.1	80:正常访问
+event.wanmei.com	221.228.74.250	80,443	nginx	80:正常访问
+cs.zhuxian.wanmei.com	61.152.110.229	-	端口未开放	端口未开放
+daoju.wanmei.com	58.215.54.169	-	端口未开放	端口未开放
+event2.kdxy.wanmei.com	221.228.210.186	-	端口未开放	端口未开放
+event2.rwpd.wanmei.com	221.228.210.186	-	端口未开放	端口未开放
+event2.zhuxian.wanmei.com	221.228.210.186	-	端口未开放	端口未开放
+event3.chibi.wanmei.com	221.228.210.186	-	端口未开放	端口未开放
+event3.kdxy.wanmei.com	221.228.210.186	-	端口未开放	端口未开放
+event3.rwpd.wanmei.com	221.228.210.186	-	端口未开放	端口未开放
+event3.w2i.wanmei.com	221.228.210.186	-	端口未开放	端口未开放
+event50.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+event3.wulin2.wanmei.com	221.228.210.186	-	端口未开放	端口未开放
+event3.zhuxian.wanmei.com	221.228.210.186	-	端口未开放	端口未开放
+fcwm.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+games.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+event4.chibi.wanmei.com	221.228.210.186	-	端口未开放	端口未开放
+general.dl.wanmei.com	114.236.141.6,114.236.141.51,114.236.141.11,180.97.196.31,180.97.196.41,180.97.196.51,114.236.141.16,114.236.141.21,180.97.196.46,180.97.196.36	80,443	vcs_os/1.0.30	80:(403) 已禁止
+event4.kdxy.wanmei.com	221.228.210.186	-	端口未开放	端口未开放
+event4.rwpd.wanmei.com	221.228.210.186	-	端口未开放	端口未开放
+gongyi.wanmei.com	221.228.74.247	80,443	nginx	80:正常访问
+gx.shop.wanmei.com	183.129.194.66	80,443	Microsoft-HTTPAPI/2.0	80:(404) 未找到
+event4.zhuxian.wanmei.com	221.228.210.186	-	端口未开放	端口未开放
+hex.wanmei.com	221.228.74.247	80,443	nginx	80:正常访问
+hy.shenmo.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+hytj.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+info.shenmo.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+event5.wulin2.wanmei.com	221.228.210.186	-	端口未开放	端口未开放
+event5.zhuxian.wanmei.com	221.228.210.186	-	端口未开放	端口未开放
+lingpai.wanmei.com	221.228.210.81,221.228.210.80	80,443	nginx	80:正常访问
+hr.wanmei.com	124.193.167.93	80	nginx/1.10.2	80:正常访问
+mhsd.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+mhzx2.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+mhzx.wanmei.com	221.228.74.247	80,443	nginx	80:正常访问
+nwolxbox.wanmei.com	221.228.74.248	80,443	nginx	80:正常访问
+passport.wanmei.com	221.228.74.142,221.228.74.141,221.228.74.140,221.228.74.143,221.228.74.139	80,443	nginx	80:正常访问
+hi.shenmo.wanmei.com	58.215.101.243	-	端口未开放	端口未开放
+pay.wanmei.com	221.228.210.81,221.228.210.80	80,443	nginx	80:正常访问
+pgp.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+mx01-17.support.wanmei.com	118.145.0.12	80	Apache-Coyote/1.1	80:(403) 已禁止
+panzar.wanmei.com	221.228.74.215,221.228.74.214	80	nginx	80:(404) 未找到
+pictures.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+post.zhuxian2.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+pwic.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+rwpd.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+rwpd2.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+sds.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+sdxl.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+sdyx.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+seiya.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+service.wanmei.com	221.228.74.159	80,443	nginx	80:正常访问
+perfectrisingstar.wanmei.com	111.67.206.200	-	端口未开放	端口未开放
+sg.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+sgcq.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+sgcq2.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+sgcqhj.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+sgcqjd.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+sgsj.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+sh.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+shenmo.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+shop.wanmei.com	221.228.210.81,221.228.210.80	80,443	nginx	80:正常访问
+shushan.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+store.wanmei.com	221.228.210.11	80,443	nginx	80:正常访问
+survey.hd.wanmei.com	221.228.74.250	80,443	nginx	80:(404) 未找到
+sw.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+t.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+sjld.zhuxian.wanmei.com	221.228.210.155	-	端口未开放	端口未开放
+vip.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+w.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+w2i.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+tg.mhzx.wanmei.com	221.228.210.155	-	端口未开放	端口未开放
+tg.wanmei.com	118.145.10.15	-	端口未开放	端口未开放
+world2.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+wulin2.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+x.wanmei.com	221.228.74.246	80,443	nginx	80:正常访问
+xajh.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+wmi.wanmei.com	61.152.110.243	-	端口未开放	端口未开放
+wmlm.wanmei.com	118.145.10.14	-	端口未开放	端口未开放
+xiao.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+xljz.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+xashop.wanmei.com	114.132.244.154	-	端口未开放	端口未开放
+xlzj.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+xman.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+xmhzx.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+xbox.wanmei.com	221.228.193.166	-	端口未开放	端口未开放
+yanzheng.cs.wanmei.com	221.228.74.159	80,443	nginx	80:正常访问
+xf.zhuxian2.wanmei.com	221.228.210.155	-	端口未开放	端口未开放
+ytxmz.bbs.wanmei.com	221.228.192.68	80,443	nginx	80:正常访问
+xh.sgcq.wanmei.com	221.228.210.155	-	端口未开放	端口未开放
+zhuxian.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+zhaopin.wanmei.com	124.243.240.68	80	nginx/1.10.2	80:(403) 已禁止
+zhuxian2.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+zx.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+zxsj.bbs.wanmei.com	221.228.192.68	80,443	nginx	80:正常访问
+zulong.wanmei.com	221.228.210.7	-	端口未开放	端口未开放
+i.wanmei.com	221.228.210.11	80,443	nginx	80:正常访问
+m.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:尝试自动重定向的次数太多
+u.wanmei.com	221.228.210.149	-	端口未开放	端口未开放
+news.wanmei.com	61.147.84.44	80,443	nginx	80:(403) 已禁止
+api.wanmei.com	221.228.210.80,221.228.210.81	80,443	nginx	80:(404) 未找到
+img.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:(403) 已禁止
+email.wanmei.com	118.145.0.4	80	Apache-Coyote/1.1	80:(403) 已禁止
+ai.wanmei.com	221.228.210.81,221.228.210.80	80,443	nginx	80:(403) 已禁止
+static.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:(403) 已禁止
+hot.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:(403) 已禁止
+comment.wanmei.com	221.228.74.247	80,443	nginx	80:正常访问
+log.wanmei.com	58.216.109.182,58.220.40.16	80,443	nginx	80:(404) 未找到
+openapi.wanmei.com	221.228.210.11	80,443	nginx	80:(403) 已禁止
+open.wanmei.com	211.100.255.15	-	端口未开放	端口未开放
+sec.wanmei.com	221.228.74.220	80	nginx	80:正常访问
+security.wanmei.com	221.228.74.220	80	nginx	80:正常访问
+public.wanmei.com	58.215.53.48	-	端口未开放	端口未开放
+photo.wanmei.com	221.228.74.250	80,443	nginx	80:正常访问
+monitor.wanmei.com	10.15.0.13	-	端口未开放	端口未开放
+al.wanmei.com	58.223.164.28,221.230.141.51	80,443	nginx	80:正常访问
+bi.wanmei.com	172.16.6.78	-	端口未开放	端口未开放
+ca.wanmei.com	168.160.224.81	80	Apache/1.3.34 (Unix)	80:正常访问
+meeting.wanmei.com	124.193.167.200	-	端口未开放	端口未开放
+zabbix.wanmei.com	10.14.1.64	-	端口未开放	端口未开放
+gs.wanmei.com	221.228.74.246	80,443	nginx	80:正常访问
+images.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:(403) 已禁止
+jobs.wanmei.com	124.243.240.68	80	nginx/1.10.2	80:正常访问
+live.wanmei.com	221.228.210.172	80,443	nginx	80:正常访问
+ns.wanmei.com	124.193.167.24	443	Apache	443:正常访问
+pub.wanmei.com	221.228.74.247	80,443	nginx	80:(403) 已禁止
+ntp.wanmei.com	221.228.210.135	-	端口未开放	端口未开放
+radio.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+pop.wanmei.com	124.193.167.254	-	端口未开放	端口未开放
+pw.wanmei.com	211.100.255.23	-	端口未开放	端口未开放
+sm.wanmei.com	221.228.74.247	80,443	nginx	80:正常访问
+support.wanmei.com	118.145.0.12	80	Apache-Coyote/1.1	80:(403) 已禁止
+switch.wanmei.com	221.228.74.250	80,443	nginx	80:(403) 已禁止
+smtp.wanmei.com	124.193.167.254	-	端口未开放	端口未开放
+3g.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:尝试自动重定向的次数太多
+world.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+vpn.wanmei.com	211.100.255.2	-	端口未开放	端口未开放
+study.wanmei.com	124.193.167.102	80	nginx/1.12.1	80:正常访问
+learn.wanmei.com	124.193.167.26	-	端口未开放	端口未开放
+invite.wanmei.com	118.145.7.204	80	Apache-Coyote/1.1	80:(403) 已禁止
+zero.wanmei.com	222.186.145.188,221.230.143.101	80,443	获取失败	80:-
+survey.wanmei.com	123.206.207.83	80	Apache	80:(401) 未经授权
+overseas.wanmei.com	58.215.101.242	-	端口未开放	端口未开放
+fans.wanmei.com	118.145.10.15	-	端口未开放	端口未开放
+173.wanmei.com	123.59.1.173	80,443	nginx	80:正常访问
+666.wanmei.com	221.228.74.247	80,443	nginx	80:正常访问
+analytics.wanmei.com	221.228.74.247	80,443	nginx	80:正常访问
+animation.wanmei.com	58.223.164.28,221.230.141.51	80,443	nginx	80:正常访问
+antispam.wanmei.com	221.228.210.81,221.228.210.80	80,443	nginx	80:(403) 已禁止
+cloudpic.wanmei.com	221.228.74.248	80,443	nginx	80:正常访问
+fabu.wanmei.com	172.31.2.30	-	端口未开放	端口未开放
+images1.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:(403) 已禁止
+jixiao.wanmei.com	172.16.10.18	-	端口未开放	端口未开放
+manager.shop.wanmei.com	58.215.101.245	-	端口未开放	端口未开放
+mobileoa.wanmei.com	60.247.79.71	-	端口未开放	端口未开放
+mx01.wanmei.com	124.193.167.31	-	端口未开放	端口未开放
+opendata.wanmei.com	123.59.99.248	80,443	nginx	80:正常访问
+pay1.wanmei.com	218.98.33.243	80	nginx/1.12.1	80:正常访问
+pay2.wanmei.com	61.152.110.246	-	端口未开放	端口未开放
+poker.wanmei.com	115.182.50.60	-	端口未开放	端口未开放
+sanguo.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+test.www.wanmei.com	221.228.74.247	80,443	nginx	80:(403) 已禁止
+svpn.wanmei.com	124.193.167.14	-	端口未开放	端口未开放
+wulin.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+xiyou.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+yeyou.wanmei.com	221.228.74.249	80,443	nginx	80:正常访问
+fx.wanmei.com	221.228.210.172	80,443	nginx	80:正常访问
+hj.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+wl.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+xq.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:(403) 已禁止
+hd.wanmei.com	172.23.254.12,58.215.101.165	-	端口未开放	端口未开放
+jf.wanmei.com	222.73.5.87	-	端口未开放	端口未开放
+zb.wanmei.com	221.228.210.155	-	端口未开放	端口未开放
+zk.wanmei.com	221.228.210.99	-	端口未开放	端口未开放
+cps.wanmei.com	121.9.244.130	-	端口未开放	端口未开放
+dfm.wanmei.com	60.247.79.68	-	端口未开放	端口未开放
+fxp.wanmei.com	124.193.167.22	-	端口未开放	端口未开放
+hob.wanmei.com	58.223.164.28,221.230.141.51	80,443	nginx	80:正常访问
+kof.wanmei.com	61.147.188.46	-	端口未开放	端口未开放
+mdm.wanmei.com	124.193.167.23	80,443	Apache-Coyote/1.1	80:(404) 未找到
+mtr.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+mcs.wanmei.com	221.228.74.218	-	端口未开放	端口未开放
+mec.wanmei.com	124.193.167.90	-	端口未开放	端口未开放
+pvp.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+sdo.wanmei.com	222.186.145.188,221.230.143.101	80,443	获取失败	80:-
+sdz.wanmei.com	221.230.143.101,222.186.145.188	80,443	获取失败	80:-
+sso.wanmei.com	58.215.52.170	-	端口未开放	端口未开放
+sns.wanmei.com	172.16.2.84	-	端口未开放	端口未开放
+xsg.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+xxa.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+bi2.wanmei.com	172.16.3.83	-	端口未开放	端口未开放
+ps4.wanmei.com	221.228.193.166	-	端口未开放	端口未开放
+sd0.wanmei.com	221.230.143.101,222.186.145.188	80,443	获取失败	80:-
+x3g.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+csgo.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+cszc.wanmei.com	221.228.74.247	80,443	nginx	80:正常访问
+ggtj.wanmei.com	58.215.82.163	-	端口未开放	端口未开放
+hczy.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+iweb.wanmei.com	172.31.2.30	-	端口未开放	端口未开放
+kdxy.wanmei.com	221.230.143.101,222.186.145.188	80,443	nginx	80:正常访问
+ledo.wanmei.com	221.228.74.247	80,443	nginx	80:正常访问
+ldhd.wanmei.com	61.147.188.45	-	端口未开放	端口未开放
+mtds.wanmei.com	118.145.10.13	-	端口未开放	端口未开放
+rewu.wanmei.com	221.228.74.247	80,443	nginx	80:正常访问
+sdol.wanmei.com	222.186.145.188,221.230.143.101	80,443	获取失败	80:-
+shmh.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+w2i1.wanmei.com	61.155.47.189	-	端口未开放	端口未开放
+wlwz.wanmei.com	221.228.74.247	80,443	nginx	80:正常访问
+xzqy.wanmei.com	115.182.50.60	-	端口未开放	端口未开放
+zxsj.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+zzhx.wanmei.com	222.186.145.188,221.230.143.101	80,443	nginx	80:正常访问
+bbs.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+bbs.sgsj.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+bbs.seiya.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+bbs.sdxl.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+bbs.sgcq.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+bbs.w2i.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+bbs.world2.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+bbs.sg.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+bbs.wulin2.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+bbs.zhuxian.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+sd.wanmei.com	222.186.145.188,221.230.143.101	80,443	获取失败	80:-
+bbs.xa.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+bbs.rwpd.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+kdxy.bbs.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+mhzx2.bbs.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+shenmo.bbs.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+hy.zhuxian.wanmei.com	221.228.74.250	80,443	获取失败	80:-
+sg.bbs.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+sdxl.bbs.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+zzbq.bbs.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+hex.bbs.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+w2i.bbs.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+xa.bbs.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+zhuxian.bbs.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+sd.bbs.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+nw.bbs.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+xiaoao.wanmei.com	222.186.145.188,221.230.143.101	80,443	获取失败	80:-
+yt.wanmei.com	221.228.74.210	80,443	获取失败	80:-
+uw.wanmei.com	221.230.143.101,222.186.145.188	80,443	获取失败	80:-
+wd.wanmei.com	222.186.145.188,221.230.143.101	80,443	获取失败	80:-
+xa.wanmei.com	58.221.28.166,221.229.202.27	80,443	获取失败	80:-
+zx3.wanmei.com	221.230.143.101,222.186.145.188	80,443	获取失败	80:-
+zhuxian3.wanmei.com	221.230.143.101,222.186.145.188	80,443	获取失败	80:-
+www.wanmei.com	221.230.143.101,222.186.145.188	80,443	获取失败	80:-
+zzbq.wanmei.com	222.186.145.188,221.230.143.101	80,443	获取失败	80:-
+seiya.bbs.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+sgsj.bbs.wanmei.com	221.228.192.68	80,443	获取失败	80:-
+nw.wanmei.com	221.228.74.247	80,443	获取失败	80:-
+luntan.wanmei.com	221.228.192.68	80,443	获取失败	80:-

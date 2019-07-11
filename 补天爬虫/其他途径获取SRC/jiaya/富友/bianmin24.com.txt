@@ -1,0 +1,4 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+www.bianmin24.com	211.147.68.196	80	Apache-Coyote/1.1	80:正常访问
+openvpn.bianmin24.com	249.129.46.48	-	端口未开放	端口未开放
+openvpn.bjbgp.bianmin24.com	197.4.4.12	-	端口未开放	端口未开放

@@ -1,0 +1,22 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+m.youpin.mi.com	118.26.252.118,117.48.116.110	80,443	Tengine	80:正常访问
+app.youpin.mi.com	118.26.252.154,203.100.92.94	80,443	Tengine	80:正常访问
+openapi.youpin.mi.com	117.48.116.47	80,443	Tengine/2.1.2	80:正常访问
+api.youpin.mi.com	118.26.252.119,117.48.116.111	443	Tengine	443:正常访问
+o.youpin.mi.com	10.108.238.158	-	端口未开放	端口未开放
+open.youpin.mi.com	203.100.92.185	80,443	Tengine/2.1.2	80:(403) 已禁止
+admin.youpin.mi.com	117.48.116.63,118.26.252.95	80,443	Server/2.2.2	80:正常访问
+log.youpin.mi.com	118.26.252.129,117.48.116.124	443	Tengine	443:正常访问
+data.youpin.mi.com	117.48.116.61	80,443	Tengine/2.1.2	80:(404) 未找到
+ts.youpin.mi.com	203.100.93.102	80,443	Server/2.2.3	80:正常访问
+st.youpin.mi.com	10.36.126.126	-	端口未开放	端口未开放
+merchant.youpin.mi.com	117.48.116.63,118.26.252.95	80,443	Server/2.2.2	80:正常访问
+cooperation.youpin.mi.com	117.48.116.29	80,443	获取失败	80:-
+qiye.youpin.mi.com	117.48.116.12	80,443	Server/2.2.2	80:正常访问
+yunying.youpin.mi.com	203.100.92.39	80,443	Server/2.2.3	80:正常访问
+zhaoshang.youpin.mi.com	117.48.116.29	80,443	Server/2.2.2	80:正常访问
+hd.youpin.mi.com	218.14.200.84,113.104.14.229	80,443	Tengine	80:(404) 未找到
+cps.youpin.mi.com	118.26.252.133	80,443	Server/2.2.2	80:(404) 未找到
+dms.youpin.mi.com	117.48.116.84	443	Server	443:(403) 已禁止
+jds.youpin.mi.com	116.196.93.246	80,443	nginx/1.14.0	80:正常访问
+gdpr.youpin.mi.com	120.92.96.189	443	Tengine	443:(404) 未找到

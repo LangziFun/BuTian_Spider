@@ -1,0 +1,3 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+www.suningholdings.com	163.171.130.132	-	端口未开放	端口未开放
+bonds.suningholdings.com	163.171.130.132	80	styx	80:(405) 不允许的方法

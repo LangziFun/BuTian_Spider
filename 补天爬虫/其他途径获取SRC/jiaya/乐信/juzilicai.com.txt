@@ -1,0 +1,20 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+action.juzilicai.com	134.175.253.169	80,443	Tengine	80:正常访问
+www.juzilicai.com	118.126.92.215	80,443	Tengine	80:正常访问
+mail.juzilicai.com	58.67.214.172	-	端口未开放	端口未开放
+err.juzilicai.com	123.207.111.167,193.112.28.12	80,443	Tengine	80:正常访问
+pay.juzilicai.com	118.89.49.161,118.89.30.159	80,443	Tengine	80:(502) 错误的网关
+payment.juzilicai.com	58.67.214.151	-	端口未开放	端口未开放
+oa.juzilicai.com	123.207.111.167	80,443	Tengine	80:正常访问
+cm.juzilicai.com	27.221.54.19,113.200.16.31,113.200.16.30,218.11.8.104,27.221.54.20,113.200.16.27,113.200.16.32,27.221.54.22,121.29.54.65,119.6.229.101,221.204.166.38,221.204.166.22,27.221.54.21,221.204.166.20	80,443	Tengine	80:正常访问
+zabbix.juzilicai.com	10.1.52.60	-	端口未开放	端口未开放
+fm.juzilicai.com	134.175.253.169	80,443	Tengine	80:正常访问
+fw.juzilicai.com	118.89.49.161,118.89.30.159	80,443	Tengine	80:正常访问
+node.juzilicai.com	123.207.111.167,193.112.28.12	80,443	Tengine	80:正常访问
+res.juzilicai.com	123.207.111.167,193.112.28.12	80,443	Tengine	80:正常访问
+m2.juzilicai.com	134.175.253.169	80,443	Tengine	80:正常访问
+rm.juzilicai.com	115.159.189.222,123.206.22.43	80	Tengine	80:正常访问
+openvpn.juzilicai.com	54.76.135.1	-	端口未开放	端口未开放
+openvpn.bjbgp.juzilicai.com	197.4.4.12	-	端口未开放	端口未开放
+res2.juzilicai.com	118.126.92.215	80,443	Tengine	80:正常访问
+jzbx.juzilicai.com	10.1.52.60	-	端口未开放	端口未开放

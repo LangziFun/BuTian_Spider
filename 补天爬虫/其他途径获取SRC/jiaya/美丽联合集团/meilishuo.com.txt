@@ -1,0 +1,23 @@
+﻿域名	解析IP	开放端口	WEB服务器	网站状态
+m.higo.meilishuo.com	115.182.203.3	80,443	nginx	80:(404) 未找到
+mail.meilishuo.com	59.37.96.29,14.17.42.118	80,443		80:正常访问
+smtp.meilishuo.com	14.17.57.217,113.96.232.106	80,443	nginx/1.8.1	80:(403) 已禁止
+api.meilishuo.com	211.159.246.154	80,443	Tengine/2.1.2	80:正常访问
+p.meilishuo.com	124.202.144.20	-	端口未开放	端口未开放
+shop.biz.meilishuo.com	124.202.144.242	-	端口未开放	端口未开放
+wap.meilishuo.com	115.182.203.251	-	端口未开放	端口未开放
+email.meilishuo.com	221.228.216.122	-	端口未开放	端口未开放
+pop.meilishuo.com	14.17.57.217,113.96.232.106	80,443	获取失败	80:-
+home.meilishuo.com	115.182.203.242	-	端口未开放	端口未开放
+imap.meilishuo.com	113.96.209.109,113.96.232.106,14.17.57.217	-	端口未开放	端口未开放
+security.meilishuo.com	61.147.182.27	-	端口未开放	端口未开放
+localhost.meilishuo.com	127.0.0.1	-	端口未开放	端口未开放
+apple.meilishuo.com	124.202.144.20	-	端口未开放	端口未开放
+md.meilishuo.com	122.11.43.163	-	端口未开放	端口未开放
+wmail.meilishuo.com	115.182.202.251	-	端口未开放	端口未开放
+gg.meilishuo.com	8.8.8.8	-	端口未开放	端口未开放
+sense.meilishuo.com	115.182.203.252	-	端口未开放	端口未开放
+legacymail.meilishuo.com	124.202.144.18	-	端口未开放	端口未开放
+devapi.meilishuo.com	212.64.116.148	80,443	Tengine/2.1.2	80:正常访问
+manyi.meilishuo.com	42.121.103.17	-	端口未开放	端口未开放
+mdlab.meilishuo.com	115.182.203.238	-	端口未开放	端口未开放

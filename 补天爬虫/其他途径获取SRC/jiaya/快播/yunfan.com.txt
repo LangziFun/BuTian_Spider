@@ -1,0 +1,75 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+beta.yunfan.com	121.201.99.29	80,443	nginx	80:正常访问
+gm.yunfan.com	115.231.216.12	80,443	nginx	80:正常访问
+ds.yunfan.com	115.231.216.12	80,443	nginx	80:正常访问
+dy.yunfan.com	115.231.216.12	80,443	nginx	80:正常访问
+dm.yunfan.com	115.231.216.12	80,443	nginx	80:正常访问
+dianying.yunfan.com	115.231.216.12	80,443	nginx	80:正常访问
+dianshi.yunfan.com	115.231.216.12	80,443	nginx	80:正常访问
+m.yunfan.com	183.136.236.20	80,443	nginx	80:正常访问
+minisite.yunfan.com	115.231.216.12,115.231.216.11	80,443	nginx	80:正常访问
+jiaoyi.yunfan.com	121.201.99.12	80,443	nginx	80:正常访问
+s.yunfan.com	183.129.216.34,183.129.216.36,183.129.216.37,183.129.216.35,183.134.68.155,183.134.68.154,183.134.68.156,222.186.170.172,222.186.170.171,183.134.68.153,183.134.68.185,183.134.68.184	80,443	YunFanCDN	80:(403) 已禁止
+tv.yunfan.com	183.136.236.20	80,443	nginx	80:正常访问
+v.yunfan.com	183.136.236.20	80,443	nginx	80:正常访问
+mango.yunfan.com	219.137.170.229,125.89.198.81,121.11.81.164,183.61.26.225	80,443	nginx	80:正常访问
+toutiao.yunfan.com	183.136.236.13	80,443	gunicorn/18.0	80:正常访问
+www.yunfan.com	121.201.99.29	80,443	nginx	80:正常访问
+yingku.yunfan.com	115.231.216.12	80,443	nginx	80:正常访问
+zy.yunfan.com	115.231.216.12	80,443	nginx	80:正常访问
+tech.yunfan.com	115.231.216.12	80,443	nginx	80:正常访问
+e.yunfan.com	183.60.41.119	80,443	gunicorn/18.0	80:(404) 未找到
+p.yunfan.com	14.17.110.23	80,443	nginx	80:正常访问
+mm.yunfan.com	183.136.130.70	-	端口未开放	端口未开放
+mail.yunfan.com	220.181.72.229	80,443	nginx	80:正常访问
+ext.yunfan.com	183.136.236.11	-	端口未开放	端口未开放
+img.yunfan.com	115.231.216.12,115.231.216.11	80,443	nginx	80:正常访问
+demo.yunfan.com	115.231.216.12	80,443	nginx	80:正常访问
+mini.yunfan.com	115.231.216.12,115.231.216.11	80,443	nginx	80:正常访问
+error.yunfan.com	115.231.216.12	80,443	nginx	80:正常访问
+api.yunfan.com	118.25.87.144	80	nginx	80:(404) 未找到
+bbs.yunfan.com	183.60.41.17	80,443	nginx	80:正常访问
+ip.yunfan.com	183.136.236.20	80,443	nginx	80:正常访问
+static.yunfan.com	121.201.99.28	80	nginx	80:(403) 已禁止
+w4.yunfan.com	112.90.60.216	-	端口未开放	端口未开放
+video.yunfan.com	115.231.216.12	80,443	获取失败	80:-
+passport.yunfan.com	121.201.99.27	80,443	TornadoServer/4.2.1	80:(405) 不允许的方法
+manage.yunfan.com	183.136.236.20	80,443	nginx	80:(403) 已禁止
+account.yunfan.com	121.201.99.27	80,443	TornadoServer/4.2.1	80:(405) 不允许的方法
+update.yunfan.com	115.231.216.12	80,443	nginx	80:正常访问
+pay.yunfan.com	121.201.99.27	80,443	nginx	80:正常访问
+dl.yunfan.com	115.231.216.12,115.231.216.11	80,443	nginx	80:正常访问
+agent.yunfan.com	115.231.216.25,115.231.216.24	80,443	nginx	80:(500) 内部服务器错误
+cache.yunfan.com	14.17.102.27	80,443	nginx/1.13.9	80:(403) 已禁止
+test.yunfan.com	14.17.110.29	-	端口未开放	端口未开放
+auth.yunfan.com	115.236.73.238	80	nginx/1.12.2	80:正常访问
+oa.yunfan.com	175.6.0.94	-	端口未开放	端口未开放
+chat.yunfan.com	183.60.41.122	-	端口未开放	端口未开放
+zabbix.yunfan.com	14.17.110.6	-	端口未开放	端口未开放
+dev.yunfan.com	183.60.41.26	-	端口未开放	端口未开放
+pop.yunfan.com	123.125.50.215	80,443	nginx	80:(403) 已禁止
+smtp.yunfan.com	220.181.97.150,220.181.97.157,220.181.97.89,220.181.97.88	-	端口未开放	端口未开放
+ops.yunfan.com	120.26.209.49	-	端口未开放	端口未开放
+3g.yunfan.com	183.136.130.69	-	端口未开放	端口未开放
+xml.yunfan.com	115.231.216.12,115.231.216.11	80,443	nginx	80:(403) 已禁止
+sdk.yunfan.com	183.134.68.155,183.134.68.154,183.134.68.156,222.186.170.172,222.186.170.171,183.134.68.153,183.134.68.185,183.134.68.184,183.129.216.34,183.129.216.36,183.129.216.37,183.129.216.35	80,443	YunFanCDN	80:(403) 已禁止
+cloud.yunfan.com	115.231.216.3	-	端口未开放	端口未开放
+track.yunfan.com	115.159.184.70	-	端口未开放	端口未开放
+imessage.yunfan.com	183.136.236.3	80	nginx	80:(500) 内部服务器错误
+ifeng.yunfan.com	175.6.0.38	-	端口未开放	端口未开放
+snapshot.yunfan.com	115.231.216.8	80,443	openresty/1.9.3.1	80:(403) 已禁止
+statis.yunfan.com	115.231.216.21	80	nginx/1.2.1	80:(404) 未找到
+yinyuetai.yunfan.com	183.47.221.35,183.47.221.37	80,443	YunFanCDN	80:(403) 已禁止
+wx.yunfan.com	121.201.99.27,121.201.99.12	80,443	nginx	80:正常访问
+cal.yunfan.com	183.60.41.119	80,443	gunicorn/18.0	80:正常访问
+yunwei.yunfan.com	103.235.234.7	-	端口未开放	端口未开放
+bgp.yunfan.com	103.243.252.20	-	端口未开放	端口未开放
+gz.yunfan.com	222.87.128.48	-	端口未开放	端口未开放
+pri.yunfan.com	183.60.41.22	80	nginx	80:(403) 已禁止
+sml.yunfan.com	121.201.99.28	80	nginx	80:(500) 内部服务器错误
+yop.yunfan.com	14.17.110.6	-	端口未开放	端口未开放
+al01.yunfan.com	139.196.18.137	-	端口未开放	端口未开放
+bgp5.yunfan.com	114.67.62.5	80	Apache/2.2.15 (CentOS)	80:(403) 已禁止
+topv.yunfan.com	183.136.236.9	80,443	nginx	80:正常访问
+txdb.yunfan.com	172.17.0.48,172.17.0.35	-	端口未开放	端口未开放
+yfex.yunfan.com	54.223.21.250	443	获取失败	443:-

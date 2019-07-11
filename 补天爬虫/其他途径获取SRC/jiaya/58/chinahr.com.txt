@@ -1,0 +1,103 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+161.campus.chinahr.com	115.159.231.213	80,443	Tengine	80:(404) 未找到
+360campus.chinahr.com	115.159.231.213	80,443	Tengine	80:(502) 错误的网关
+611.campus.chinahr.com	115.159.231.213	80,443	Tengine	80:(404) 未找到
+ad.chinahr.com	115.159.231.213	80,443	Tengine	80:(404) 未找到
+atc.chinahr.com	115.159.231.213	80,443	Tengine	80:(404) 未找到
+alipay.campus.chinahr.com	115.159.231.213	80,443	Tengine	80:(404) 未找到
+bluestartbbs.campus.chinahr.com	115.159.231.213	80,443	Tengine	80:(404) 未找到
+cama.campus.chinahr.com	115.159.231.213	80,443	Tengine	80:(404) 未找到
+campus.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+bjrcb.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+cnnc.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+content.chinahr.com	115.159.231.213	80,443	Tengine	80:(404) 未找到
+campusys.chinahr.com	115.159.231.213	80,443	Tengine	80:(502) 错误的网关
+campusys2010.chinahr.com	115.159.231.213	80,443	Tengine	80:(502) 错误的网关
+331.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+132.campus.chinahr.com	115.159.231.213	80,443	Microsoft-IIS/7.5	80:正常访问
+enterprise.chinahr.com	115.159.231.213	80,443	Tengine	80:(502) 错误的网关
+image.chinahr.com	121.10.121.123,125.89.198.81,183.61.26.225,121.11.81.164	80,443	Tengine	80:正常访问
+imgs.chinahr.com	121.10.121.123,121.11.81.164,125.89.198.81,183.61.26.225	80,443	Tengine	80:正常访问
+bo.chinahr.com	115.159.231.213	80,443	Tengine	80:(403) 已禁止
+op.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+user.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+m.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+www.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+jinzhoubank.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+app.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+api.chinahr.com	10.126.72.13	-	端口未开放	端口未开放
+static.chinahr.com	125.89.198.81,219.137.170.229,183.61.26.225,121.11.81.164	80,443	Tengine	80:(403) 已禁止
+open.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+my.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+passport.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+download.chinahr.com	125.89.198.81,121.11.81.164,183.61.26.225,121.10.121.123	80,443	Tengine	80:正常访问
+adm.chinahr.com	115.159.231.213	80,443	Tengine	80:(404) 未找到
+discuss.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+research.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+st.chinahr.com	183.61.26.225,121.11.81.164,125.89.198.81,121.10.121.123	80,443	获取失败	80:-
+webmail.chinahr.com	36.110.51.107	-	端口未开放	端口未开放
+suggest.chinahr.com	115.159.231.213	80,443	Tengine	80:(502) 错误的网关
+event.chinahr.com	115.159.231.213	80,443	Tengine	80:(502) 错误的网关
+track.chinahr.com	115.159.231.213	80,443	Tengine	80:(502) 错误的网关
+credit.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+sorry.chinahr.com	117.121.30.39	-	端口未开放	端口未开放
+talent.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+adsys.chinahr.com	115.159.231.213	80,443	Tengine	80:(403) 已禁止
+bigdata.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+ceping.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+exam.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+hbyd.chinahr.com	115.159.231.213	80,443	Tengine	80:(405) 不允许的方法
+hezuo.chinahr.com	115.159.231.213	80,443	Tengine	80:(403) 已禁止
+shuo.chinahr.com	115.159.231.213	80,443	Tengine	80:(502) 错误的网关
+static2.chinahr.com	125.89.198.81,219.137.170.229,183.61.26.225,121.11.81.164	80,443	Tengine	80:(403) 已禁止
+static4.chinahr.com	125.89.198.81,183.61.26.225,219.137.170.229,121.11.81.164	80,443	Tengine	80:(403) 已禁止
+static1.chinahr.com	219.137.170.229,183.61.26.225,121.11.81.164,125.89.198.81	80,443	Tengine	80:(403) 已禁止
+static3.chinahr.com	183.61.26.225,121.11.81.164,219.137.170.229,125.89.198.81	80,443	Tengine	80:(403) 已禁止
+static6.chinahr.com	121.11.81.164,183.61.26.225,219.137.170.229,125.89.198.81	80,443	Tengine	80:正常访问
+wechat.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+xiaoyu.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+xiaoyuan.chinahr.com	115.159.231.213	80,443	Tengine	80:(404) 未找到
+wiki.corp.chinahr.com	10.126.72.13	-	端口未开放	端口未开放
+hd.chinahr.com	115.159.231.213	80,443	Tengine	80:(502) 错误的网关
+qy.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+wx.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+ats.chinahr.com	115.159.231.213	80,443	Tengine	80:(502) 错误的网关
+bgw.chinahr.com	115.159.231.213	80,443	Tengine	80:(404) 未找到
+bms.chinahr.com	115.159.231.213	80,443	Tengine	80:(403) 已禁止
+cmp.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+dfl.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+etm.chinahr.com	115.159.231.213	80,443	Tengine	80:(502) 错误的网关
+hxdi.campus.chinahr.com	115.159.231.213	80,443	Tengine	80:(404) 未找到
+genpact.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+mym.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+rms.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+rpo.chinahr.com	115.159.231.213	80,443	Tengine	80:(502) 错误的网关
+sos.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+ambs.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+bjtj.chinahr.com	115.159.231.213	80,443	Tengine	80:(502) 错误的网关
+caky.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+cczq.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+gzht.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+hjsx.chinahr.com	115.159.231.213	80,443	Tengine	80:(502) 错误的网关
+qywx.chinahr.com	115.159.231.213	80,443	Tengine	80:(502) 错误的网关
+sj11.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+wezp.chinahr.com	115.159.231.213	80,443	获取失败	80:-
+zgtf.chinahr.com	115.159.231.213	80,443	Tengine	80:正常访问
+search.chinahr.com	115.159.231.213	80,443	获取失败	80:-
+cpgc.chinahr.com	115.159.231.213	80,443	获取失败	80:-
+recruit.chinahr.com	115.159.231.213	80,443	获取失败	80:-
+hundsun.campus.chinahr.com	115.159.231.213	80,443	获取失败	80:-
+hpe.chinahr.com	115.159.231.213	80,443	获取失败	80:-
+moen.chinahr.com	115.159.231.213	80,443	获取失败	80:-
+cnpe.chinahr.com	115.159.231.213	80,443	获取失败	80:-
+webapp.chinahr.com	115.159.231.213	80,443	获取失败	80:-
+icbczj.campus.chinahr.com	115.159.231.213	80,443	获取失败	80:-
+58.chinahr.com	115.159.231.213	80,443	获取失败	80:-
+hp.campus.chinahr.com	115.159.231.213	80,443	获取失败	80:-
+pvh.chinahr.com	115.159.231.213	80,443	获取失败	80:-
+njust.campus.chinahr.com	115.159.231.213	80,443	获取失败	80:-
+h3c.campus.chinahr.com	115.159.231.213	80,443	获取失败	80:-
+gmmc.chinahr.com	115.159.231.213	80,443	获取失败	80:-
+myyh.chinahr.com	115.159.231.213	80,443	获取失败	80:-
+cdht.chinahr.com	115.159.231.213	80,443	获取失败	80:-
+jtzf.chinahr.com	115.159.231.213	80,443	获取失败	80:-

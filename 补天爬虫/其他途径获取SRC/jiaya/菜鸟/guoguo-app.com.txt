@@ -1,0 +1,7 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+www.guoguo-app.com	140.205.59.104,140.205.59.95,140.205.59.96,140.205.59.105	80,443	Tengine	80:正常访问
+wap.guoguo-app.com	121.11.0.225	80,443	Tengine	80:正常访问
+m.guoguo-app.com	183.61.180.208	80,443	Tengine	80:正常访问
+api.guoguo-app.com	106.11.52.98	80,443	nginx	80:(502) 错误的网关
+test.guoguo-app.com	1.1.1.1	80,443	cloudflare	80:(409) 冲突
+pass.guoguo-app.com	203.119.217.1	80	Tengine/Aserver	80:(404) 未找到

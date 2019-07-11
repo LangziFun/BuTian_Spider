@@ -1,0 +1,7 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+www.hengchangcn.com	58.211.137.116	80,443	yunjiasu-nginx	80:正常访问
+mail.hengchangcn.com	58.221.79.15	80,443	nginx	80:正常访问
+imap.hengchangcn.com	58.221.79.55	-	端口未开放	端口未开放
+pop.hengchangcn.com	58.221.79.58	-	端口未开放	端口未开放
+smtp.hengchangcn.com	58.221.79.59	-	端口未开放	端口未开放
+webmail.hengchangcn.com	58.221.79.15	80,443	nginx	80:正常访问

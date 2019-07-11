@@ -1,0 +1,23 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+www.zhuanzhuan.com	115.159.231.71	80,443	Tengine	80:正常访问
+m.zhuanzhuan.com	115.159.231.71	80,443	Tengine	80:正常访问
+i.zhuanzhuan.com	115.159.231.71	80,443	Tengine	80:正常访问
+0.zhuanzhuan.com	115.159.231.71	80,443	Tengine	80:正常访问
+mail.zhuanzhuan.com	183.3.235.87	80,443		80:正常访问
+img1.zhuanzhuan.com	115.159.231.87	80,443	Tengine	80:正常访问
+open.zhuanzhuan.com	115.159.231.71	80,443	Tengine	80:正常访问
+download.zhuanzhuan.com	115.159.231.71	80,443	Tengine	80:正常访问
+push.zhuanzhuan.com	115.159.231.71	80,443	Tengine	80:(404) 未找到
+pay.zhuanzhuan.com	115.159.231.71	80,443	Tengine	80:正常访问
+im.zhuanzhuan.com	115.159.231.23	80,443	获取失败	80:-
+spider.zhuanzhuan.com	115.159.231.71	80,443	Tengine	80:(404) 未找到
+8.zhuanzhuan.com	115.159.231.71	80,443	Tengine	80:正常访问
+operation.zhuanzhuan.com	115.159.231.71	80,443	Tengine	80:正常访问
+jump.zhuanzhuan.com	115.159.231.71	80,443	Tengine	80:正常访问
+appeal.zhuanzhuan.com	115.159.231.71	80,443	Tengine	80:正常访问
+item.zhuanzhuan.com	115.159.231.71	80,443	Tengine	80:(404) 未找到
+sentry.zhuanzhuan.com	115.159.231.71	80,443	获取失败	80:-
+youpin.zhuanzhuan.com	115.159.231.79	80,443	Tengine	80:(508)
+wx.zhuanzhuan.com	115.159.231.71	80,443	Tengine	80:正常访问
+dsyy.zhuanzhuan.com	115.159.231.71	80,443	Tengine	80:(404) 未找到
+wbyy.zhuanzhuan.com	115.159.231.71	80,443	Tengine	80:正常访问

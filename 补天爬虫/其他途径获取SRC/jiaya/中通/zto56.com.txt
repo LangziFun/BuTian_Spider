@@ -1,0 +1,10 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+www.zto56.com	122.225.117.250	443	AmazonS3AmazonS3	443:正常访问
+crm.zto56.com	122.225.117.250	443	AmazonS3AmazonS3	443:正常访问
+openvpn.zto56.com	54.76.135.1	-	端口未开放	端口未开放
+openvpn.bjbgp.zto56.com	23.89.5.60	80	获取失败	80:-
+qy.zto56.com	122.225.117.250	443	AmazonS3AmazonS3	443:正常访问
+vfs.zto56.com	122.225.117.250	443	AmazonS3AmazonS3	443:正常访问
+bdcp.zto56.com	122.225.117.250	443	AmazonS3AmazonS3	443:正常访问
+qydl.zto56.com	122.225.117.250	443	AmazonS3AmazonS3	443:正常访问
+qyyu.zto56.com	122.225.117.250	443	AmazonS3AmazonS3	443:正常访问

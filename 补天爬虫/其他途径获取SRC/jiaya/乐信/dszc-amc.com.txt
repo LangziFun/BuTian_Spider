@@ -1,0 +1,12 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+openapi.dszc-amc.com	123.207.26.137,115.159.51.201	80,443	Tengine	80:(404) 未找到
+manage.dszc-amc.com	115.159.51.201,123.207.26.137	80,443	Tengine	80:(404) 未找到
+share.dszc-amc.com	121.46.128.28	80,443	Tengine	80:(502) 错误的网关
+clear.dszc-amc.com	123.207.3.80,139.199.35.26	80,443	Tengine	80:(403) 已禁止
+data.dszc-amc.com	139.199.35.26,123.207.3.80	80,443	Tengine	80:正常访问
+smtp.dszc-amc.com	205.204.101.152	80,443	获取失败	80:-
+task.dszc-amc.com	10.11.13.99,10.11.13.98	-	端口未开放	端口未开放
+score.dszc-amc.com	10.11.13.98,10.11.13.99	-	端口未开放	端口未开放
+openvpn.dszc-amc.com	253.157.14.165	-	端口未开放	端口未开放
+openvpn.bjbgp.dszc-amc.com	249.129.46.48	-	端口未开放	端口未开放
+spv.dszc-amc.com	123.207.26.137,115.159.51.201	80,443	Tengine	80:正常访问

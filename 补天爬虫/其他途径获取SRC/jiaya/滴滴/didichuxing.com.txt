@@ -1,0 +1,18 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+www.didichuxing.com	117.51.1.4,117.51.1.5	80,443	-	80:(500) 内部服务器错误
+mall.didichuxing.com	117.51.128.5	80,443	Kylin/0.10.3	80:(404) 未找到
+mail1.didichuxing.com	111.202.154.82	80,443	Microsoft-IIS/8.5	80:(440) Login Timeout
+mail.didichuxing.com	111.202.154.82,36.110.17.22	80,443	Microsoft-IIS/8.5	80:(440) Login Timeout
+developer.didichuxing.com	116.85.2.15,116.85.2.14	80,443	nginx/1.6.2	80:正常访问
+hr.didichuxing.com	172.20.2.72	-	端口未开放	端口未开放
+message.didichuxing.com	123.207.209.48,123.207.209.46,123.207.209.47	80,443		80:正常访问
+es.didichuxing.com	116.85.3.12,116.85.3.13	80,443	Tengine/2.1.0	80:正常访问
+fm.didichuxing.com	111.202.154.112	80,443	Tengine/2.1.0	80:正常访问
+intern.didichuxing.com	116.85.3.20,116.85.3.19	80,443	nginx/1.12.2	80:正常访问
+mail2.didichuxing.com	36.110.17.22	80,443	Microsoft-IIS/8.5	80:(440) Login Timeout
+spam.didichuxing.com	111.202.154.82,36.110.17.22	80,443	Microsoft-IIS/8.5	80:(440) Login Timeout
+syslog.didichuxing.com	10.93.38.42	-	端口未开放	端口未开放
+mx2.didichuxing.com	36.110.17.22	80,443	Microsoft-IIS/8.5	80:(440) Login Timeout
+meet.didichuxing.com	36.110.17.23,111.202.154.75	-	端口未开放	端口未开放
+pj.didichuxing.com	116.85.3.20,116.85.3.19	80,443	-	80:(404) 未找到
+ehr.didichuxing.com	172.20.2.70	-	端口未开放	端口未开放

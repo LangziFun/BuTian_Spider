@@ -1,0 +1,73 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+shop.fenqile.com	119.29.49.163	80,443	Tengine	80:正常访问
+sale.fenqile.com	119.29.49.163	80,443	Tengine	80:正常访问
+www.fenqile.com	119.29.49.163	80,443	Tengine	80:正常访问
+mall.fenqile.com	119.29.49.163	80,443	Tengine	80:正常访问
+item.fenqile.com	119.29.49.163	80,443	Tengine	80:(404) 未找到
+m.fenqile.com	119.29.49.163	80,443	Tengine	80:(500) 内部服务器错误
+b.fenqile.com	115.159.189.222,123.206.22.43	443	Tengine	443:正常访问
+e.fenqile.com	115.159.189.222,123.206.22.43	443	Tengine	443:正常访问
+r.fenqile.com	139.199.203.124,139.199.153.124	80,443	Tengine	80:正常访问
+srm.fenqile.com	115.159.189.222,123.206.22.43	443	Tengine	443:正常访问
+help.fenqile.com	119.29.49.163	80,443	Tengine	80:正常访问
+api.fenqile.com	119.29.49.161	443	Tengine	443:正常访问
+img.fenqile.com	121.46.128.13	80,443	Tengine	80:正常访问
+img1.fenqile.com	121.46.128.13	80,443	Tengine	80:正常访问
+mail.fenqile.com	58.67.223.70	443	Tengine	443:正常访问
+static.fenqile.com	121.46.128.13	80,443	Tengine	80:正常访问
+err.fenqile.com	119.29.49.163	80,443	Tengine	80:正常访问
+union.fenqile.com	115.159.189.222,123.206.22.43	443	Tengine	443:正常访问
+buy.fenqile.com	119.29.49.163	80,443	Tengine	80:(404) 未找到
+openapi.fenqile.com	119.29.157.20,139.199.205.173	80,443	Tengine	80:正常访问
+report.fenqile.com	123.207.66.151	-	端口未开放	端口未开放
+passport.fenqile.com	111.230.161.171,134.175.158.120	80,443	Tengine	80:正常访问
+admin.fenqile.com	115.159.189.222,123.206.22.43	443	Tengine	443:正常访问
+product.fenqile.com	10.1.48.13	-	端口未开放	端口未开放
+pay.fenqile.com	119.29.42.120	80,443	Tengine	80:正常访问
+wiki.fenqile.com	10.1.52.60,10.1.52.61	-	端口未开放	端口未开放
+oa.fenqile.com	115.159.189.222,123.206.22.43	443	Tengine	443:正常访问
+biz.fenqile.com	123.206.22.43,115.159.189.222	80,443	Tengine	80:正常访问
+chat.fenqile.com	119.29.49.161	443	Tengine	443:正常访问
+channel.fenqile.com	119.29.49.163	80,443	Tengine	80:(404) 未找到
+auth.fenqile.com	123.206.22.43,115.159.189.222	80,443	Tengine	80:正常访问
+cs.fenqile.com	123.206.22.43,115.159.189.222	80,443	Tengine	80:(403) 已禁止
+dev.fenqile.com	10.1.48.186	-	端口未开放	端口未开放
+fm.fenqile.com	119.29.49.163	80,443	Tengine	80:正常访问
+fw.fenqile.com	119.29.157.20,139.199.205.173	80,443	Tengine	80:正常访问
+home.fenqile.com	119.29.42.120	80,443	Tengine	80:(404) 未找到
+pages.fenqile.com	119.29.42.120	80,443	Tengine	80:正常访问
+order.fenqile.com	119.29.49.161	443	Tengine	443:正常访问
+rcs.fenqile.com	119.29.49.163	80,443	Tengine	80:正常访问
+support.fenqile.com	119.29.49.161	443	Tengine	443:正常访问
+job.fenqile.com	123.206.22.43,115.159.189.222	80,443	Tengine	80:正常访问
+action.fenqile.com	115.159.189.222,123.206.22.43	443	Tengine	443:正常访问
+cloud.fenqile.com	192.168.23.230	-	端口未开放	端口未开放
+supply.fenqile.com	119.29.49.163	80,443	Tengine	80:正常访问
+loan.fenqile.com	119.29.49.161	443	Tengine	443:正常访问
+merchant.fenqile.com	123.206.22.43,115.159.189.222	80,443	Tengine	80:正常访问
+credit.fenqile.com	123.206.22.43,115.159.189.222	80,443	Tengine	80:正常访问
+fund.fenqile.com	123.206.22.43,115.159.189.222	80,443	Tengine	80:正常访问
+cash.fenqile.com	119.29.49.161	443	Tengine	443:(404) 未找到
+webmail.fenqile.com	58.67.223.70	443	获取失败	443:-
+cimg.fenqile.com	119.6.229.101,221.204.166.20,113.200.16.27,113.200.16.32,113.200.16.31,27.221.54.22,218.11.8.104,27.221.54.20,121.29.54.65,221.204.166.22,27.221.54.19,221.204.166.38,113.200.16.30,27.221.54.21	80,443	NWS_TCloud_S1	80:正常访问
+cs2.fenqile.com	115.159.189.222,123.206.22.43	443	Tengine	443:(404) 未找到
+gitlab.fenqile.com	10.11.52.199	-	端口未开放	端口未开放
+jenkins.fenqile.com	10.11.13.99,10.11.13.98	-	端口未开放	端口未开放
+jishi.fenqile.com	10.11.54.119	-	端口未开放	端口未开放
+mall.m.fenqile.com	119.29.126.157	80,443	Tengine	80:(500) 内部服务器错误
+mapi.fenqile.com	139.199.205.173,119.29.157.20	80,443	Tengine	80:正常访问
+notify.fenqile.com	139.199.205.173,119.29.157.20	80,443	Tengine	80:(404) 未找到
+timg1.fenqile.com	119.6.229.101,221.204.166.20,113.200.16.27,113.200.16.32,113.200.16.31,27.221.54.22,218.11.8.104,27.221.54.20,121.29.54.65,221.204.166.22,27.221.54.19,221.204.166.38,113.200.16.30,27.221.54.21	80,443	Tengine	80:正常访问
+ecr.fenqile.com	119.29.42.120	80,443	Tengine	80:(500) 内部服务器错误
+edm.fenqile.com	61.147.84.43	80,443	nginx	80:(403) 已禁止
+frd.fenqile.com	10.1.48.77	-	端口未开放	端口未开放
+hui.fenqile.com	119.29.49.161	443	Tengine	443:正常访问
+owl.fenqile.com	10.11.13.98,10.11.13.99	-	端口未开放	端口未开放
+syd.fenqile.com	119.29.49.163	80,443	Tengine	80:正常访问
+yum.fenqile.com	10.11.52.96	-	端口未开放	端口未开放
+weex.fenqile.com	115.159.189.222,123.206.22.43	443	Tengine	443:(404) 未找到
+app.fenqile.com	123.206.22.43,115.159.189.222	80,443	获取失败	80:-
+cres.fenqile.com	118.212.234.89,218.11.8.104,27.221.54.20,121.29.54.65,221.204.166.22,27.221.54.19,221.204.166.38,113.200.16.30,27.221.54.21,119.6.229.101,221.204.166.20,113.200.16.27,113.200.16.32,113.200.16.31,27.221.54.22	80,443	获取失败	80:-
+zhaopin.fenqile.com	119.29.49.161	443	获取失败	443:-
+trade.fenqile.com	119.29.49.161	443	获取失败	443:-
+res.fenqile.com	119.29.49.163	80,443	获取失败	80:-

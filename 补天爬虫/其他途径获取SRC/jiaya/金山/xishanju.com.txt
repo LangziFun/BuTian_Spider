@@ -1,0 +1,10 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+hr.xishanju.com	120.92.77.243	80,443	获取失败	80:-
+www.xishanju.com	120.39.218.53,106.122.250.172	80,443	openresty	80:正常访问
+art.xishanju.com	120.92.139.32	80	nginx/1.10.2	80:正常访问
+as.xishanju.com	120.92.116.32	80,443	openresty	80:(403) 已禁止
+web.xishanju.com	120.92.116.32	80,443	openresty	80:正常访问
+dc.xishanju.com	120.92.180.133	80	nginx/1.10.3 (Ubuntu)	80:正常访问
+sw.xishanju.com	106.122.250.172,120.39.218.53	80,443	openresty	80:正常访问
+tech.xishanju.com	120.92.143.147	80	nginx/1.10.2	80:正常访问
+gz.xishanju.com	120.92.116.32	80,443	openresty	80:正常访问

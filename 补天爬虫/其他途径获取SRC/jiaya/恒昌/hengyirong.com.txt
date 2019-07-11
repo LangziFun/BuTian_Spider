@@ -1,0 +1,14 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+sanbiao.hengyirong.com	116.211.172.227	80,443	nginx	80:正常访问
+www.hengyirong.com	116.211.172.227	80,443	openresty	80:正常访问
+m.hengyirong.com	116.211.172.227	80,443	nginx	80:(404) 未找到
+img1.hengyirong.com	116.211.172.227	80,443	nginx	80:(403) 已禁止
+api.hengyirong.com	36.110.65.163	80,443	Apache-Coyote/1.1	80:正常访问
+app.hengyirong.com	118.26.169.226	80,443	openresty	80:(403) 已禁止
+bbs.hengyirong.com	118.26.169.150	80	nginx	80:(403) 已禁止
+portal.hengyirong.com	116.211.172.228	80,443	nginx	80:正常访问
+speed.hengyirong.com	116.211.184.200,221.228.218.203,58.216.106.210,58.216.106.208	80,443	openresty	80:(403) 已禁止
+other.hengyirong.com	118.26.169.150	80	nginx	80:(403) 已禁止
+zhengxin.hengyirong.com	116.211.172.228	80,443	Microsoft-IIS/8.0	80:正常访问
+hhr.hengyirong.com	115.182.239.167	80,443	HC1.0	80:正常访问
+grzx.hengyirong.com	116.211.172.228	80,443	Microsoft-IIS/8.0	80:正常访问

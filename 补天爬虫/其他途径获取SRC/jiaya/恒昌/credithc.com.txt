@@ -1,0 +1,45 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+mail.credithc.com	59.37.96.29,14.17.42.118	80,443		80:正常访问
+www.credithc.com	116.211.172.228	80,443	nginx	80:正常访问
+wap.credithc.com	116.211.172.228	80,443	Apache	80:正常访问
+crm.credithc.com	116.211.172.226	80,443	nginx	80:正常访问
+crm6.credithc.com	36.110.65.221	-	端口未开放	端口未开放
+img.credithc.com	36.110.65.220	80	nginx	80:正常访问
+report.credithc.com	36.110.65.238	80	Apache	80:正常访问
+download.credithc.com	118.26.169.124	80	nginx/1.10.2	80:正常访问
+start.credithc.com	118.26.169.15	-	端口未开放	端口未开放
+server.credithc.com	118.26.169.36	80	nginx	80:正常访问
+yun.credithc.com	42.156.141.17	80	nginx	80:正常访问
+oa.credithc.com	116.211.172.227	80,443	nginx	80:正常访问
+cf.credithc.com	116.211.172.227	80,443	openresty	80:正常访问
+bd.credithc.com	118.26.169.209	-	端口未开放	端口未开放
+bm.credithc.com	115.182.239.179	-	端口未开放	端口未开放
+imap.credithc.com	14.17.57.217,113.96.209.109,113.96.232.106	80,443	nginx/1.8.1	80:(403) 已禁止
+files.credithc.com	118.26.169.126	80	-	80:(404) 未找到
+monitor.credithc.com	36.110.65.207	80	获取失败	80:-
+eagle.credithc.com	36.110.65.168	-	端口未开放	端口未开放
+meeting.credithc.com	36.110.65.117	80	-	80:(404) 未找到
+pop.credithc.com	14.17.57.217,113.96.232.106	80,443	nginx/1.8.1	80:(403) 已禁止
+pop3.credithc.com	14.17.57.217,113.96.232.106	80,443	获取失败	80:-
+smtp.credithc.com	14.17.57.217,113.96.232.106	80,443	获取失败	80:-
+tiger.credithc.com	116.211.172.228	80,443	Apache-Coyote/1.1	80:正常访问
+tv.credithc.com	118.26.169.70	80	openresty	80:(403) 已禁止
+analyst.credithc.com	10.100.21.16	-	端口未开放	端口未开放
+crawler.credithc.com	116.211.172.228	80,443	nginx	80:(401) 未经授权
+awstats.credithc.com	118.26.169.104	-	端口未开放	端口未开放
+kylin.credithc.com	10.100.12.40	-	端口未开放	端口未开放
+waptest.credithc.com	115.28.0.9	80	Apache	80:(403) 已禁止
+kpi.credithc.com	36.110.65.169	-	端口未开放	端口未开放
+hue.credithc.com	36.110.65.242	80	获取失败	80:-
+src.credithc.com	116.211.172.226	80,443	Apache	80:正常访问
+sso.credithc.com	116.211.172.227	80,443	Apache-Coyote/1.1	80:正常访问
+rim.credithc.com	118.26.169.252	-	端口未开放	端口未开放
+uuc.credithc.com	118.26.169.96	-	端口未开放	端口未开放
+lc1.credithc.com	118.26.161.112	-	端口未开放	端口未开放
+lc2.credithc.com	218.245.0.123	-	端口未开放	端口未开放
+oa8.credithc.com	118.26.169.223	80	nginx	80:正常访问
+crm8.credithc.com	118.26.169.114	80	openresty	80:(403) 已禁止
+crm9.credithc.com	118.26.169.11	-	端口未开放	端口未开放
+lion.credithc.com	115.182.239.231	80,443	Apache-Coyote/1.1	80:正常访问
+wwcs.credithc.com	118.26.169.161	80	Tengine	80:正常访问
+yun2.credithc.com	42.156.141.17	80	Tengine	80:正常访问

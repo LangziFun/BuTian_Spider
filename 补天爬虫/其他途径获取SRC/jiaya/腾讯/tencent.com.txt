@@ -1,0 +1,373 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+bk.tencent.com	183.60.118.220	80,443	nginx	80:正常访问
+campus.tencent.com	113.96.98.113,113.96.98.37,61.140.13.228,113.96.98.38	80,443	NWS_SPMid	80:(404) 未找到
+3g.tencent.com	163.177.73.175,163.177.73.176,163.177.73.178,163.177.73.162	80,443	nginx	80:正常访问
+8000.tencent.com	120.198.199.152	80,443	获取失败	80:-
+cd.tencent.com	183.232.95.57	80,443	Apache	80:正常访问
+career.tencent.com	183.232.93.167	80,443	nginx/1.10.2	80:正常访问
+code.tencent.com	58.251.81.26	80,443	nginx	80:正常访问
+bqq.tencent.com	183.57.48.35	80,443	nginx/1.8.1	80:正常访问
+flashteam.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+cdc.tencent.com	14.17.41.228	80,443	nginx	80:正常访问
+help.tencent.com	14.17.41.156,14.17.42.16	80,443	Tencent Login Server/2.0.0	80:(403) 已禁止
+careers.tencent.com	183.232.93.167	80,443	nginx/1.10.2	80:正常访问
+corp.tencent.com	222.218.81.118,113.96.156.217,59.63.235.57,218.75.176.145	80,443	NWS_SSD_MID	80:(404) 未找到
+hrc.tencent.com	183.3.226.51	80,443	获取失败	80:-
+hr.tencent.com	183.232.93.167	80,443	nginx/1.10.2	80:正常访问
+ieg.tencent.com	163.177.71.182	80,443	Apache/2.2.15 (CentOS)	80:正常访问
+image.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+hrsdc.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+intern.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+isd.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+isux.tencent.com	139.199.62.32	80,443	nginx/1.6.3	80:正常访问
+job.tencent.com	183.232.93.167	80,443	nginx/1.10.2	80:正常访问
+jobs.tencent.com	183.232.93.167	80,443	nginx/1.10.2	80:正常访问
+isp.tencent.com	14.17.34.113	80,443	Apache/2.4.3 (Unix) PHP/5.4.6 OpenSSL/1.0.0g	80:正常访问
+mdc.tencent.com	101.226.86.182,61.151.217.46	80,443	nginx	80:正常访问
+m.code.tencent.com	58.251.81.26	80,443		80:正常访问
+esales.tencent.com	14.17.32.248	80	Apache/2.0.53 (Unix) PHP/5.3.2	80:(403) 已禁止
+mt.tencent.com	61.151.217.46,101.226.86.182	80,443	获取失败	80:-
+oms.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+ecd.tencent.com	127.0.0.1	-	端口未开放	端口未开放
+ptlogin2.tencent.com	14.17.41.213	80,443	Tencent Login Server/2.0.0	80:(403) 已禁止
+rtx.tencent.com	183.57.48.35	80,443	nginx/1.8.1	80:正常访问
+rfq.tencent.com	14.17.34.113	80,443	Apache/2.4.3 (Unix) PHP/5.4.6 OpenSSL/1.0.0g	80:正常访问
+recruiting.tencent.com	183.232.93.167	80,443	nginx/1.10.2	80:正常访问
+security.tencent.com	183.61.51.186	80,443	nginx	80:正常访问
+service.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+tengyun.tencent.com	183.57.53.112	80,443	nginx	80:正常访问
+service.security.tencent.com	61.129.8.169	80,443	nginx/1.8.0	80:正常访问
+tgideas.tencent.com	113.96.156.226,125.94.49.68,27.45.166.55,27.45.166.16,119.147.33.49,119.147.227.100,119.147.227.113,119.147.33.87,119.147.83.73	80,443	NWS_X2_MID	80:(404) 未找到
+ur.tencent.com	14.215.138.30	80,443	nginx/1.8.0	80:正常访问
+vendor.tencent.com	183.232.95.57	80,443	Apache	80:正常访问
+uni.tencent.com	183.57.48.90	80,443	Apache	80:正常访问
+we.tencent.com	183.232.89.20	80,443	nginx	80:正常访问
+ecc.tencent.com	140.206.166.140,140.206.166.139	-	端口未开放	端口未开放
+webteam.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+ptlogin.tencent.com	14.17.42.16,14.17.41.156	80	Tencent Login Server/2.0.0	80:(403) 已禁止
+om.tencent.com	59.37.96.159	80	nginx/1.8.0	80:正常访问
+wsd.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+webrtxfile.tencent.com	183.57.48.35	80,443	nginx/1.8.1	80:正常访问
+x5.tencent.com	183.232.96.114,183.232.91.102	80,443	nginx	80:正常访问
+www.tencent.com	218.75.176.145,222.218.81.118,113.96.156.217,59.63.235.57	80,443	NWS_UGC_HY	80:正常访问
+a.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+work.tencent.com	183.232.93.167	80,443	nginx/1.10.2	80:正常访问
+xlab.tencent.com	111.161.64.31,111.161.64.30	80,443	nginx	80:正常访问
+b.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+ab.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+works.tencent.com	183.232.93.167	80,443	nginx/1.10.2	80:正常访问
+cis.tencent.com	183.61.46.139	80,443	获取失败	80:-
+d.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+zhaopin.tencent.com	183.232.93.167	80,443	nginx/1.10.2	80:正常访问
+h.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+e.tencent.com	14.215.166.109,113.105.155.198,113.105.165.44,183.2.192.198,14.215.167.196,113.107.216.105,113.107.216.121,121.12.122.120,14.215.167.197,14.215.166.199,113.96.98.102,113.96.154.108,113.107.216.119,121.12.123.229,61.142.166.245	80,443	NWSs	80:正常访问
+i.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+tmo.tencent.com	121.51.132.56	-	端口未开放	端口未开放
+o.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+m.tencent.com	58.251.80.167	80,443	nginx/1.4.7	80:(403) 已禁止
+mxd.tencent.com	61.151.229.203,61.151.225.225	80,443	获取失败	80:-
+v.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+s.tencent.com	111.161.64.30,111.161.64.31	80,443	nginx	80:正常访问
+wap.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+wap2.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+email.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+cms.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+img.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+ios.tencent.com	112.90.77.205	80,443	nginx/1.8.0	80:正常访问
+ai.tencent.com	140.207.123.162	80,443	Apache/2.4.6 (CentOS) PHP/5.4.16	80:正常访问
+developer.tencent.com	58.251.81.26	80,443	nginx	80:正常访问
+call.tencent.com	118.25.126.177	80	nginx/1.12.2	80:正常访问
+bbs.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+mail.tencent.com	14.17.35.165	-	端口未开放	端口未开放
+group.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+mobile.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+mi.tencent.com	111.230.196.217	80	nginx/1.6.3	80:(502) 错误的网关
+open.tencent.com	223.166.150.154,140.207.62.34	80,443	nginx	80:正常访问
+js.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+id.tencent.com	58.251.100.24	80,443	获取失败	80:-
+alpha.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+test.tencent.com	220.194.95.153	80,443	stgw/1.3.6.2_1.13.5	80:正常访问
+yu.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+yunpan.tencent.com	183.3.226.51	80,443	获取失败	80:-
+video.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+rom.tencent.com	163.177.73.175,163.177.73.176,163.177.73.178,163.177.73.162	80,443	获取失败	80:-
+plus.tencent.com	183.232.96.114,183.232.91.102	80,443	nginx	80:(404) 未找到
+ads.tencent.com	163.177.68.205	80,443	nginx	80:正常访问
+sec.tencent.com	58.251.82.192	80,443	Apache	80:正常访问
+ad.tencent.com	163.177.68.205	80,443	nginx	80:正常访问
+mm.tencent.com	183.3.226.51	80,443	获取失败	80:-
+aq.tencent.com	111.161.64.30,111.161.64.31	80,443	nginx	80:正常访问
+anquan.tencent.com	111.161.64.31,111.161.64.30	80,443	nginx	80:正常访问
+wiki.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+php.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+git.tencent.com	119.29.123.177	-	端口未开放	端口未开放
+an.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+ars.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+cert.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+att.tencent.com	172.23.128.115	-	端口未开放	端口未开放
+meeting.tencent.com	111.161.64.22	80,443		80:正常访问
+developers.tencent.com	58.251.81.26	80,443	nginx	80:正常访问
+dev.tencent.com	115.159.21.113	80,443	获取失败	80:-
+design.tencent.com	125.39.83.117	80,443	Apache	80:正常访问
+exchange.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+gg.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+im.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+is.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+km.tencent.com	58.251.81.26	80,443	nginx/1.10.1	80:正常访问
+lc.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+it.tencent.com	111.230.153.133	443		443:正常访问
+games.tencent.com	184.105.164.76	-	端口未开放	端口未开放
+mercury.tencent.com	58.251.100.44	80,443	nginx/1.8.0	80:正常访问
+media.tencent.com	59.37.96.241	80,443	nginx	80:(403) 已禁止
+net.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+network.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+mq.tencent.com	183.232.98.150	80	Apache/2.4.3 (Unix) PHP/5.4.6	80:(403) 已禁止
+ldap.tencent.com	10.14.0.131,10.14.0.130	-	端口未开放	端口未开放
+pr.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+retail.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+sa.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+mail2.tencent.com	163.177.67.195	-	端口未开放	端口未开放
+ra.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+se.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+sc.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+source.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+mid.tencent.com	183.3.240.33	-	端口未开放	端口未开放
+staff.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+supplier.tencent.com	163.177.71.197	80,443	-	80:(500) 内部服务器错误
+110.tencent.com	111.161.64.31,111.161.64.30	80,443	nginx	80:正常访问
+pptp.tencent.com	10.14.36.200	-	端口未开放	端口未开放
+m4.tencent.com	58.251.80.167	80,443	nginx/1.4.7	80:(403) 已禁止
+m2.tencent.com	58.251.80.167	80,443	nginx/1.4.7	80:(403) 已禁止
+sz.tencent.com	111.161.107.158,111.161.107.152,111.161.107.159,111.161.107.184,111.161.107.186,111.161.107.187,125.39.45.56,125.39.45.57,125.39.45.58,125.39.45.59,125.39.45.60,125.39.45.64,125.39.45.65,125.39.45.69,111.161.107.149,111.161.107.150	-	端口未开放	端口未开放
+t1.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+tp.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+vc.tencent.com	14.17.34.113	80,443	Apache/2.4.3 (Unix) PHP/5.4.6 OpenSSL/1.0.0g	80:正常访问
+voice.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+vpn.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+wireless.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+m3.tencent.com	123.151.155.109	-	端口未开放	端口未开放
+top.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+index.tencent.com	163.177.71.198	80,443	nginx/1.5.7	80:正常访问
+change.tencent.com	163.177.71.182	80,443	nginx	80:正常访问
+cloud.tencent.com	139.199.215.179,139.199.215.180	80,443	获取失败	80:-
+one.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+fanyi.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+mind.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+gif.tencent.com	175.155.120.111	80,443	nginx/1.8.0	80:正常访问
+time.tencent.com	139.199.215.251	-	端口未开放	端口未开放
+tm.tencent.com	123.151.78.52,123.151.78.37,123.151.78.38,123.151.78.39,123.151.78.40,123.151.78.41,123.151.78.42,123.151.78.43,123.151.78.44,123.151.78.45,123.151.78.46,123.151.78.47,123.151.78.48,123.151.78.49,123.151.78.50,123.151.78.51	-	端口未开放	端口未开放
+scan.tencent.com	140.207.135.107	80,443	Apache	80:正常访问
+sign.tencent.com	223.167.104.44,163.177.71.142	80,443	nginx	80:正常访问
+opportunity.tencent.com	183.232.93.167	80,443	nginx/1.10.2	80:正常访问
+fit.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+agency.tencent.com	183.232.95.57	80,443	Apache	80:正常访问
+leadership.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+speech.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+trip.tencent.com	193.112.232.18	80,443	Microsoft-IIS/7.5	80:(403) 已禁止
+gas.tencent.com	14.17.19.40	443	Play! Framework;1.4.2;prod	443:正常访问
+shadow.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+brain.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+sky.tencent.com	59.37.96.241	80,443	nginx	80:(403) 已禁止
+hire.tencent.com	183.232.93.167	80,443	nginx/1.10.2	80:正常访问
+translate.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+star.tencent.com	10.133.1.116	-	端口未开放	端口未开放
+blade.tencent.com	111.230.174.216	80,443	Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.4.16	80:正常访问
+signature.tencent.com	163.177.71.142,223.167.104.44	80,443	nginx	80:正常访问
+pot.tencent.com	183.3.240.33	-	端口未开放	端口未开放
+working.tencent.com	183.232.93.167	80,443	nginx/1.10.2	80:正常访问
+notes.tencent.com	163.177.90.110	80,443	QZHTTP-2.38.18	80:正常访问
+opportunities.tencent.com	183.232.93.167	80,443	nginx/1.10.2	80:正常访问
+em.tencent.com	183.3.226.51	80,443	获取失败	80:-
+investment.tencent.com	183.3.234.185	80,443	nginx	80:正常访问
+fed.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+focus.tencent.com	125.39.83.112	80,443	获取失败	80:-
+sketch.tencent.com	220.194.95.153	80,443	nginx	80:正常访问
+interview.tencent.com	183.232.95.57	80,443	Apache	80:(404) 未找到
+verify.tencent.com	163.177.68.211	80	Apache	80:(404) 未找到
+drugs.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+precise.tencent.com	10.123.15.40	-	端口未开放	端口未开放
+patrol.tencent.com	183.3.235.201	80,443	Apache/2.4.6 (CentOS) OpenSSL/1.0.2j PHP/5.4.16 mod_perl/2.0.9dev Perl/v5.16.3	80:正常访问
+trace.tencent.com	14.116.136.195	80	Apache	80:正常访问
+bid.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+chart.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+smart.tencent.com	183.60.118.220	80,443	nginx	80:(404) 未找到
+2014.dev.tencent.com	115.159.21.113	80,443	获取失败	80:-
+api.dev.tencent.com	115.159.21.113	80,443	获取失败	80:-
+appstore.tencent.com	223.166.150.154,140.207.62.34	80,443	nginx	80:正常访问
+avatar.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+bigdata.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+coral.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+cwmxt.dev.tencent.com	115.159.21.113	80,443	获取失败	80:-
+d.dev.tencent.com	115.159.21.113	80,443	获取失败	80:-
+dcsp.dev.tencent.com	115.159.21.113	80,443	获取失败	80:-
+deploy.dev.tencent.com	115.159.21.113	80,443	获取失败	80:-
+devops.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+dz.dev.tencent.com	115.159.21.113	80,443	获取失败	80:-
+explorer.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+expert.dev.tencent.com	115.159.21.113	80,443	获取失败	80:-
+file.dev.tencent.com	115.159.21.113	80,443	获取失败	80:-
+gongzuo.tencent.com	183.232.93.167	80,443	nginx/1.10.2	80:正常访问
+hkvpn.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+icbsp.dev.tencent.com	115.159.21.113	80,443	获取失败	80:-
+itest.tencent.com	163.177.90.104	80,443	nginx/1.8.0	80:正常访问
+jishi.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+lexiang.tencent.com	139.199.92.224	80,443	TCW	80:(404) 未找到
+lingshou.tencent.com	223.166.150.154,140.207.62.34	80,443	nginx	80:(400) 错误的请求
+l2tp.tencent.com	10.14.36.86	-	端口未开放	端口未开放
+mapi.dev.tencent.com	115.159.21.113	80,443	获取失败	80:-
+mvn.dev.tencent.com	115.159.21.113	80,443	获取失败	80:-
+mail6.tencent.com	103.7.30.236	-	端口未开放	端口未开放
+mail4.tencent.com	183.57.53.109	-	端口未开放	端口未开放
+mail5.tencent.com	103.7.30.235	-	端口未开放	端口未开放
+mail8.tencent.com	123.151.155.118	-	端口未开放	端口未开放
+oauth.dev.tencent.com	115.159.21.113	80,443	获取失败	80:-
+open.dev.tencent.com	115.159.21.113	80,443	获取失败	80:-
+passport2.dev.tencent.com	115.159.21.113	80,443	获取失败	80:-
+pingji.dev.tencent.com	115.159.21.113	80,443	获取失败	80:-
+pnsp.dev.tencent.com	115.159.21.113	80,443	获取失败	80:-
+proxy.it.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+nvwa.tencent.com	10.120.106.230	-	端口未开放	端口未开放
+pinglun.tencent.com	10.137.153.151	-	端口未开放	端口未开放
+register.dev.tencent.com	115.159.21.113	80,443	获取失败	80:-
+recruit.tencent.com	183.232.93.167	80,443	nginx/1.10.2	80:正常访问
+saas.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+scrm.tencent.com	111.161.64.31,111.161.64.30	80,443	nginx	80:正常访问
+sign2.tencent.com	120.198.199.152	80,443	获取失败	80:-
+siyuan.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+rtx.oa.tencent.com	14.17.35.166	-	端口未开放	端口未开放
+tj.dev.tencent.com	115.159.21.113	80,443	获取失败	80:-
+spf.mail.tencent.com	10.231.128.78,163.177.67.195,163.177.67.149,183.57.53.109,123.151.155.118,123.151.155.119	-	端口未开放	端口未开放
+tousu.dev.tencent.com	115.159.21.113	80,443	获取失败	80:-
+sz2.tencent.com	14.116.136.233,14.116.137.254,14.116.137.15,14.116.137.23,183.3.227.63,14.116.136.239,14.116.136.241,14.116.136.248,14.116.136.254,14.116.136.106,58.60.10.113,58.60.10.25,59.36.119.44,59.36.119.51,59.36.119.55,59.36.119.92	-	端口未开放	端口未开放
+sz3.tencent.com	220.249.244.251,163.177.87.204,220.249.246.124,220.249.246.123,220.249.245.156,220.249.245.141,220.249.245.140,220.249.245.139,220.249.244.252,163.177.87.198,220.249.244.190,220.249.244.253,220.249.245.87,220.249.245.36,163.177.87.201,163.177.87.199	-	端口未开放	端口未开放
+usercenter.dev.tencent.com	115.159.21.113	80,443	获取失败	80:-
+tm2.tencent.com	59.36.119.89,59.36.119.91,59.36.119.92,183.3.227.63,14.116.137.254,14.116.137.15,14.116.137.23,14.116.136.233,14.116.136.239,14.116.136.241,14.116.136.248,14.116.136.254,14.116.136.106,58.60.10.113,59.36.119.81,59.36.119.85	-	端口未开放	端口未开放
+wiki.dev.tencent.com	115.159.21.113	80,443	获取失败	80:-
+wuhan.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+xiaowei.tencent.com	163.177.71.181	80,443	openresty	80:正常访问
+yiliao.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+yingxiao.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+zhishu.tencent.com	163.177.71.198	80,443	nginx/1.5.7	80:正常访问
+ce.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+fd.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+hc.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+ev.tencent.com	58.250.136.60	80,443	stgw/1.3.6.2_1.13.5	80:(403) 已禁止
+vr.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+sp.tencent.com	14.17.34.113	80,443	Apache/2.4.3 (Unix) PHP/5.4.6 OpenSSL/1.0.0g	80:正常访问
+yx.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+xt.tencent.com	59.37.96.241	80,443	nginx	80:(403) 已禁止
+rg.tencent.com	111.230.163.250	80,443	openresty	80:正常访问
+zs.tencent.com	163.177.71.198	80,443	nginx/1.5.7	80:正常访问
+ace.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+yw.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+adn.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+ep.tencent.com	139.199.17.194	80	nginx/1.10.2	80:(403) 已禁止
+aoc.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+apm.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+ti.tencent.com	103.7.28.53	80,443	nginx/1.8.0	80:(404) 未找到
+ark.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+bot.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+wb.tencent.com	10.6.221.167	-	端口未开放	端口未开放
+oz.tencent.com	112.90.77.139	80,443	获取失败	80:-
+ddc.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+dcm.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+dmp.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+dts.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+coc.tencent.com	111.231.247.189	80	nginx/1.6.3	80:正常访问
+eid.tencent.com	14.215.138.18,183.3.226.47	80,443	获取失败	80:-
+eim.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+csj.tencent.com	172.23.20.33	-	端口未开放	端口未开放
+csa.tencent.com	172.23.20.33	-	端口未开放	端口未开放
+fsq.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+gfm.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+grd.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+hez.tencent.com	59.37.96.241	80,443	nginx	80:(403) 已禁止
+iac.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+imm.tencent.com	183.3.226.51	80,443	获取失败	80:-
+iov.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+iot.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+ioa.tencent.com	183.36.108.243	80,443	获取失败	80:-
+idc.tencent.com	14.17.42.119	80	nginx/1.12.2	80:正常访问
+ihr.tencent.com	120.198.201.105	80	nginx/1.6.1	80:(404) 未找到
+mct.tencent.com	120.198.199.152	80,443	获取失败	80:-
+mkt.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+mlf.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+mcn.tencent.com	140.207.62.34,223.166.150.154	80,443	nginx	80:正常访问
+moa.tencent.com	120.198.199.152	80,443	nginx	80:(500) 内部服务器错误
+mtp.tencent.com	112.90.77.205	80,443	nginx/1.10.3	80:正常访问
+nlp.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+mri.tencent.com	134.175.253.238	443	nginx	443:正常访问
+ocr.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+pms.tencent.com	183.232.91.102,183.232.96.114	80,443	nginx	80:正常访问
+lpc.tencent.com	180.163.26.39	80	获取失败	80:-
+rdm.tencent.com	183.232.96.114,183.232.91.102	80,443	nginx	80:(500) 内部服务器错误
+scm.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+sdc.tencent.com	193.112.227.136	80,443	openresty	80:(404) 未找到
+spd.tencent.com	14.17.34.113	80,443	Apache/2.4.3 (Unix) PHP/5.4.6 OpenSSL/1.0.0g	80:正常访问
+ssp.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+tav.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+tbi.tencent.com	183.232.91.102,183.232.96.114	80,443	nginx	80:正常访问
+tds.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+tdl.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+tfc.tencent.com	125.39.83.115	80,443	tws	80:正常访问
+tdw.tencent.com	125.39.83.117	80,443	Apache	80:正常访问
+tsa.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+tqq.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+tts.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+scp.tencent.com	121.51.130.222	-	端口未开放	端口未开放
+tdc.tencent.com	10.1.148.138	-	端口未开放	端口未开放
+vod.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+wdc.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+wxg.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+xti.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+zym.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+zyc.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+zzz.tencent.com	220.249.244.119	80,443	获取失败	80:-
+sz6.tencent.com	61.151.226.190,61.151.226.186,61.151.226.187,61.151.226.193,101.226.93.184,101.227.152.156,101.227.152.171,61.151.181.89,61.151.181.95,61.151.181.97,61.151.180.139,61.151.180.143,61.151.180.144,61.151.180.157,61.151.180.158,61.151.225.224	-	端口未开放	端口未开放
+sz5.tencent.com	120.204.17.19,120.204.17.124,120.204.17.125,120.204.17.126,120.204.17.14,120.204.17.15,120.204.17.16,120.204.17.17,120.204.17.18,120.204.17.123,120.204.17.22,120.204.17.118,120.204.17.119,120.204.17.121,120.204.17.122	-	端口未开放	端口未开放
+sz9.tencent.com	223.166.151.86,223.166.151.88,223.166.151.89,223.166.151.90,223.166.151.97,223.166.151.98,223.166.151.99,223.166.151.139,223.166.151.140,223.166.151.30,223.166.151.38,223.166.151.41,223.166.151.47,223.166.151.54,223.166.151.58,223.166.151.87	-	端口未开放	端口未开放
+sz8.tencent.com	123.151.78.38,123.151.78.58,123.151.78.59,123.151.78.36,123.151.78.37,123.151.78.57,123.151.78.39,123.151.78.40,123.151.78.41,123.151.78.42,123.151.78.43,123.151.78.52,123.151.78.53,123.151.78.54,123.151.78.55,123.151.78.56	-	端口未开放	端口未开放
+sz7.tencent.com	111.30.159.63,111.30.159.62,111.30.159.61,111.30.159.64,111.30.159.65,111.30.159.66,111.30.159.67,111.30.159.68,111.30.159.69,111.30.159.70,111.30.159.71,111.30.159.72,111.30.159.73,111.30.159.74,111.30.159.75,111.30.159.60	-	端口未开放	端口未开放
+sz4.tencent.com	183.232.93.22,183.232.93.21,183.232.93.32,183.232.93.31,183.232.93.30,183.232.93.29,183.232.93.26,183.232.93.25,183.232.127.124,183.232.127.247,183.232.127.246,183.232.127.245,183.232.127.244,183.232.127.243,183.232.93.24,183.232.93.23	-	端口未开放	端口未开放
+tm3.tencent.com	220.249.245.150,220.249.245.151,220.249.245.152,220.249.245.153,220.249.245.156,220.249.245.141,220.249.245.142,220.249.245.146,220.249.245.147,220.249.244.174,220.249.244.152,220.249.245.36,220.249.245.87,220.249.244.151,220.249.244.252,220.249.245.149	-	端口未开放	端口未开放
+acfs.tencent.com	58.251.139.142	80,443	QZHTTP-2.1	80:(500) 内部服务器错误
+bapm.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+bqq2.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+daas.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+gaia.tencent.com	183.60.70.36	-	端口未开放	端口未开放
+gslb.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+hive.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+icjf.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+kite.tencent.com	58.251.100.44	80,443	nginx/1.8.0	80:正常访问
+lequ.tencent.com	58.251.81.26	80,443	-	80:(503) 服务器不可用
+mmtj.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+mmsz.tencent.com	203.205.151.51	80,443	stgw/1.3.6.2_1.13.5	80:(502) 错误的网关
+oops.tencent.com	113.108.10.99	-	端口未开放	端口未开放
+pdmp.tencent.com	163.177.68.211	80	获取失败	80:-
+qqh5.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+qyaq.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+raas.tencent.com	14.17.35.166	-	端口未开放	端口未开放
+sisa.tencent.com	58.251.81.36	80,443	openresty	80:正常访问
+sicc.tencent.com	183.57.48.89	80,443	nginx	80:正常访问
+sodm.tencent.com	58.250.136.60	80,443	nginx/1.6.3	80:正常访问
+taia.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+tars.tencent.com	139.199.92.63	80,443	Resin/3.0.s111229	80:正常访问
+tcms.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+tenc.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+tgpa.tencent.com	112.90.14.196	80,443	nginx	80:正常访问
+tgif.tencent.com	119.147.227.100,119.147.227.113,119.147.33.87,119.147.83.73,113.96.156.226,125.94.49.68,27.45.166.55,27.45.166.16,119.147.33.49	80,443	nginx	80:正常访问
+tita.tencent.com	163.177.73.176,163.177.73.178,163.177.73.162,163.177.73.175	80,443	获取失败	80:-
+tosp.tencent.com	14.17.42.119	80	nginx/1.12.2	80:正常访问
+tssp.tencent.com	163.177.71.181	80,443	Apache/2.4.4 (Unix) OpenSSL/1.0.2g PHP/5.5.25	80:正常访问
+txff.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+txsr.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+tsrc.tencent.com	59.37.96.63	80	获取失败	80:-
+wetv.tencent.com	23.13.190.8	80,443	-	80:(403) 已禁止
+wxxq.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+wxyl.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+xsrc.tencent.com	0.0.0.1	-	端口未开放	端口未开放
+ywts.tencent.com	183.3.239.104	-	端口未开放	端口未开放
+pos.tencent.com	58.251.80.193	80,443	获取失败	80:-
+tpad.tencent.com	59.37.96.192	80,443	获取失败	80:-
+qm.tencent.com	112.90.77.205	80,443	获取失败	80:-
+tapd.tencent.com	59.37.96.192	80,443	获取失败	80:-

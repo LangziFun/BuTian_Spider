@@ -1,0 +1,31 @@
+﻿域名	解析IP	开放端口	WEB服务器	网站状态
+cshelp.sfbest.com	211.151.24.9	80	nginx	80:正常访问
+m.sfbest.com	211.151.24.22	80,443	SFWS	80:正常访问
+csapp.sfbest.com	211.151.24.16	80	nginx	80:正常访问
+cscart.sfbest.com	211.151.24.13	80	nginx	80:正常访问
+cart.sfbest.com	211.151.24.13	80	nginx	80:正常访问
+help.sfbest.com	211.151.24.9	80	nginx	80:正常访问
+www.sfbest.com	211.151.24.8	80,443	nginx	80:正常访问
+i.sfbest.com	163.171.193.128	80,443	SFWS	80:(403) 已禁止
+p.sfbest.com	163.171.193.128	80,443	SFWS	80:正常访问
+temp.sfbest.com	211.151.24.23	80,443	SFWS	80:(403) 已禁止
+img.sfbest.com	211.151.24.23	80,443	SFWS	80:(403) 已禁止
+android.sfbest.com	163.171.193.128	80,443	SFWS	80:(403) 已禁止
+open.sfbest.com	211.151.24.66	80		80:正常访问
+openapi.sfbest.com	211.151.24.60	443	Apache-Coyote/1.1	443:(404) 未找到
+win.sfbest.com	211.151.24.25	80	Apache-Coyote/1.1	80:(405) 不允许的方法
+pics.sfbest.com	163.171.193.128	80,443	nginx/1.11.7	80:(403) 已禁止
+store.sfbest.com	211.151.24.63	80,443	Apache-Coyote/1.1	80:正常访问
+jump.sfbest.com	217.175.192.16	80,443	nginx	80:正常访问
+survey.sfbest.com	211.151.24.23	80,443	SFWS	80:(403) 已禁止
+supervision.sfbest.com	211.151.24.71	80	Apache-Coyote/1.1	80:正常访问
+cspay.sfbest.com	211.151.24.15	80,443	Apache-Coyote/1.1	80:(404) 未找到
+mapi.sfbest.com	211.151.24.70	80	Apache-Coyote/1.1	80:(404) 未找到
+openvpn.bjbgp.sfbest.com	23.89.5.60	80	获取失败	80:-
+openvpn.sfbest.com	77.4.7.92	-	端口未开放	端口未开放
+testapi.sfbest.com	119.254.118.199	443	Apache-Coyote/1.1	443:(404) 未找到
+bds.sfbest.com	211.151.24.32	80	nginx	80:(403) 已禁止
+czy.sfbest.com	211.151.24.57	80	获取失败	80:-
+csda.sfbest.com	211.151.24.26	443	nginx	443:正常访问
+ps01.sfbest.com	163.171.193.128	80,443	nginx/1.11.7	80:正常访问
+sf-jf.com

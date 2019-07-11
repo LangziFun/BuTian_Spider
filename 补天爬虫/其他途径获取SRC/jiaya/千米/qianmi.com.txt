@@ -1,0 +1,66 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+bbs.qianmi.com	121.43.180.129	80,443	nginx	80:正常访问
+elife.qianmi.com	139.129.105.27	80	Tengine	80:正常访问
+help.qianmi.com	117.50.21.164	80,443	openresty	80:正常访问
+www.qianmi.com	101.37.187.118	80,443	Tengine	80:正常访问
+yunying.qianmi.com	118.190.94.108	80,443	Tengine	80:(500) 内部服务器错误
+m.qianmi.com	101.37.187.118	80,443	Tengine	80:正常访问
+mail.qianmi.com	14.17.42.118,59.37.96.29	80,443		80:正常访问
+vip.qianmi.com	114.80.187.98	80,443	Tengine	80:正常访问
+registry.qianmi.com	172.19.0.180	-	端口未开放	端口未开放
+tg.qianmi.com	118.190.94.108	80,443	Tengine	80:(404) 未找到
+college.qianmi.com	120.55.197.125	80,443	Tengine	80:(405) 不允许的方法
+resources.qianmi.com	183.131.227.245	80,443	AliyunOSS	80:(403) 已禁止
+2014.dev.qianmi.com	172.19.0.162	-	端口未开放	端口未开放
+admin.demo.qianmi.com	61.147.166.163	-	端口未开放	端口未开放
+api.dev.qianmi.com	172.19.0.162	-	端口未开放	端口未开放
+authdev.qianmi.com	61.147.166.165	80,443	Tengine	80:(403) 已禁止
+bbs-static.bbs.qianmi.com	121.43.180.129	80,443	nginx	80:正常访问
+baike.qianmi.com	223.4.33.130	-	端口未开放	端口未开放
+beiyong.bbs.qianmi.com	121.43.180.129	80,443	nginx	80:正常访问
+boss2.qianmi.com	172.19.0.162	-	端口未开放	端口未开放
+cdn.bbs.qianmi.com	121.43.180.129	80,443	nginx	80:正常访问
+cnc.bbs.qianmi.com	121.43.180.129	80,443	nginx	80:正常访问
+comm.qianmi.com	121.43.180.129	80,443	nginx	80:正常访问
+dcsp.dev.qianmi.com	172.19.0.162	-	端口未开放	端口未开放
+deploy.dev.qianmi.com	172.19.0.162	-	端口未开放	端口未开放
+dev.demo.qianmi.com	61.147.166.163	-	端口未开放	端口未开放
+ecshop.qianmi.com	118.190.94.108	80,443	Tengine	80:(404) 未找到
+dz.dev.qianmi.com	172.19.0.162	-	端口未开放	端口未开放
+expert.dev.qianmi.com	172.19.0.162	-	端口未开放	端口未开放
+files.bbs.qianmi.com	121.43.180.129	80,443	nginx	80:正常访问
+file.dev.qianmi.com	172.19.0.162	-	端口未开放	端口未开放
+jiazheng.qianmi.com	118.190.94.105	80	Tengine	80:(404) 未找到
+liuliang.qianmi.com	118.190.94.105	80	Tengine	80:正常访问
+login4.qianmi.com	61.147.166.165	80,443	Tengine	80:正常访问
+login5.qianmi.com	61.147.166.165	80,443	Tengine	80:正常访问
+mp3.bbs.qianmi.com	121.43.180.129	80,443	nginx	80:正常访问
+mtest.qianmi.com	118.190.94.108	80,443	Tengine	80:(404) 未找到
+mirrors.qianmi.com	172.19.0.162	-	端口未开放	端口未开放
+mx1.edm.qianmi.com	203.186.75.235	-	端口未开放	端口未开放
+mx4.edm.qianmi.com	203.186.75.235	-	端口未开放	端口未开放
+mx6.edm.qianmi.com	203.186.75.235	-	端口未开放	端口未开放
+mx5.edm.qianmi.com	203.186.75.235	-	端口未开放	端口未开放
+oauth.dev.qianmi.com	172.19.0.162	-	端口未开放	端口未开放
+open.dev.qianmi.com	172.19.0.162	-	端口未开放	端口未开放
+phpcms.demo.qianmi.com	61.147.166.163	-	端口未开放	端口未开放
+phpwind.demo.qianmi.com	61.147.166.163	-	端口未开放	端口未开放
+pingji.dev.qianmi.com	172.19.0.162	-	端口未开放	端口未开放
+search.bbs.qianmi.com	121.43.180.129	80,443	nginx	80:正常访问
+source.bbs.qianmi.com	121.43.180.129	80,443	nginx	80:正常访问
+spare.bbs.qianmi.com	121.43.180.129	80,443	nginx	80:正常访问
+test.bbs.qianmi.com	121.43.180.129	80,443	nginx	80:正常访问
+test.admin.qianmi.com	120.55.197.125	80,443	Tengine	80:(404) 未找到
+test2.bbs.qianmi.com	121.43.180.129	80,443	nginx	80:正常访问
+tj.dev.qianmi.com	172.19.0.162	-	端口未开放	端口未开放
+upload5.qianmi.com	61.147.166.165	80,443	Tengine	80:(404) 未找到
+usercenter.dev.qianmi.com	172.19.0.162	-	端口未开放	端口未开放
+v1.demo.qianmi.com	61.147.166.163	-	端口未开放	端口未开放
+wap.demo.qianmi.com	61.147.166.163	-	端口未开放	端口未开放
+wiki.dev.qianmi.com	172.19.0.162	-	端口未开放	端口未开放
+wxtest.qianmi.com	61.147.166.165	80,443	Tengine	80:(404) 未找到
+yingxiao.qianmi.com	118.190.94.108	80,443	Tengine	80:正常访问
+yunxiao.qianmi.com	120.55.197.125	80,443	Tengine	80:(404) 未找到
+gc.qianmi.com	223.4.33.130	-	端口未开放	端口未开放
+tgm.qianmi.com	118.190.94.108	80,443	Tengine	80:(404) 未找到
+pcms.qianmi.com	172.19.0.162	-	端口未开放	端口未开放

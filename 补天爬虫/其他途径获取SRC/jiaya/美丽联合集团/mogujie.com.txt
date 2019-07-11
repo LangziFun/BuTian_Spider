@@ -1,0 +1,94 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+mail.mogujie.com	103.7.30.46	80,443		80:正常访问
+api.mogujie.com	211.159.246.154	80,443	Tengine/2.1.2	80:正常访问
+developer.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+openapi.mogujie.com	211.159.246.176	80,443	JuanniuX/15.12.29	80:正常访问
+develop.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+dev1.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+dev0.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+device.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devel.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+developers.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devsql.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+imap.mogujie.com	163.177.72.143,163.177.90.125	80,443	nginx/1.8.1	80:(403) 已禁止
+pop.mogujie.com	163.177.72.143,163.177.90.125	80,443	nginx/1.8.1	80:(403) 已禁止
+smtp.mogujie.com	163.177.90.125,163.177.72.143	80,443	nginx/1.8.1	80:(403) 已禁止
+m2.mogujie.com	221.228.199.44	-	端口未开放	端口未开放
+m6.mogujie.com	221.228.199.67	-	端口未开放	端口未开放
+m5.mogujie.com	221.228.199.66	-	端口未开放	端口未开放
+m4.mogujie.com	221.228.199.57	-	端口未开放	端口未开放
+m1.mogujie.com	221.228.199.44	-	端口未开放	端口未开放
+m3.mogujie.com	221.228.199.53	-	端口未开放	端口未开放
+webmail.mogujie.com	112.17.135.134	-	端口未开放	端口未开放
+devil.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+developed.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+feeling.mogujie.com	112.17.135.132	-	端口未开放	端口未开放
+developing.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devoted.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+developments.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devise.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devote.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+deviate.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+dev-csss.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+dev.static.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:(403) 已禁止
+dev-db.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+dev-wiki.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+dev-admin.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devzone08.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devzone02.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devzone03.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devzone07.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devzone09.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devops.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devblog.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+dev-www.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devzone11.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devzone04.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devzone12.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devzone06.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+dev-jss.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devtest.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devcache.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devzone01.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+meili.mogujie.com	221.228.216.61	-	端口未开放	端口未开放
+paycallback.mogujie.com	211.159.246.176	80,443	JuanniuX/15.12.29	80:(403) 已禁止
+openvpn.bjbgp.mogujie.com	197.4.4.12	-	端口未开放	端口未开放
+openvpn.mogujie.com	189.163.17.5	-	端口未开放	端口未开放
+ttapi.mogujie.com	211.159.246.154	80,443	Tengine/2.1.2	80:正常访问
+atd.mogujie.com	211.159.246.120	80,443	Tengine/2.1.2	80:正常访问
+bpw.mogujie.com	211.159.246.176	80,443	JuanniuX/15.12.29	80:正常访问
+gws.mogujie.com	211.159.246.162	-	端口未开放	端口未开放
+007.mogujie.com	112.17.135.133	-	端口未开放	端口未开放
+devi.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+dev6.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devf.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devc.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+dev3.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+dev5.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devg.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+deva.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+dev2.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+dev7.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+dev9.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devm.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devh.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devx.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devv.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devw.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devp.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devr.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+deve.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devq.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devz.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devk.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devj.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devb.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devy.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devl.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+dev8.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devd.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+devn.mogujie.com	118.25.33.97	80,443	JuanniuX/15.12.29	80:正常访问
+econ.mogujie.com	112.17.135.131	-	端口未开放	端口未开放
+mwcs.mogujie.com	211.159.246.153	80,443		80:正常访问
+wsim.mogujie.com	211.159.246.187	443	-	443:(404) 未找到
+wxyd.mogujie.com	211.103.28.118,211.103.28.117	-	端口未开放	端口未开放

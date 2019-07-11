@@ -1,0 +1,131 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+pay.fuiou.com	211.147.68.142	80,443	nginx	80:正常访问
+gift.fuiou.com	211.147.68.218	80,443	Apache-Coyote/1.1	80:(403) 已禁止
+jipiao.fuiou.com	211.147.68.141	-	端口未开放	端口未开放
+a.fuiou.com	211.147.68.168	-	端口未开放	端口未开放
+sxf.fuiou.com	211.147.68.159	-	端口未开放	端口未开放
+m.fuiou.com	211.147.68.161	80	Apache-Coyote/1.1	80:(404) 未找到
+www.fuiou.com	211.147.68.156	80,443	nginx	80:(500) 内部服务器错误
+fly.fuiou.com	211.147.68.200	80,443	nginx	80:正常访问
+jzh.fuiou.com	211.147.87.65	80	nginx	80:正常访问
+wmp.fuiou.com	211.147.68.241	80	nginx	80:正常访问
+card.fuiou.com	211.147.68.219	80,443	nginx	80:正常访问
+b.fuiou.com	211.147.68.235	443	nginx	443:正常访问
+g.fuiou.com	211.147.68.157	80,443	Apache-Coyote/1.1	80:正常访问
+c.fuiou.com	211.147.68.140	-	端口未开放	端口未开放
+p.fuiou.com	116.239.4.197	-	端口未开放	端口未开放
+wap.fuiou.com	211.147.68.186	80,443	nginx	80:(404) 未找到
+r.fuiou.com	211.147.68.238	443	nginx	443:(404) 未找到
+mail.fuiou.com	211.147.68.148	-	端口未开放	端口未开放
+buy.fuiou.com	211.147.68.202	80,443	Apache-Coyote/1.1	80:(403) 已禁止
+static.fuiou.com	211.147.68.143	80,443	nginx	80:(403) 已禁止
+express.fuiou.com	211.147.68.186	80,443	nginx	80:(404) 未找到
+open.fuiou.com	211.147.68.186	80,443	nginx	80:正常访问
+msg.fuiou.com	211.147.83.241	-	端口未开放	端口未开放
+pan.fuiou.com	116.239.4.194	-	端口未开放	端口未开放
+run.fuiou.com	211.147.68.169	80,443	nginx	80:正常访问
+chi.fuiou.com	211.147.68.186	80,443	nginx	80:(403) 已禁止
+cg.fuiou.com	211.147.68.241	80	nginx	80:正常访问
+ftp.fuiou.com	211.144.211.174	80,443	nginx	80:正常访问
+global.fuiou.com	211.147.68.186	80,443	nginx	80:正常访问
+mh.fuiou.com	211.147.68.187	80,443	nginx	80:(403) 已禁止
+mail2.fuiou.com	206.161.233.59	-	端口未开放	端口未开放
+pac.fuiou.com	211.147.68.137	80,443	Apache-Coyote/1.1	80:(404) 未找到
+sms.fuiou.com	211.147.68.136	80,443	nginx	80:正常访问
+reg.fuiou.com	211.147.68.138	-	端口未开放	端口未开放
+sy.fuiou.com	112.13.67.233	80,443	nginx	80:(404) 未找到
+8.fuiou.com	211.147.68.164	80,443	Apache-Coyote/1.1	80:正常访问
+g2.fuiou.com	211.147.68.156	80,443	nginx	80:(500) 内部服务器错误
+wallet.fuiou.com	211.147.68.176	443	nginx	443:(502) 错误的网关
+www-1.fuiou.com	180.168.100.155	443	nginx	443:(404) 未找到
+easy.fuiou.com	211.147.68.186	80,443	nginx	80:(403) 已禁止
+www-2.fuiou.com	116.239.4.195	-	端口未开放	端口未开放
+park.fuiou.com	116.239.7.117	443	nginx	443:(404) 未找到
+168.fuiou.com	211.147.68.158	80,443	Apache-Coyote/1.1	80:正常访问
+baoxian.fuiou.com	211.147.68.232	80,443	nginx	80:(404) 未找到
+caipiao.fuiou.com	211.144.211.170	-	端口未开放	端口未开放
+koubei.fuiou.com	211.147.68.241	80	nginx	80:(404) 未找到
+licai.fuiou.com	211.147.68.147	80,443	Apache-Coyote/1.1	80:(403) 已禁止
+mpay.fuiou.com	211.147.68.136	80,443	nginx	80:正常访问
+smsapi.fuiou.com	211.147.68.136	80,443	nginx	80:正常访问
+testsso.fuiou.com	116.239.4.197	-	端口未开放	端口未开放
+wwwtest.fuiou.com	116.239.4.195	-	端口未开放	端口未开放
+wuye.fuiou.com	211.147.83.242	-	端口未开放	端口未开放
+fx.fuiou.com	211.147.68.186	80,443	nginx	80:正常访问
+jf.fuiou.com	211.147.68.217	443	Apache-Coyote/1.1	443:(500) 内部服务器错误
+uc.fuiou.com	116.239.7.125	443	获取失败	443:-
+qf.fuiou.com	112.13.67.234	-	端口未开放	端口未开放
+bl.fuiou.com	211.147.68.156	80,443	nginx	80:(500) 内部服务器错误
+bps.fuiou.com	211.147.68.186	80,443	nginx	80:(404) 未找到
+amz.fuiou.com	211.147.68.186	80,443	nginx	80:(404) 未找到
+zq.fuiou.com	211.147.68.156	80,443	nginx	80:(500) 内部服务器错误
+btp.fuiou.com	211.147.68.166	80,443	Apache-Coyote/1.1	80:正常访问
+chg.fuiou.com	211.147.68.217	443	Apache-Coyote/1.1	443:(500) 内部服务器错误
+cfc.fuiou.com	211.147.68.187	80,443	nginx	80:(404) 未找到
+dmt.fuiou.com	211.147.83.243	-	端口未开放	端口未开放
+eps.fuiou.com	211.147.68.180	80,443	nginx	80:(404) 未找到
+fht.fuiou.com	211.144.211.174	80,443	nginx	80:正常访问
+fwk.fuiou.com	211.147.68.186	80,443	nginx	80:(403) 已禁止
+fws.fuiou.com	211.147.68.156	80,443	nginx	80:(500) 内部服务器错误
+fzg.fuiou.com	211.147.68.241	80	nginx	80:正常访问
+fms.fuiou.com	211.147.68.168	-	端口未开放	端口未开放
+gws.fuiou.com	211.147.68.186	80,443	nginx	80:(404) 未找到
+ivc.fuiou.com	211.147.68.156	80,443	nginx	80:(500) 内部服务器错误
+jms.fuiou.com	211.147.68.170	80	Apache-Coyote/1.1	80:正常访问
+kdy.fuiou.com	211.147.68.186	80,443	NWSs	80:正常访问
+lam.fuiou.com	211.144.211.163	-	端口未开放	端口未开放
+mds.fuiou.com	211.147.68.167	-	端口未开放	端口未开放
+mhx.fuiou.com	116.239.4.195	-	端口未开放	端口未开放
+mfc.fuiou.com	211.147.68.156	80,443	nginx	80:(500) 内部服务器错误
+ols.fuiou.com	211.147.68.186	80,443	nginx	80:(403) 已禁止
+ofc.fuiou.com	211.147.68.156	80,443	nginx	80:(500) 内部服务器错误
+opt.fuiou.com	116.239.4.195	-	端口未开放	端口未开放
+pfc.fuiou.com	211.147.68.156	80,443	nginx	80:(500) 内部服务器错误
+mps.fuiou.com	211.147.68.136	80,443	nginx	80:正常访问
+rfk.fuiou.com	211.147.68.217	443	Apache-Coyote/1.1	443:(500) 内部服务器错误
+sjb.fuiou.com	211.147.68.186	80,443	nginx	80:正常访问
+svu.fuiou.com	211.147.68.186	80,443	nginx	80:(403) 已禁止
+sso.fuiou.com	211.147.68.139	-	端口未开放	端口未开放
+sps.fuiou.com	211.147.68.136	80,443	nginx	80:正常访问
+ufx.fuiou.com	211.147.68.237	80,443	Apache-Coyote/1.1	80:正常访问
+tpy.fuiou.com	211.147.68.247	80,443	nginx	80:(403) 已禁止
+wzd.fuiou.com	211.147.68.217	443	Apache-Coyote/1.1	443:(500) 内部服务器错误
+wxs.fuiou.com	211.147.68.160	443	Apache-Coyote/1.1	443:正常访问
+yfk.fuiou.com	211.147.68.217	443	Apache-Coyote/1.1	443:(500) 内部服务器错误
+wos.fuiou.com	211.147.68.144	443	Apache-Coyote/1.1	443:正常访问
+yqk.fuiou.com	211.147.68.186	80,443	nginx	80:(403) 已禁止
+zfk.fuiou.com	211.147.68.241	80	nginx	80:(404) 未找到
+hf8.fuiou.com	211.147.68.164	80,443	Apache-Coyote/1.1	80:正常访问
+apay.fuiou.com	211.147.68.186	80,443	nginx	80:(403) 已禁止
+apos.fuiou.com	211.147.68.160	443	Apache-Coyote/1.1	443:正常访问
+blwx.fuiou.com	211.147.68.186	80,443	nginx	80:正常访问
+bosc.fuiou.com	211.147.68.252	80,443	nginx	80:正常访问
+bxqb.fuiou.com	211.147.68.241	80	nginx	80:正常访问
+cfwg.fuiou.com	211.147.68.155	-	端口未开放	端口未开放
+ckms.fuiou.com	116.239.4.194	-	端口未开放	端口未开放
+cms1.fuiou.com	116.239.7.125	443	获取失败	443:-
+cms2.fuiou.com	116.239.7.126	443	获取失败	443:-
+crms.fuiou.com	211.147.68.137	80,443	Apache-Coyote/1.1	80:(404) 未找到
+famp.fuiou.com	211.147.68.162	80,443	Apache-Coyote/1.1	80:(404) 未找到
+fmap.fuiou.com	211.147.68.183	80,443	nginx	80:(404) 未找到
+fqgz.fuiou.com	211.147.68.186	80,443	nginx	80:(404) 未找到
+fpay.fuiou.com	211.147.68.255	443	Apache-Coyote/1.1	443:正常访问
+fsrc.fuiou.com	211.147.68.186	80,443	nginx	80:(403) 已禁止
+fycz.fuiou.com	211.147.68.154	-	端口未开放	端口未开放
+fzfw.fuiou.com	211.147.68.241	80	nginx	80:正常访问
+gztj.fuiou.com	211.147.68.186	80,443	nginx	80:(404) 未找到
+hfsh.fuiou.com	211.147.68.165	80,443	nginx	80:正常访问
+hrcg.fuiou.com	211.147.68.186	80,443	nginx	80:(403) 已禁止
+jfzw.fuiou.com	211.147.68.186	80,443	nginx	80:(404) 未找到
+lccs.fuiou.com	211.147.68.203	-	端口未开放	端口未开放
+mpes.fuiou.com	211.147.68.186	80,443	nginx	80:(403) 已禁止
+opfp.fuiou.com	211.147.68.186	80,443	nginx	80:(404) 未找到
+posa.fuiou.com	116.239.4.194	-	端口未开放	端口未开放
+qpgs.fuiou.com	211.147.68.145	80,443	Apache-Coyote/1.1	80:(404) 未找到
+spay.fuiou.com	211.147.68.163	80,443	nginx	80:(500) 内部服务器错误
+suba.fuiou.com	211.147.68.241	80	nginx	80:正常访问
+tysh.fuiou.com	211.147.68.197	-	端口未开放	端口未开放
+ufly.fuiou.com	211.147.68.196	80	Apache-Coyote/1.1	80:正常访问
+uomo.fuiou.com	211.147.68.186	80,443	nginx	80:(404) 未找到
+yjdk.fuiou.com	211.147.68.187	80,443	nginx	80:(403) 已禁止
+zctg.fuiou.com	211.147.68.167	-	端口未开放	端口未开放

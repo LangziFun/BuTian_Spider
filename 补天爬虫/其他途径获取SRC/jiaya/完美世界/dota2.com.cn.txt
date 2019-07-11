@@ -1,0 +1,29 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+members.dota2.com.cn	203.80.148.249	80,443	nginx	80:正常访问
+maps.dota2.com.cn	14.18.201.47,218.14.200.84	80,443	nginx	80:正常访问
+dac.dota2.com.cn	218.14.200.84,14.18.201.47	80,443	nginx	80:正常访问
+kf.dota2.com.cn	218.14.200.84,14.18.201.47	80,443	nginx	80:正常访问
+cafe.dota2.com.cn	203.80.148.249	80,443	nginx	80:正常访问
+app.dota2.com.cn	14.18.201.47,218.14.200.84	80,443	nginx	80:正常访问
+bbs.dota2.com.cn	221.228.192.68	80,443	nginx	80:正常访问
+db.dota2.com.cn	221.228.74.249	80,443	nginx	80:正常访问
+wb.dota2.com.cn	14.18.201.47,218.14.200.84	80,443	nginx	80:正常访问
+act.dota2.com.cn	14.18.201.47,218.14.200.84	80,443	nginx	80:正常访问
+store.dota2.com.cn	203.80.149.74,221.6.124.222	80	Apache	80:正常访问
+m.dota2.com.cn	14.18.201.47,218.14.200.84	80,443	nginx	80:(404) 未找到
+search.dota2.com.cn	58.215.52.166	-	端口未开放	端口未开放
+api.dota2.com.cn	203.80.148.249	80,443	nginx	80:(403) 已禁止
+pay.dota2.com.cn	58.241.15.142	-	端口未开放	端口未开放
+img.dota2.com.cn	218.14.200.84,14.18.201.47	80,443	nginx	80:(403) 已禁止
+scgl.dota2.com.cn	58.215.52.75	-	端口未开放	端口未开放
+school.dota2.com.cn	58.241.15.142	-	端口未开放	端口未开放
+static.dota2.com.cn	203.80.148.249	80,443	nginx	80:(403) 已禁止
+userinfo.scgl.dota2.com.cn	221.6.124.180	-	端口未开放	端口未开放
+update.scgl.dota2.com.cn	221.6.124.174	-	端口未开放	端口未开放
+cdn.dota2.com.cn	218.14.200.84,14.18.201.47	80,443	nginx	80:正常访问
+content.dota2.com.cn	221.228.74.214	80	nginx	80:(403) 已禁止
+cs.dota2.com.cn	14.18.201.47,218.14.200.84	80,443	获取失败	80:-
+event.dota2.com.cn	221.228.74.214	80	nginx	80:正常访问
+workshop.dota2.com.cn	221.6.100.145	-	端口未开放	端口未开放
+jf.dota2.com.cn	221.228.193.166	-	端口未开放	端口未开放
+www.dota2.com.cn	14.18.201.47,218.14.200.84	80,443	获取失败	80:-

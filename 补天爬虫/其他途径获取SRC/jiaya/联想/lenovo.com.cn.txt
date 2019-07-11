@@ -1,0 +1,249 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+3g.lenovo.com.cn	163.171.140.176	80,443	wswaf/2.8.0-10.el6	80:正常访问
+c.lenovo.com.cn	58.220.70.6	80,443	wswaf/2.8.0-10.el6	80:(404) 未找到
+click.lenovo.com.cn	42.159.123.65	80,443	nginx/1.6.0	80:正常访问
+123.lenovo.com.cn	223.202.62.138	80	nginx/1.6.0	80:正常访问
+app.lenovo.com.cn	223.202.25.165	80	Tengine/2.1.1	80:(405) 不允许的方法
+cart.lenovo.com.cn	157.185.177.129	80	wswaf/2.8.0-10.el6	80:正常访问
+appserver.lenovo.com.cn	58.220.70.6	80	wswaf/2.8.0-10.el6	80:正常访问
+campus.lenovo.com.cn	139.217.22.157	80,443	获取失败	80:-
+club.lenovo.com.cn	139.217.21.181	80,443	nginx/1.12.2	80:正常访问
+driverdl.lenovo.com.cn	222.134.66.183,61.179.176.154,61.179.176.151,61.179.176.148,222.134.66.179,61.179.176.161,61.179.176.163,222.134.66.186,61.179.176.160,61.179.176.157	80,443	openresty	80:(404) 未找到
+fans.lenovo.com.cn	139.217.21.181	80,443	nginx/1.12.2	80:正常访问
+ec3.lenovo.com.cn	42.121.254.38	80	-	80:(503) 服务器不可用
+csr.lenovo.com.cn	123.125.148.47	80	WWW Server/1.1	80:正常访问
+hao.lenovo.com.cn	60.205.234.210	80,443		80:正常访问
+doer.lenovo.com.cn	121.197.11.34	-	端口未开放	端口未开放
+bbs.lenovo.com.cn	139.217.21.181	80,443	nginx/1.12.2	80:正常访问
+epp.lenovo.com.cn	58.220.70.6	80,443	wswaf/2.8.0-10.el6	80:正常访问
+e-learning.lenovo.com.cn	101.251.193.107	80,443	Apache	80:正常访问
+edu.lenovo.com.cn	43.255.224.219	80	nginx/1.8.0	80:正常访问
+home.lenovo.com.cn	123.57.205.155,123.57.227.207	-	端口未开放	端口未开放
+horizon.lenovo.com.cn	202.85.217.66	-	端口未开放	端口未开放
+lelink.lenovo.com.cn	120.27.185.145	80,443	nginx/1.4.5	80:正常访问
+jiazhipc.lenovo.com.cn	103.10.85.223	80	nginx	80:正常访问
+lexue.lenovo.com.cn	121.40.47.74	80,443	获取失败	80:-
+order.lenovo.com.cn	58.220.70.6	80,443	wswaf/2.8.0-10.el6	80:(404) 未找到
+mall.club.lenovo.com.cn	42.159.28.67	80,443	nginx/1.12.2	80:正常访问
+ideaservice.lenovo.com.cn	119.233.254.9,59.61.88.218	80	Microsoft-IIS/7.5	80:正常访问
+reg.lenovo.com.cn	58.220.70.6	80,443	wswaf/2.8.0-10.el6	80:(404) 未找到
+s.lenovo.com.cn	58.220.70.6	80,443	wswaf/2.8.0-10.el6	80:正常访问
+m.shopt.lenovo.com.cn	123.127.211.246,219.142.122.246	-	端口未开放	端口未开放
+saas.lenovo.com.cn	101.201.169.180	80,443		80:正常访问
+search.lenovo.com.cn	58.220.70.6	80,443	获取失败	80:-
+rs.lenovo.com.cn	223.203.218.102	80,443	nginx/1.15.2	80:正常访问
+i.lenovo.com.cn	58.220.70.6	80,443	wswaf/2.8.0-10.el6	80:正常访问
+servicekbuat.lenovo.com.cn	219.142.122.171	80	Microsoft-IIS/7.5	80:(403) 已禁止
+pic.shop.lenovo.com.cn	163.171.133.124	80,443	获取失败	80:-
+ms.lenovo.com.cn	123.125.148.46	80,443	nginx	80:正常访问
+shop.lenovo.com.cn	58.220.70.6	80,443	wswaf/2.8.0-10.el6	80:正常访问
+support1.lenovo.com.cn	180.149.155.32,180.149.155.41,180.149.155.37,180.149.155.39,180.149.155.35,180.149.155.36,180.149.155.40,180.149.155.38	80,443	Tengine	80:正常访问
+staff.lenovo.com.cn	139.217.10.9	80,443	获取失败	80:-
+thinkpad.lenovo.com.cn	58.220.70.6	80,443	wswaf/2.7.1-0.el6	80:正常访问
+techworld.lenovo.com.cn	47.104.233.131	80	nginx	80:正常访问
+support.lenovo.com.cn	122.72.89.205,122.72.89.206,122.72.89.207,122.72.89.208,122.72.89.231,122.72.89.203,122.72.89.204	443	Tengine	443:正常访问
+thinkbbs.lenovo.com.cn	139.217.21.181	80,443	nginx/1.12.2	80:正常访问
+thinkstationbp.lenovo.com.cn	210.51.191.28	-	端口未开放	端口未开放
+un.lenovo.com.cn	123.57.227.207	80	nginx/1.7.6	80:正常访问
+video.lenovo.com.cn	223.203.219.222	-	端口未开放	端口未开放
+visitor.lenovo.com.cn	118.144.76.26	-	端口未开放	端口未开放
+www.ms.lenovo.com.cn	123.125.148.46	80,443	nginx	80:正常访问
+think.lenovo.com.cn	113.215.225.29,113.215.225.97,113.215.225.96,113.215.225.33,113.215.225.32,113.215.225.30,113.215.225.31,113.215.225.28	80,443	Tengine	80:正常访问
+vod.lenovo.com.cn	43.255.224.36	80,443	Microsoft-IIS/8.5	80:(500) 内部服务器错误
+guest.lenovo.com.cn	163.171.130.132	80,443	获取失败	80:-
+z.lenovo.com.cn	43.255.225.247	80,443	-	80:(403) 已禁止
+wifi.lenovo.com.cn	42.121.80.167	-	端口未开放	端口未开放
+webdoc.lenovo.com.cn	116.77.66.114,116.77.66.113,116.77.66.116,116.77.66.118,116.77.66.119,116.77.66.117,116.77.66.120,116.77.66.115	80	Tengine	80:正常访问
+www.lenovo.com.cn	58.220.70.6	80,443	wswaf/2.8.0-10.el6	80:正常访问
+zhi.lenovo.com.cn	115.29.212.222	80,443	Apache	80:正常访问
+x3.lenovo.com.cn	43.255.225.247	80,443		80:正常访问
+zhongce.lenovo.com.cn	60.205.234.210	80,443		80:正常访问
+y.lenovo.com.cn	123.150.177.28	80,443	nginx/1.6.3	80:正常访问
+videoservice.lenovo.com.cn	43.255.224.36	80,443	Microsoft-IIS/8.5	80:(500) 内部服务器错误
+zma.lenovo.com.cn	211.144.37.226	-	端口未开放	端口未开放
+cc.lenovo.com.cn	114.113.233.249	80,443	Apache-Coyote/1.1	80:正常访问
+v.lenovo.com.cn	54.223.159.135	-	端口未开放	端口未开放
+www3.lenovo.com.cn	163.171.140.176	80,443	wswaf/2.8.0-10.el6	80:正常访问
+vip.lenovo.com.cn	114.247.140.84,124.127.169.84	80	Microsoft-IIS/7.5	80:尝试自动重定向的次数太多
+tv.lenovo.com.cn	47.95.170.121	80	获取失败	80:-
+system.lenovo.com.cn	61.147.84.44	80,443	nginx	80:(403) 已禁止
+mall.lenovo.com.cn	58.220.70.6	80,443	wswaf/2.8.0-10.el6	80:正常访问
+apps.lenovo.com.cn	60.205.234.210	80,443	openresty	80:正常访问
+m.shop.lenovo.com.cn	163.171.133.124	80,443	wswaf/2.8.0-10.el6	80:正常访问
+news.lenovo.com.cn	58.220.70.6	80,443	wswaf/2.8.0-10.el6	80:(403) 已禁止
+ai.lenovo.com.cn	47.95.68.57	-	端口未开放	端口未开放
+buy.lenovo.com.cn	58.220.70.6	80,443	wswaf/2.8.0-10.el6	80:正常访问
+log.lenovo.com.cn	124.127.169.190,114.247.140.190	80,443	nginx	80:(404) 未找到
+openapi.lenovo.com.cn	58.220.70.6	80,443	wswaf/2.8.0-10.el6	80:正常访问
+report.lenovo.com.cn	123.57.227.207	80	获取失败	80:-
+open.lenovo.com.cn	58.220.70.6	80,443	wswaf/2.8.0-10.el6	80:正常访问
+hello.lenovo.com.cn	60.205.234.210	80,443		80:正常访问
+docs.lenovo.com.cn	125.39.184.62	-	端口未开放	端口未开放
+my.lenovo.com.cn	59.110.148.212	80,443		80:正常访问
+passport.lenovo.com.cn	223.202.25.14	80,443	nginx	80:正常访问
+message.lenovo.com.cn	124.127.169.223,114.247.140.223	-	端口未开放	端口未开放
+js.lenovo.com.cn	205.185.216.42,205.185.216.10	80,443	-	80:(403) 已禁止
+ip.lenovo.com.cn	39.107.222.167	80,443	-	80:(502) 错误的网关
+download3.lenovo.com.cn	123.57.227.207,123.57.205.155	80	nginx/1.7.6	80:正常访问
+download2.lenovo.com.cn	124.127.169.204	80	Microsoft-IIS/6.0	80:(403) 已禁止
+activity.lenovo.com.cn	163.171.140.176	80,443	-	80:(403) 已禁止
+yunpan.lenovo.com.cn	114.113.233.240	80,443	nginx	80:(401) 未经授权
+shouji.lenovo.com.cn	43.255.225.247	80,443	wswaf/2.8.0-10.el6	80:(404) 未找到
+pan.lenovo.com.cn	114.113.233.135	80	nginx	80:正常访问
+plus.lenovo.com.cn	59.110.148.212	80,443		80:正常访问
+public.lenovo.com.cn	61.147.84.44	80,443	nginx	80:正常访问
+sec.lenovo.com.cn	58.220.70.6	80,443	wswaf/2.8.0-10.el6	80:(404) 未找到
+ad.lenovo.com.cn	39.106.247.28	-	端口未开放	端口未开放
+play.lenovo.com.cn	47.95.65.78	443		443:正常访问
+dl.lenovo.com.cn	180.101.56.189,180.101.56.190,60.191.248.59,60.191.248.60	80,443	openresty	80:(403) 已禁止
+hi.lenovo.com.cn	60.205.234.210	80,443		80:正常访问
+admin.lenovo.com.cn	163.171.131.129	80,443	获取失败	80:-
+show.lenovo.com.cn	47.94.120.88	443		443:正常访问
+tool.lenovo.com.cn	123.57.205.155,123.57.227.207	-	端口未开放	端口未开放
+pay.lenovo.com.cn	124.127.169.207,114.247.140.207	443	nginx	443:正常访问
+so.lenovo.com.cn	59.110.148.212	80,443		80:正常访问
+bd.lenovo.com.cn	60.205.234.210	80,443	-	80:(400) 错误的请求
+am.lenovo.com.cn	182.92.244.228	80,443		80:正常访问
+b2b.lenovo.com.cn	80.231.126.184,80.231.126.185,80.231.126.181,80.231.126.182,80.231.126.183	80,443	Tengine	80:正常访问
+business.lenovo.com.cn	182.92.244.228	80,443		80:正常访问
+cs.lenovo.com.cn	43.255.225.247	80,443		80:正常访问
+guanjia.lenovo.com.cn	58.222.16.18,117.92.228.18,117.92.228.21,117.92.228.19,117.92.228.16,58.222.16.17,117.92.228.13,117.92.228.17,117.92.228.20,117.92.228.15	80,443	openresty	80:正常访问
+education.lenovo.com.cn	60.205.234.210	80,443		80:正常访问
+dc.lenovo.com.cn	80.231.126.185,80.231.126.181,80.231.126.182,80.231.126.183,80.231.126.184	80,443	Tengine	80:正常访问
+data.lenovo.com.cn	223.202.62.234	-	端口未开放	端口未开放
+go.lenovo.com.cn	60.205.234.210	80,443		80:正常访问
+k12.lenovo.com.cn	43.255.225.247	80,443	-	80:(403) 已禁止
+hub.lenovo.com.cn	10.96.144.26	-	端口未开放	端口未开放
+localhost.lenovo.com.cn	127.0.0.1	-	端口未开放	端口未开放
+member.lenovo.com.cn	43.255.225.247	80,443	-	80:(403) 已禁止
+mt.lenovo.com.cn	117.92.228.15,58.222.16.18,117.92.228.18,117.92.228.21,117.92.228.19,117.92.228.16,58.222.16.17,117.92.228.13,117.92.228.17,117.92.228.20	80,443	openresty	80:(403) 已禁止
+ns4.lenovo.com.cn	219.141.216.95	-	端口未开放	端口未开放
+ns3.lenovo.com.cn	12.11.224.132	-	端口未开放	端口未开放
+ns2.lenovo.com.cn	202.96.27.95	-	端口未开放	端口未开放
+mia.lenovo.com.cn	121.199.72.218	80	nginx/1.11.6	80:正常访问
+office.lenovo.com.cn	125.39.184.62	-	端口未开放	端口未开放
+pt.lenovo.com.cn	60.205.234.210	80,443		80:正常访问
+io.lenovo.com.cn	114.113.233.214	443	获取失败	443:-
+po.lenovo.com.cn	223.202.212.29	443	nginx/1.10.2	443:正常访问
+lt.lenovo.com.cn	60.205.234.210	80,443		80:正常访问
+retail.lenovo.com.cn	106.37.234.53,111.205.39.53	80	nginx/1.12.1	80:正常访问
+sl.lenovo.com.cn	59.110.148.212	80,443		80:正常访问
+solutions.lenovo.com.cn	192.168.0.1	-	端口未开放	端口未开放
+switch.lenovo.com.cn	39.106.232.212	443		443:正常访问
+store.lenovo.com.cn	210.51.174.219	-	端口未开放	端口未开放
+tk.lenovo.com.cn	163.171.140.176	80,443	-	80:(403) 已禁止
+hit.lenovo.com.cn	127.0.0.1	-	端口未开放	端口未开放
+trade.lenovo.com.cn	43.255.225.247	80,443	-	80:(403) 已禁止
+p1.lenovo.com.cn	43.255.225.247	80,443		80:正常访问
+raise.lenovo.com.cn	58.220.70.6	80,443	wswaf/2.8.0-10.el6	80:正常访问
+solution.lenovo.com.cn	42.121.0.11	-	端口未开放	端口未开放
+cloud.lenovo.com.cn	114.113.233.222	80,443	Apache	80:正常访问
+analysis.lenovo.com.cn	0.0.0.0	-	端口未开放	端口未开放
+reward.lenovo.com.cn	43.255.225.247	80,443		80:正常访问
+standards.lenovo.com.cn	43.255.224.24	-	端口未开放	端口未开放
+driver.lenovo.com.cn	60.205.234.210	80,443		80:正常访问
+vision.lenovo.com.cn	114.247.140.12,124.127.169.12	-	端口未开放	端口未开放
+welfare.lenovo.com.cn	223.202.108.21	-	端口未开放	端口未开放
+item.lenovo.com.cn	163.171.140.176	80,443	-	80:(403) 已禁止
+talent.lenovo.com.cn	139.217.22.157	80,443	获取失败	80:-
+survey.lenovo.com.cn	59.109.111.230,59.109.111.232,59.109.111.228,59.109.111.233,59.109.111.227,59.109.111.231,59.109.111.226,59.109.111.229	-	端口未开放	端口未开放
+awareness.lenovo.com.cn	114.113.233.214	443	获取失败	443:-
+promotion.lenovo.com.cn	58.220.70.6	80,443	wswaf/2.8.0-10.el6	80:(404) 未找到
+10.ad.lenovo.com.cn	39.106.247.28	-	端口未开放	端口未开放
+smart.lenovo.com.cn	47.95.71.249	80	-	80:(502) 错误的网关
+appdl.lenovo.com.cn	124.200.113.183,124.200.113.182	-	端口未开放	端口未开放
+audio.lenovo.com.cn	59.110.148.212	80,443	-	80:(403) 已禁止
+b2badmin.lenovo.com.cn	59.110.146.43	80		80:正常访问
+authdev.lenovo.com.cn	39.107.212.203	-	端口未开放	端口未开放
+cnt.ad.lenovo.com.cn	39.106.247.28	-	端口未开放	端口未开放
+daohang.lenovo.com.cn	60.205.234.210	80,443		80:正常访问
+coupon.lenovo.com.cn	43.255.225.247	80,443	wswaf/2.8.0-10.el6	80:正常访问
+fuli.lenovo.com.cn	118.190.202.130	-	端口未开放	端口未开放
+hao123.lenovo.com.cn	123.57.227.207	80	Apache	80:正常访问
+huan.lenovo.com.cn	43.255.225.247	80,443	-	80:(403) 已禁止
+idata.lenovo.com.cn	124.127.169.230,114.247.140.230	80	Apache-Coyote/1.1	80:(405) 不允许的方法
+kuaidi.lenovo.com.cn	124.127.169.134,114.247.140.134	80	nginx	80:正常访问
+legou.lenovo.com.cn	60.205.234.210	80,443		80:正常访问
+oauth2.lenovo.com.cn	39.106.232.208	-	端口未开放	端口未开放
+openvpn.bjbgp.lenovo.com.cn	49.2.123.56	-	端口未开放	端口未开放
+plugin.lenovo.com.cn	43.255.225.247	80,443		80:正常访问
+qiang.lenovo.com.cn	58.220.70.6	80,443	wswaf/2.8.0-10.el6	80:(404) 未找到
+scrm.lenovo.com.cn	59.110.145.113	80	nginx	80:正常访问
+sentry.lenovo.com.cn	43.255.224.224	-	端口未开放	端口未开放
+sg.ad.lenovo.com.cn	39.106.247.28	-	端口未开放	端口未开放
+svip.lenovo.com.cn	59.110.148.212	80,443		80:正常访问
+ting.lenovo.com.cn	124.127.169.194,114.247.140.194	80,443	Tengine	80:正常访问
+vmall.lenovo.com.cn	157.185.177.129	80	Cdn Cache Server V2.0	80:(503) 服务器不可用
+wuliu.lenovo.com.cn	43.255.225.247	80,443		80:正常访问
+xiaoxi.lenovo.com.cn	113.207.42.36,113.207.42.37,113.207.42.43,113.207.42.41,113.207.42.38,113.207.42.42,113.207.42.39,113.207.42.40	80,443	Tengine	80:(403) 已禁止
+wo.lenovo.com.cn	59.110.148.212	80,443		80:正常访问
+gk.lenovo.com.cn	184.51.15.78,184.51.15.87	80,443	Microsoft-IIS/6.0	80:(403) 已禁止
+adx.lenovo.com.cn	60.205.236.78	80,443		80:正常访问
+aio.lenovo.com.cn	47.91.203.113	80,443	nginx	80:正常访问
+ats.lenovo.com.cn	192.168.0.1	-	端口未开放	端口未开放
+bss.lenovo.com.cn	47.95.65.78	443	-	443:(404) 未找到
+ui.lenovo.com.cn	123.57.227.207,123.57.205.155	80	nginx/1.7.6	80:正常访问
+clk.lenovo.com.cn	182.92.244.228	80,443		80:正常访问
+cui.lenovo.com.cn	39.107.146.170	443	获取失败	443:-
+dcg.lenovo.com.cn	80.231.126.186,80.231.126.236,80.231.126.181,80.231.126.182,80.231.126.183,80.231.126.184,80.231.126.185	80,443	Tengine	80:正常访问
+dsp.lenovo.com.cn	182.92.244.228	80,443		80:正常访问
+epg.lenovo.com.cn	47.95.65.78	443		443:正常访问
+eic.lenovo.com.cn	114.247.140.189,124.127.169.189	80	Apache/2.2.15 (CentOS)	80:正常访问
+ezg.lenovo.com.cn	60.205.82.22	80,443		80:正常访问
+dpp.lenovo.com.cn	124.127.169.52,114.247.140.52	443	Apache-Coyote/1.1	443:(500) 内部服务器错误
+hci.lenovo.com.cn	47.91.203.113	80,443	nginx	80:正常访问
+iot.lenovo.com.cn	59.110.148.212	80,443		80:正常访问
+ire.lenovo.com.cn	101.201.170.156	80,443	-	80:(404) 未找到
+jzh.lenovo.com.cn	39.106.201.95	80	nginx	80:(403) 已禁止
+lav.lenovo.com.cn	124.238.232.248	80,443	Tengine	80:(403) 已禁止
+ldc.lenovo.com.cn	60.205.234.210	80,443		80:正常访问
+kan.lenovo.com.cn	42.121.0.106	-	端口未开放	端口未开放
+lex.lenovo.com.cn	59.110.95.239	80		80:正常访问
+lvs.lenovo.com.cn	43.255.225.247	80,443	-	80:(403) 已禁止
+lbs.lenovo.com.cn	39.96.9.231	80	nginx	80:正常访问
+mau.lenovo.com.cn	115.29.16.130	-	端口未开放	端口未开放
+lms.lenovo.com.cn	114.247.140.84,124.127.169.84	80	Microsoft-IIS/7.5	80:(403) 已禁止
+mbr.lenovo.com.cn	115.29.16.130	-	端口未开放	端口未开放
+mca.lenovo.com.cn	115.29.16.130	-	端口未开放	端口未开放
+mde.lenovo.com.cn	115.29.16.130	-	端口未开放	端口未开放
+mcn.lenovo.com.cn	223.202.62.232,223.202.62.231	-	端口未开放	端口未开放
+mfr.lenovo.com.cn	115.29.16.130	-	端口未开放	端口未开放
+mes.lenovo.com.cn	115.29.16.130	-	端口未开放	端口未开放
+min.lenovo.com.cn	115.29.16.130	-	端口未开放	端口未开放
+mit.lenovo.com.cn	115.29.16.130	-	端口未开放	端口未开放
+mjp.lenovo.com.cn	115.29.16.130	-	端口未开放	端口未开放
+mmx.lenovo.com.cn	115.29.16.130	-	端口未开放	端口未开放
+mms.lenovo.com.cn	121.199.251.58	-	端口未开放	端口未开放
+nsl.lenovo.com.cn	59.110.148.212	80,443		80:正常访问
+muk.lenovo.com.cn	115.29.16.130	-	端口未开放	端口未开放
+lva.lenovo.com.cn	39.107.149.30	80		80:正常访问
+mus.lenovo.com.cn	54.215.241.186	-	端口未开放	端口未开放
+pdl.lenovo.com.cn	47.94.120.88	443		443:正常访问
+ota.lenovo.com.cn	39.107.211.181	80,443	-	80:(405) 不允许的方法
+pms.lenovo.com.cn	114.247.140.173,124.127.169.173	80	Microsoft-IIS/8.5	80:正常访问
+skm.lenovo.com.cn	110.84.129.35	80,443	Microsoft-IIS/7.5	80:(404) 未找到
+smg.lenovo.com.cn	210.12.225.14,124.127.169.49	80,443		80:正常访问
+srv.lenovo.com.cn	58.220.70.6	80,443	wswaf/2.8.0-10.el6	80:(404) 未找到
+sho.lenovo.com.cn	59.110.148.212	80,443		80:正常访问
+sdo.lenovo.com.cn	39.107.212.106	80,443	-	80:(405) 不允许的方法
+vgs.lenovo.com.cn	47.95.65.78	443		443:正常访问
+upe.lenovo.com.cn	101.201.169.180	80,443	-	80:(404) 未找到
+yhq.lenovo.com.cn	221.122.108.125	80,443	-	80:(404) 未找到
+yao.lenovo.com.cn	39.105.227.3	443		443:正常访问
+anls.lenovo.com.cn	43.255.224.79	80	openresty/1.9.7.2	80:(403) 已禁止
+daam.lenovo.com.cn	106.37.234.3	80,443	nginx	80:正常访问
+dccs.lenovo.com.cn	115.182.62.215	80	Apache	80:(503) 服务器不可用
+dhbs.lenovo.com.cn	59.110.91.6	80,443	openresty	80:正常访问
+ewbs.lenovo.com.cn	47.95.170.121	80	openresty/1.11.2.3	80:正常访问
+iiot.lenovo.com.cn	114.113.233.233	80,443	nginx/1.8.0	80:(500) 内部服务器错误
+leas.lenovo.com.cn	123.59.48.68	80,443	openresty	80:正常访问
+ldcx.lenovo.com.cn	60.205.234.210	80,443	获取失败	80:-
+mbuy.lenovo.com.cn	58.220.70.6	80,443	wswaf/2.8.0-10.el6	80:(500) 内部服务器错误
+moto.lenovo.com.cn	223.202.62.211	80,443	获取失败	80:-
+papi.lenovo.com.cn	58.220.70.6	80,443	wswaf/2.8.0-10.el6	80:(403) 已禁止
+rili.lenovo.com.cn	223.202.19.119	-	端口未开放	端口未开放
+siot.lenovo.com.cn	59.110.148.212	80,443		80:正常访问
+upem.lenovo.com.cn	101.201.169.180	80,443	-	80:(403) 已禁止
+wwme.lenovo.com.cn	110.87.96.77	80	Apache/2.4.29 (Win64)	80:正常访问
+m.lenovo.com.cn	58.220.70.6	80,443	获取失败	80:-
+ideaclub.lenovo.com.cn	139.217.21.181	80,443	获取失败	80:-

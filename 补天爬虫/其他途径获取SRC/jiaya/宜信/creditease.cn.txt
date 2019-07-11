@@ -1,0 +1,59 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+cbdic.creditease.cn	101.254.100.56	80,443	Tengine	80:(405) 不允许的方法
+yuekan.creditease.cn	101.254.241.96	80,443	Tengine	80:正常访问
+xinyi.creditease.cn	117.122.213.48	80,443	nginx	80:(502) 错误的网关
+xiaobeike.creditease.cn	122.228.238.10,112.90.216.95	80,443		80:正常访问
+www.creditease.cn	101.254.241.96	80,443	Tengine	80:(403) 已禁止
+brand.creditease.cn	122.228.238.10,111.47.226.198	80,443		80:正常访问
+service.creditease.cn	101.254.241.65	80,443	nginx	80:正常访问
+caifu.creditease.cn	117.122.213.197	80,443	Tengine	80:正常访问
+m.creditease.cn	117.122.213.197	80,443	Tengine	80:(404) 未找到
+user.creditease.cn	112.90.216.95,1.31.128.236	80,443	-	80:(502) 错误的网关
+email.creditease.cn	123.58.253.4	80,443	-	80:(400) 错误的请求
+campus.creditease.cn	113.107.238.207,1.31.128.236	80,443	获取失败	80:-
+jobs.creditease.cn	112.90.216.95,113.107.238.207	80,443	获取失败	80:-
+yunpan.creditease.cn	101.37.96.255	80,443		80:正常访问
+security.creditease.cn	117.122.213.73	80,443	nginx/1.12.1	80:正常访问
+bbs.creditease.cn	36.110.135.130	-	端口未开放	端口未开放
+video.creditease.cn	117.122.208.86	80	apache/2.2.3	80:正常访问
+crm.creditease.cn	117.122.213.171	80	-	80:(400) 错误的请求
+fs.creditease.cn	117.122.213.252	80	nginx	80:(403) 已禁止
+mc.creditease.cn	101.254.100.48	80,443	Tengine	80:(404) 未找到
+nd.creditease.cn	101.254.241.78	80,443	Tengine	80:正常访问
+mailing.creditease.cn	8.33.184.254,63.149.195.18,67.134.222.254	80,443	Apache	80:正常访问
+sms.creditease.cn	101.254.100.6	80,443	nginx	80:(403) 已禁止
+im.creditease.cn	123.58.253.8	-	端口未开放	端口未开放
+oc.creditease.cn	117.122.213.245	80	CMDP v0.1	80:(404) 未找到
+english.creditease.cn	117.122.213.195	80,443		80:正常访问
+vc.creditease.cn	117.122.213.254	443	获取失败	443:-
+college.creditease.cn	117.122.213.43	80,443	Tengine	80:正常访问
+potential.creditease.cn	117.122.213.48	80,443	nginx	80:(404) 未找到
+di.creditease.cn	221.122.36.162	80,443	Tengine	80:正常访问
+bstest.creditease.cn	39.155.251.252	80,443	Tengine/2.2.2	80:(403) 已禁止
+choujiang.creditease.cn	36.110.135.130	-	端口未开放	端口未开放
+f5cuc.creditease.cn	111.198.181.150	-	端口未开放	端口未开放
+f5ctc.creditease.cn	36.110.49.150	-	端口未开放	端口未开放
+huimin.creditease.cn	117.122.213.197	80,443	Tengine	80:(403) 已禁止
+sogou.creditease.cn	117.122.213.43	80,443	获取失败	80:-
+mf.creditease.cn	101.254.241.96	80,443	Tengine	80:(404) 未找到
+cmo.creditease.cn	117.122.213.54	80,443	nginx	80:(400) 错误的请求
+fp.creditease.cn	36.110.135.130	-	端口未开放	端口未开放
+bpm.creditease.cn	118.145.13.89,111.207.203.242,219.143.6.242	-	端口未开放	端口未开放
+icp.creditease.cn	219.143.6.241,118.145.13.88,111.207.203.241	-	端口未开放	端口未开放
+mhr.creditease.cn	117.122.213.73,101.254.234.8	80,443	nginx/1.12.1	80:正常访问
+meg.creditease.cn	123.58.253.5	-	端口未开放	端口未开放
+oft.creditease.cn	1.31.128.236,113.107.238.207	80,443	获取失败	80:-
+tdm.creditease.cn	101.254.100.45	80,443	nginx	80:正常访问
+accs.creditease.cn	117.122.213.48	80,443	nginx	80:正常访问
+bjzc.creditease.cn	117.122.213.197	80,443	Tengine	80:正常访问
+cmos.creditease.cn	117.122.213.48	80,443	nginx	80:(400) 错误的请求
+crdc.creditease.cn	112.90.216.95,113.107.238.207	80,443	获取失败	80:-
+eb2c.creditease.cn	67.134.222.254,63.149.195.18,8.33.184.254	80,443	Apache	80:正常访问
+hrxn.creditease.cn	101.254.100.6	80,443	nginx	80:(502) 错误的网关
+jhjj.creditease.cn	113.209.197.130	80,443	Tengine	80:正常访问
+meg1.creditease.cn	123.58.253.10	-	端口未开放	端口未开放
+mhr1.creditease.cn	101.254.100.48	80,443	Tengine	80:(502) 错误的网关
+mhr0.creditease.cn	101.254.100.48	80,443	Tengine	80:正常访问
+mypc.creditease.cn	117.122.213.249	443		443:正常访问
+simc.creditease.cn	113.107.238.207,1.31.128.236	80,443	获取失败	80:-
+zhzq.creditease.cn	117.122.213.195	80,443		80:正常访问

@@ -1,0 +1,22 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+e.ganji.com	154.8.240.62	80,443	Tengine	80:(404) 未找到
+app.ganji.com	154.8.240.62	80,443	Tengine	80:(463)
+tousu.ganji.com	154.8.240.62	80,443	Tengine	80:正常访问
+phone.ganji.com	154.8.240.62	80,443	Tengine	80:(508)
+mobile.ganji.com	154.8.240.68	80,443	Tengine	80:正常访问
+union.ganji.com	124.251.6.109	-	端口未开放	端口未开放
+passport.ganji.com	154.8.240.60	443	Tengine	443:(403) 已禁止
+web.ganji.com	211.151.202.164	-	端口未开放	端口未开放
+oa.ganji.com	192.168.64.35	-	端口未开放	端口未开放
+sta.ganji.com	115.159.231.176	80,443	Tengine	80:(403) 已禁止
+upload.ganji.com	123.151.157.51,123.151.158.151	80,443	nginx	80:正常访问
+top.ganji.com	154.8.240.11	80,443	Tengine	80:正常访问
+bus.ganji.com	154.8.240.68	80,443	Tengine	80:正常访问
+send.ganji.com	36.110.51.107	-	端口未开放	端口未开放
+analytics.ganji.com	154.8.240.62	80,443	Tengine	80:(404) 未找到
+beta.news.ganji.com	124.251.6.106	-	端口未开放	端口未开放
+callback.ganji.com	154.8.240.62	80,443	Tengine	80:(404) 未找到
+mobsa.ganji.com	124.251.6.109	-	端口未开放	端口未开放
+pic.news.ganji.com	124.251.6.106	-	端口未开放	端口未开放
+wxtest.ganji.com	122.11.37.150	-	端口未开放	端口未开放
+yinhe.ganji.com	154.8.240.62	80,443	Tengine	80:正常访问

@@ -1,0 +1,79 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+rp.sangfor.com.cn	113.105.88.60	80,443	nginx	80:正常访问
+partner.sangfor.com.cn	113.105.88.60	80,443	nginx	80:正常访问
+rma.sangfor.com.cn	113.105.88.157	80,443	*****	80:正常访问
+old.sangfor.com.cn	113.105.88.157	80,443	*****	80:正常访问
+service.sangfor.com.cn	113.105.88.157	80,443	*****	80:正常访问
+security.sangfor.com.cn	113.105.88.60	80,443	nginx	80:正常访问
+sipc.sangfor.com.cn	113.105.88.60	80,443	nginx	80:正常访问
+ssl.sangfor.com.cn	113.105.88.157	80,443	nginx	80:正常访问
+svr.sangfor.com.cn	113.105.88.60	80,443	nginx	80:正常访问
+www.sangfor.com.cn	113.105.88.157	80,443	*****	80:正常访问
+bbs.sangfor.com.cn	221.229.202.27,58.221.28.166	80,443	Apache	80:正常访问
+sec.sangfor.com.cn	114.215.138.248	80	nginx	80:正常访问
+e.sangfor.com.cn	123.103.18.6	80,443	nginx	80:正常访问
+m.sangfor.com.cn	113.105.88.157	80,443	*****	80:正常访问
+pop3.sangfor.com.cn	123.58.177.223	-	端口未开放	端口未开放
+x.sangfor.com.cn	219.135.99.248	80,443	获取失败	80:-
+mail.sangfor.com.cn	123.58.177.239	80,443	nginx	80:正常访问
+cloudscan.sangfor.com.cn	119.61.11.228	-	端口未开放	端口未开放
+mobile.sangfor.com.cn	113.105.88.157	80,443	*****	80:正常访问
+download.sangfor.com.cn	114.236.90.107	80,443	WS-web-server	80:(400) 错误的请求
+service.sangfor.com.cn	113.105.88.157	80,443	*****	80:正常访问
+video.sangfor.com.cn	222.186.145.185	80,443	WS-web-server	80:(400) 错误的请求
+shop.sangfor.com.cn	121.46.30.237	80		80:正常访问
+test.sangfor.com.cn	121.199.250.10	80	Tengine	80:(512)
+forum.sangfor.com.cn	49.51.11.89	80	DNSPod URL V2.0	80:(404) 未找到
+web.sangfor.com.cn	113.105.88.58	-	端口未开放	端口未开放
+pan.sangfor.com.cn	49.51.11.89	80	DNSPod URL V2.0	80:(404) 未找到
+auth.sangfor.com.cn	121.46.30.34	443	nginx	443:(404) 未找到
+clt.sangfor.com.cn	183.60.252.66	443	nginx	443:(404) 未找到
+cm.sangfor.com.cn	120.237.110.190	443	Server	443:正常访问
+channel.sangfor.com.cn	211.162.75.61	-	端口未开放	端口未开放
+ct.sangfor.com.cn	202.105.147.78	443	Server	443:正常访问
+cu.sangfor.com.cn	58.250.251.83	443	Server	443:正常访问
+wiki.sangfor.com.cn	119.28.48.239,203.195.149.17	80	获取失败	80:-
+meeting.sangfor.com.cn	121.46.4.38	80	Microsoft-IIS/8.5	80:正常访问
+mirror.sangfor.com.cn	114.118.7.28	80,443	nginx/1.10.3 (Ubuntu)	80:正常访问
+labs.sangfor.com.cn	121.46.30.184	80		80:正常访问
+nm.sangfor.com.cn	121.46.26.181	443		443:正常访问
+site.sangfor.com.cn	113.105.88.157	80,443	*****	80:(400) 错误的请求
+pop.sangfor.com.cn	123.58.177.223	-	端口未开放	端口未开放
+smtp.sangfor.com.cn	123.58.177.123,123.58.177.124	-	端口未开放	端口未开放
+vpn.sangfor.com.cn	113.105.88.157	80,443	*****	80:正常访问
+webmail.sangfor.com.cn	123.58.177.239	80,443	nginx	80:正常访问
+bak.sangfor.com.cn	113.105.88.157	80,443	Apache	80:正常访问
+mx2.sangfor.com.cn	222.126.229.182	443	Apache	443:(404) 未找到
+rm.sangfor.com.cn	113.105.88.152	80	Apache	80:正常访问
+cloud.sangfor.com.cn	183.60.123.3	-	端口未开放	端口未开放
+eye.sangfor.com.cn	114.118.7.182	-	端口未开放	端口未开放
+mx1.sangfor.com.cn	202.96.137.75	80	nginx	80:正常访问
+shield.sangfor.com.cn	114.118.7.33	443	Apache	443:正常访问
+analysis.sangfor.com.cn	121.46.30.35	443	nginx	443:正常访问
+intelligence.sangfor.com.cn	121.46.30.36	443	nginx	443:正常访问
+exam.sangfor.com.cn	121.46.4.38	80	Microsoft-IIS/8.5	80:正常访问
+saas.sangfor.com.cn	114.118.7.25	80,443	Apache	80:正常访问
+saas2.sangfor.com.cn	121.46.30.45	443	获取失败	443:-
+testssl.sangfor.com.cn	113.105.88.157	80,443	*****	80:正常访问
+weixin1.sangfor.com.cn	117.48.147.94	443	获取失败	443:-
+weixin2.sangfor.com.cn	117.48.147.94	443	获取失败	443:-
+cti.sangfor.com.cn	120.237.110.190	443	Server	443:正常访问
+eps.sangfor.com.cn	121.46.26.200	80,443	Apache/2.4.7 (Ubuntu)	80:(403) 已禁止
+emm.sangfor.com.cn	202.105.147.77	443	Server	443:正常访问
+edr.sangfor.com.cn	121.46.130.103	80,443	nginx/1.4.6 (Ubuntu)	80:正常访问
+gcs.sangfor.com.cn	113.105.88.62	443	Apache	443:(404) 未找到
+pps.sangfor.com.cn	113.105.88.60	80,443	nginx	80:正常访问
+sos.sangfor.com.cn	121.46.30.45	443	获取失败	443:-
+sip.sangfor.com.cn	121.46.4.164	80,443	MOAWebSrv	80:正常访问
+soc.sangfor.com.cn	125.88.254.3	80,443	获取失败	80:-
+vls.sangfor.com.cn	113.105.88.155	443	Apache	443:(404) 未找到
+upd.sangfor.com.cn	121.46.30.38	443	nginx	443:(404) 未找到
+wss.sangfor.com.cn	121.46.4.104	80,443	Apache	80:正常访问
+zbs.sangfor.com.cn	117.48.147.102	80	************	80:正常访问
+cpxx.sangfor.com.cn	49.51.11.89	80	获取失败	80:-
+dltc.sangfor.com.cn	113.105.88.58	-	端口未开放	端口未开放
+mssp.sangfor.com.cn	125.88.254.3	80,443	获取失败	80:-
+ssec.sangfor.com.cn	121.46.26.213	80	获取失败	80:-
+yswx.sangfor.com.cn	121.46.30.46	443	获取失败	443:-
+yywx.sangfor.com.cn	114.118.7.185	-	端口未开放	端口未开放
+yd.sangfor.com.cn	125.88.254.32	80,443	获取失败	80:-

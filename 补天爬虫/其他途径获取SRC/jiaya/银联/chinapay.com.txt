@@ -1,0 +1,75 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+apps.chinapay.com	202.101.7.70	80,443	IBM_HTTP_Server	80:正常访问
+come.chinapay.com	124.74.242.108	80,443		80:正常访问
+card.chinapay.com	124.74.242.126	80,443	IBM_HTTP_Server	80:正常访问
+airepay.chinapay.com	58.49.121.73	80,443	Apache-Coyote/1.1	80:正常访问
+control.chinapay.com	124.74.239.195	80,443	IBM_HTTP_Server	80:正常访问
+console.chinapay.com	124.74.239.195	80,443	IBM_HTTP_Server	80:正常访问
+bianmin.chinapay.com	124.74.242.102	80,443		80:正常访问
+foodtest.chinapay.com	124.74.242.108	80,443		80:正常访问
+bianmin-test.chinapay.com	140.206.112.244	80	IBM_HTTP_Server	80:正常访问
+flight.chinapay.com	58.49.121.68	80,443		80:正常访问
+finance.chinapay.com	58.49.121.71	80,443		80:正常访问
+haiguan.chinapay.com	58.49.121.69	80,443	nginx	80:正常访问
+apply.chinapay.com	124.74.239.196	80	IBM_HTTP_Server	80:(404) 未找到
+bak.chinapay.com	61.129.122.137	-	端口未开放	端口未开放
+payment.chinapay.com	61.129.122.135	80,443	IBM_HTTP_Server	80:(403) 已禁止
+payment-test.chinapay.com	140.206.112.242	80,443	IBM_HTTP_Server	80:(403) 已禁止
+bbs-mall.chinapay.com	180.169.95.138	-	端口未开放	端口未开放
+sfj.chinapay.com	202.101.7.69	80,443	IBM_HTTP_Server	80:正常访问
+sfj-test.chinapay.com	112.65.158.89	80,443	IBM_HTTP_Server	80:正常访问
+emall.chinapay.com	180.169.95.138	-	端口未开放	端口未开放
+test.chinapay.com	124.74.239.195	80,443	IBM_HTTP_Server	80:正常访问
+huodong.emall.chinapay.com	180.169.95.138	-	端口未开放	端口未开放
+iccard.chinapay.com	58.49.121.72	-	端口未开放	端口未开放
+img.chinapay.com	180.169.95.138	-	端口未开放	端口未开放
+www.chinapay.com	124.74.242.108	80,443		80:正常访问
+www.tp.chinapay.com	124.74.242.108	80,443		80:正常访问
+livex.chinapay.com	218.80.244.36	-	端口未开放	端口未开放
+oa.chinapay.com	218.80.244.42	-	端口未开放	端口未开放
+r.chinapay.com	202.101.7.69	80,443		80:正常访问
+ora.chinapay.com	202.101.7.72	-	端口未开放	端口未开放
+mail.chinapay.com	218.80.244.37	80,443	Apache-Coyote/1.1	80:正常访问
+search.emall.chinapay.com	180.169.95.138	-	端口未开放	端口未开放
+ai.chinapay.com	218.80.244.44	80,443	nginx	80:正常访问
+shanglv.chinapay.com	59.151.11.27	-	端口未开放	端口未开放
+ht.chinapay.com	112.65.158.93	80,443	获取失败	80:-
+mobile.chinapay.com	61.129.122.142	80,443	-	80:(403) 已禁止
+yl.cp.chinapay.com	59.37.173.239	-	端口未开放	端口未开放
+service.chinapay.com	124.74.242.122	80,443		80:正常访问
+pay.chinapay.com	124.74.239.195	80,443	IBM_HTTP_Server	80:正常访问
+download.chinapay.com	124.74.239.215	443	IBM_HTTP_Server	443:正常访问
+cp.chinapay.com	59.37.173.239	-	端口未开放	端口未开放
+crm.chinapay.com	218.80.244.41	-	端口未开放	端口未开放
+my.chinapay.com	140.206.112.247	-	端口未开放	端口未开放
+online.chinapay.com	124.74.239.199	-	端口未开放	端口未开放
+agent.chinapay.com	124.74.239.210	-	端口未开放	端口未开放
+bm.chinapay.com	140.206.112.247	-	端口未开放	端口未开放
+dm.chinapay.com	124.74.242.117	-	端口未开放	端口未开放
+student.chinapay.com	202.101.7.69	80,443		80:正常访问
+merchant.chinapay.com	124.74.239.197	80,443		80:正常访问
+idea.chinapay.com	113.11.200.181	-	端口未开放	端口未开放
+fund.chinapay.com	124.74.239.197	80,443	获取失败	80:-
+promotion.chinapay.com	202.96.255.149	80,443	IBM_HTTP_Server	80:正常访问
+caipiao.chinapay.com	210.51.4.114	-	端口未开放	端口未开放
+insurance.chinapay.com	180.169.17.77	80,443	获取失败	80:-
+mobilepay.chinapay.com	202.101.7.68	-	端口未开放	端口未开放
+ndns.chinapay.com	58.246.81.67	-	端口未开放	端口未开放
+cb.chinapay.com	202.101.7.69	80,443	IBM_HTTP_Server	80:正常访问
+rz.chinapay.com	124.74.242.102	80,443		80:正常访问
+dlp.chinapay.com	218.80.244.39	80,443	Apache	80:(403) 已禁止
+bms.chinapay.com	124.74.242.117	-	端口未开放	端口未开放
+dac.chinapay.com	124.74.239.206	-	端口未开放	端口未开放
+mcs.chinapay.com	58.246.81.70	80,443	IBM_HTTP_Server	80:(403) 已禁止
+pcp.chinapay.com	202.101.7.69	80,443	IBM_HTTP_Server	80:正常访问
+liq.chinapay.com	124.74.239.204	-	端口未开放	端口未开放
+vas.chinapay.com	61.129.122.133	80,443		80:正常访问
+rmc.chinapay.com	61.129.122.131	-	端口未开放	端口未开放
+swm.chinapay.com	202.101.7.75	-	端口未开放	端口未开放
+ttf.chinapay.com	124.74.242.114	-	端口未开放	端口未开放
+d2a.chinapay.com	202.101.7.72	-	端口未开放	端口未开放
+bdns.chinapay.com	58.246.81.67	-	端口未开放	端口未开放
+cpot.chinapay.com	124.74.242.114	-	端口未开放	端口未开放
+emh5.chinapay.com	58.49.121.75	80,443		80:正常访问
+pdns.chinapay.com	61.129.122.130	-	端口未开放	端口未开放
+scsf.chinapay.com	218.80.244.44	80,443	nginx	80:正常访问

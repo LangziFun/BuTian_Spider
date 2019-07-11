@@ -1,0 +1,395 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+10041.lenovo.com	54.223.249.23	80	nginx/1.8.0	80:正常访问
+blog.lenovo.com	199.119.127.232	80,443	Apache	80:正常访问
+abie.box.lenovo.com	47.89.0.42	80,443	openresty	80:正常访问
+acura.box.lenovo.com	47.89.0.42	80,443	openresty	80:正常访问
+123.lenovo.com	223.202.62.138	80	nginx/1.6.0	80:正常访问
+29382cf2af4075ff.box.lenovo.com	47.89.0.42	80,443	openresty	80:正常访问
+appshopforwindows.lenovo.com	23.50.27.244	80,443	AkamaiGHost	80:(400) 错误的请求
+42505500ceshi.boxqa.lenovo.com	123.150.177.29	80,443	openresty	80:正常访问
+cc.lenovo.com	114.113.233.249	80,443	Apache-Coyote/1.1	80:正常访问
+box.lenovo.com	47.89.0.6	80,443	openresty	80:正常访问
+bbs.lenovo.com	139.217.10.9	80,443	nginx/1.12.2	80:正常访问
+cenova.box.lenovo.com	47.89.0.42	80,443	openresty	80:正常访问
+consumersupport.lenovo.com	23.50.26.165	80,443	AkamaiGHost	80:(503) 服务器不可用
+doityourway.lenovo.com	23.50.27.244	80,443	AkamaiGHost	80:(400) 错误的请求
+chuantiegroup.box.lenovo.com	47.89.0.42	80,443	openresty	80:正常访问
+cspc.box.lenovo.com	47.89.0.42	80,443	openresty	80:正常访问
+chita.lenovo.com	121.199.167.87	-	端口未开放	端口未开放
+dawnova.box.lenovo.com	47.89.0.42	80,443	openresty	80:正常访问
+cloudshare.lenovo.com	106.37.234.25	-	端口未开放	端口未开放
+donetwork.lenovo.com	23.50.27.244	80,443	AkamaiGHost	80:(400) 错误的请求
+dianping.lenovo.com	124.127.169.216	80	Microsoft-IIS/8.5	80:正常访问
+drvdisc1.lenovo.com	114.247.140.232,124.127.169.232	80	Microsoft-IIS/7.0	80:正常访问
+ec3.lenovo.com	42.121.254.38	80	-	80:(503) 服务器不可用
+e-lead.box.lenovo.com	47.89.0.42	80,443	openresty	80:正常访问
+edu.lenovo.com	43.255.224.219	80	nginx/1.8.0	80:正常访问
+fengfan.boxqa.lenovo.com	123.150.177.29	80,443	openresty	80:正常访问
+f45a496cfc568c91.box.lenovo.com	47.89.0.42	80,443	openresty	80:正常访问
+hao.lenovo.com	223.202.62.138	80		80:正常访问
+email.box.lenovo.com	47.89.0.42	80,443	openresty	80:正常访问
+cloud.lenovo.com	223.202.25.77	80,443	Apache-Coyote/1.1	80:正常访问
+home.lenovo.com	69.168.97.233	80,443	nginx	80:正常访问
+hisun.box.lenovo.com	47.89.0.42	80,443	openresty	80:正常访问
+ideafriend.lenovo.com	223.202.62.154	80	nginx/1.14.0	80:(500) 内部服务器错误
+huvechina.box.lenovo.com	47.89.0.42	80,443	openresty	80:正常访问
+iot.lenovo.com	223.202.62.200	80	nginx	80:(404) 未找到
+lesc.lenovo.com	103.30.232.160	80,443	nginx/1.10.2	80:正常访问
+jiaowb.box.lenovo.com	47.89.0.42	80,443	openresty	80:正常访问
+legc.lenovo.com	223.202.25.101	80,443	nginx/1.4.4	80:正常访问
+lenovo.box.lenovo.com	47.89.0.42	80,443	openresty	80:正常访问
+lefen.lenovo.com	121.199.167.87	-	端口未开放	端口未开放
+lelink.lenovo.com	223.203.218.103	80	nginx/1.11.3	80:(403) 已禁止
+mobilesupport.lenovo.com	23.50.26.165	80,443	获取失败	80:-
+mazida.boxqa.lenovo.com	123.150.177.29	80,443	openresty	80:正常访问
+lgl.lenovo.com	223.202.19.69	-	端口未开放	端口未开放
+lsrc.lenovo.com	43.254.45.30	80,443	nginx	80:正常访问
+canada.lenovo.com	23.50.27.244	80,443	AkamaiGHost	80:(503) 服务器不可用
+lsd.lenovo.com	223.202.19.15,223.202.19.66	-	端口未开放	端口未开放
+launcher.lenovo.com	223.202.25.66	80	nginx/1.11.3	80:正常访问
+gj.lenovo.com	223.202.19.117	80	获取失败	80:-
+appserver1.lenovo.com	219.142.122.104	80,443	Microsoft-IIS/6.0	80:正常访问
+2008.lenovo.com	199.119.127.232	80,443	Apache	80:正常访问
+forums.lenovo.com	208.74.204.134	80,443	Apache	80:正常访问
+community.lenovo.com	23.50.26.165	80,443	Apache	80:正常访问
+m.lenovo.com	23.50.27.244	80,443	获取失败	80:-
+outletap.lenovo.com	23.50.27.244	80,443	AkamaiGHost	80:(403) 已禁止
+ms.lenovo.com	123.125.148.46	80	nginx	80:正常访问
+browser.lenovo.com	223.202.62.177	80	nginx/1.12.2	80:正常访问
+redirect.www.lenovo.com	23.50.27.244	80,443	AkamaiGHost	80:(403) 已禁止
+psref.lenovo.com	69.166.150.134	80,443	Microsoft-IIS/8.5	80:正常访问
+outlet.uk.lenovo.com	45.60.35.126	80,443	Apache	80:正常访问
+rili.lenovo.com	223.202.62.154	80	nginx/1.14.0	80:正常访问
+reviews.lenovo.com	54.192.49.98,54.192.49.81,54.192.49.68,54.192.49.39	80,443		80:正常访问
+passport.lenovo.com	35.168.71.28,54.210.140.183	443	nginx	443:正常访问
+search.lenovo.com	162.245.227.139,207.97.254.198	80,443	Apache	80:正常访问
+open.lenovo.com	223.202.25.170	80	StoreFEC	80:正常访问
+shop.lenovo.com	23.50.27.244	80,443	AkamaiGHost	80:(403) 已禁止
+support.lenovo.com	23.50.26.165	80,443	获取失败	80:-
+store.lenovo.com	45.60.35.126	80,443	Apache	80:(404) 未找到
+sj.lenovo.com	223.202.19.117	80	nginx	80:正常访问
+start.lenovo.com	69.168.97.233	80,443	nginx	80:正常访问
+dlxtag.lenovo.com	219.142.122.58	80	Microsoft-IIS/6.0	80:正常访问
+cochat.lenovo.com	219.142.122.127	80,443	Microsoft-IIS/8.5	80:正常访问
+saicgmac.box.lenovo.com	47.89.0.42	80,443	openresty	80:正常访问
+pcpi.tw.lenovo.com	59.120.128.85	-	端口未开放	端口未开放
+pim.lenovo.com	223.202.25.77	80,443	Apache-Coyote/1.1	80:正常访问
+teamup.lenovo.com	162.243.138.12	80,443	cloudflare	80:正常访问
+www.lenovo.com	23.50.27.244	80,443		80:正常访问
+safe.lenovo.com	223.202.27.31	80	nginx	80:正常访问
+voc.lenovo.com	106.37.234.3	80,443	nginx	80:正常访问
+shop.beta.lenovo.com	23.50.27.244	80,443	获取失败	80:-
+weixin.lenovo.com	219.142.122.235	-	端口未开放	端口未开放
+wintools.box.lenovo.com	47.89.0.42	80,443	openresty	80:正常访问
+wdhac.box.lenovo.com	47.89.0.42	80,443	openresty	80:正常访问
+www3.lenovo.com	23.50.27.244	80,443		80:正常访问
+thyssenkrupp.box.lenovo.com	47.89.0.42	80,443	openresty	80:正常访问
+shopap.lenovo.com	23.50.27.244	80,443	AkamaiGHost	80:(403) 已禁止
+www.partners.lenovo.com	18.136.129.61,52.221.146.208	80,443	nginx/1.8.0	80:正常访问
+www.cmr.lenovo.com	111.205.39.18,106.37.234.18	80	Apache/2.4.9 (Win32) OpenSSL/0.9.8y	80:正常访问
+www2.partnerinfo.lenovo.com	194.168.19.159	-	端口未开放	端口未开放
+a.lenovo.com	139.217.10.9	80,443	获取失败	80:-
+zeiss.box.lenovo.com	47.89.0.42	80,443	openresty	80:正常访问
+www.box.lenovo.com	47.89.0.42	80,443	openresty	80:正常访问
+social.lenovo.com	199.119.127.232	80,443	Apache	80:正常访问
+serviceshop.lenovo.com	124.127.169.212	80,443	获取失败	80:-
+www.beta.lenovo.com	23.50.27.244	80,443	获取失败	80:-
+bc.lenovo.com	10.96.170.188	-	端口未开放	端口未开放
+f.lenovo.com	64.88.179.234	80	获取失败	80:-
+l.lenovo.com	64.88.179.234	80	获取失败	80:-
+cx.lenovo.com	39.106.171.193	80	Apache/2.4.18 (Ubuntu)	80:(403) 已禁止
+lis.lenovo.com	106.37.234.49	80	Microsoft-IIS/7.0	80:(403) 已禁止
+h.lenovo.com	106.75.13.218	80	nginx	80:正常访问
+ok.lenovo.com	54.89.15.208,52.204.243.40	80,443	Apache	80:正常访问
+s.lenovo.com	172.82.250.134	443	Omniture DC	443:正常访问
+ss.lenovo.com	43.255.224.249	80,443	nginx/1.12.2	80:(502) 错误的网关
+k.lenovo.com	43.255.224.202	80,443	nginx/1.10.1	80:正常访问
+w.lenovo.com	219.142.122.243,123.127.211.243	-	端口未开放	端口未开放
+y.lenovo.com	123.150.177.28	80,443	nginx/1.6.3	80:正常访问
+email.lenovo.com	23.50.27.244	80,443	AkamaiGHost	80:(400) 错误的请求
+mail.lenovo.com	124.127.169.11	80,443	获取失败	80:-
+sec.lenovo.com	219.141.216.16	80	Microsoft-IIS/7.5	80:正常访问
+apis.lenovo.com	54.192.49.236,54.192.49.212,54.192.49.242,54.192.49.18	80,443	CloudFront	80:(403) 已禁止
+news.lenovo.com	54.208.49.67,34.207.32.242	80,443	获取失败	80:-
+apps.lenovo.com	104.198.14.52	80,443	获取失败	80:-
+static.lenovo.com	23.50.27.244	80,443	nginx/1.8.0	80:正常访问
+map.lenovo.com	43.255.224.244	80	nginx/1.12.2	80:正常访问
+xfdlx.lenovo.com	219.142.122.49	80	Microsoft-IIS/7.0	80:正常访问
+sq.lenovo.com	219.142.122.226	-	端口未开放	端口未开放
+app.lenovo.com	223.202.25.165	80	Tengine/2.1.1	80:(405) 不允许的方法
+forum.lenovo.com	208.74.204.134	80,443	Apache	80:正常访问
+crm.lenovo.com	23.50.27.244	80,443		80:正常访问
+feedback.lenovo.com	223.202.25.102	80	获取失败	80:-
+docs.lenovo.com	125.39.184.62	-	端口未开放	端口未开放
+log.lenovo.com	59.61.88.220,119.233.254.21	-	端口未开放	端口未开放
+guest.lenovo.com	10.96.105.121	-	端口未开放	端口未开放
+download.lenovo.com	23.56.20.124	80,443	Microsoft-IIS/8.5	80:(403) 已禁止
+js.lenovo.com	223.202.19.68	443	nginx	443:(403) 已禁止
+account.lenovo.com	23.50.26.165	80,443	获取失败	80:-
+push.lenovo.com	223.202.19.71	-	端口未开放	端口未开放
+yun.lenovo.com	123.150.177.28	80,443	nginx/1.6.3	80:正常访问
+response.lenovo.com	185.28.196.76	-	端口未开放	端口未开放
+yunpan.lenovo.com	114.113.233.240	80,443	nginx	80:正常访问
+pan.lenovo.com	114.113.233.135	80	nginx	80:正常访问
+ads.lenovo.com	219.141.216.151,202.96.27.151	80	nginx/1.12.1	80:正常访问
+anquan.lenovo.com	223.202.19.65	-	端口未开放	端口未开放
+image.lenovo.com	103.30.232.152	80	Microsoft-IIS/7.5	80:正常访问
+aq.lenovo.com	223.202.19.65	-	端口未开放	端口未开放
+gl.lenovo.com	223.202.19.69	-	端口未开放	端口未开放
+click.lenovo.com	139.219.0.75	80,443	Tengine/2.1.0	80:(403) 已禁止
+hi.lenovo.com	60.205.234.210	443	openresty	443:正常访问
+blogs.lenovo.com	23.50.27.244	80,443	AkamaiGHost	80:(400) 错误的请求
+business.lenovo.com	129.91.16.17	80,443	-	80:(404) 未找到
+channel.lenovo.com	209.167.231.15	80,443	-	80:(404) 未找到
+b2c.lenovo.com	23.50.27.244	80,443	获取失败	80:-
+catalog.lenovo.com	156.234.85.33	80,443	openresty	80:正常访问
+best.lenovo.com	219.142.122.248	80	Apache/2.2.15 (CentOS)	80:(403) 已禁止
+connect.lenovo.com	10.120.114.201	-	端口未开放	端口未开放
+data.lenovo.com	114.113.233.226	-	端口未开放	端口未开放
+domino.lenovo.com	106.38.19.63	-	端口未开放	端口未开放
+appserver.lenovo.com	219.142.122.104	80,443	Microsoft-IIS/6.0	80:正常访问
+earth.lenovo.com	10.122.12.168	-	端口未开放	端口未开放
+exchange.lenovo.com	199.119.127.231	-	端口未开放	端口未开放
+dt.lenovo.com	223.202.110.14	80	nginx	80:正常访问
+global.lenovo.com	69.168.97.233	80,443	nginx	80:正常访问
+gsp.lenovo.com	184.51.15.157,184.51.15.151	80,443	Apache-Coyote/1.1	80:(404) 未找到
+ftp.lenovo.com	43.255.224.162	80,443	获取失败	80:-
+info.lenovo.com	12.130.131.126	80,443	Apache	80:(403) 已禁止
+investor.lenovo.com	47.52.81.239	80,443		80:正常访问
+kb.lenovo.com	69.166.150.131	80,443	获取失败	80:-
+km.lenovo.com	43.255.224.202	80,443	nginx/1.10.1	80:正常访问
+marketing.lenovo.com	192.28.152.198	-	端口未开放	端口未开放
+pages.lenovo.com	104.17.71.206,104.17.73.206,104.17.72.206,104.17.74.206,104.17.70.206	80,443		80:正常访问
+ns2.lenovo.com	219.141.216.95	-	端口未开放	端口未开放
+ns.lenovo.com	211.100.14.11	-	端口未开放	端口未开放
+ns3.lenovo.com	12.11.224.132	-	端口未开放	端口未开放
+ns5.lenovo.com	124.127.169.55	-	端口未开放	端口未开放
+pcs.lenovo.com	103.30.234.115	80		80:正常访问
+office.lenovo.com	192.168.0.1	-	端口未开放	端口未开放
+partner.lenovo.com	103.244.59.223	-	端口未开放	端口未开放
+ocean.lenovo.com	43.255.224.76	80	nginx/1.14.0	80:正常访问
+calendar.lenovo.com	124.127.169.168	80,443	Tengine/2.1.2	80:正常访问
+pn.lenovo.com	111.205.39.42,106.37.234.42	-	端口未开放	端口未开放
+sales.lenovo.com	23.50.27.244	80,443	SAP NetWeaver Application Server 7.49 / AS Java 7.40	80:正常访问
+sd.lenovo.com	223.202.19.66	-	端口未开放	端口未开放
+solutions.lenovo.com	104.239.227.67	80,443	Apache/2.4.7 (Ubuntu)	80:正常访问
+retail.lenovo.com	43.255.224.242	80,443	获取失败	80:-
+sigma.lenovo.com	114.113.233.227	-	端口未开放	端口未开放
+software.lenovo.com	103.30.232.223	80	Microsoft-IIS/7.5	80:正常访问
+st.lenovo.com	184.51.15.77,184.51.15.69	80,443	nginx/1.10.2	80:正常访问
+source.lenovo.com	58.247.171.28	-	端口未开放	端口未开放
+speedy.lenovo.com	223.202.19.67	-	端口未开放	端口未开放
+services.lenovo.com	23.50.27.244	80,443	AkamaiGHost	80:(500) 内部服务器错误
+sv.lenovo.com	43.255.224.162	80,443	nginx	80:(404) 未找到
+3g.lenovo.com	223.202.19.64	-	端口未开放	端口未开放
+4g.lenovo.com	223.202.19.64	-	端口未开放	端口未开放
+vmware.lenovo.com	103.30.232.221	80,443	获取失败	80:-
+vault.lenovo.com	54.251.174.122,54.254.136.30	80,443	Apache/2.4.18 (Ubuntu)	80:正常访问
+www01.lenovo.com	23.50.27.244	80,443		80:正常访问
+www02.lenovo.com	23.50.27.244	80,443		80:正常访问
+wireless.lenovo.com	192.168.253.253	-	端口未开放	端口未开放
+go2.lenovo.com	192.28.154.34	80,443	Apache	80:正常访问
+index.lenovo.com	10.96.160.83	-	端口未开放	端口未开放
+face.lenovo.com	111.205.39.3	80,443	获取失败	80:-
+join.lenovo.com	103.30.234.42	443	获取失败	443:-
+care.lenovo.com	12.130.131.126	80,443	Apache	80:(403) 已禁止
+power.lenovo.com	223.202.19.66	-	端口未开放	端口未开放
+industry.lenovo.com	43.255.224.102	-	端口未开放	端口未开放
+discover.lenovo.com	52.21.132.157,54.165.17.201	80,443	-	80:(404) 未找到
+health.lenovo.com	106.38.19.51	80,443	nginx/1.12.2	80:(404) 未找到
+commercial.lenovo.com	23.50.26.165	80,443	获取失败	80:-
+edge.lenovo.com	43.255.224.102	-	端口未开放	端口未开放
+capital.lenovo.com	139.217.23.167	80	Microsoft-IIS/8.5	80:正常访问
+solution.lenovo.com	43.255.224.102	-	端口未开放	端口未开放
+brain.lenovo.com	114.113.233.248	443	nginx/1.12.2	443:(404) 未找到
+cap.lenovo.com	103.30.232.241	80,443	Microsoft-IIS/10.0	80:正常访问
+lid.lenovo.com	35.168.71.28,54.210.140.183	443	nginx	443:正常访问
+crown.lenovo.com	114.247.140.181,124.127.169.181	80	Microsoft-IIS/7.5	80:正常访问
+ink.lenovo.com	54.90.215.20	80,443	-	80:(405) 不允许的方法
+expert.lenovo.com	129.91.16.10	80,443	-	80:(404) 未找到
+learning.lenovo.com	54.173.222.102,52.201.196.204	80,443	openresty	80:正常访问
+forms.lenovo.com	209.167.231.15	80,443	-	80:(404) 未找到
+leader.lenovo.com	129.91.16.10	80,443	-	80:(404) 未找到
+led.lenovo.com	124.127.169.182	80	Microsoft-IIS/8.5	80:正常访问
+claims.lenovo.com	123.127.211.194,219.142.122.194	-	端口未开放	端口未开放
+offers.lenovo.com	23.50.27.244	80,443	AkamaiGHost	80:(400) 错误的请求
+em.lenovo.com	66.161.21.52	80,443	Apache	80:正常访问
+provision.lenovo.com	110.87.96.75	80	nginx/1.10.3 (Ubuntu)	80:(403) 已禁止
+lots.lenovo.com	111.205.39.50,106.37.234.50	80	Microsoft-HTTPAPI/2.0	80:(404) 未找到
+cash.lenovo.com	118.244.198.34	-	端口未开放	端口未开放
+survey.lenovo.com	106.37.234.126	80,443	Microsoft-IIS/7.5	80:(401) 未经授权
+awareness.lenovo.com	114.113.233.161	80,443	nginx/1.12.2	80:正常访问
+vertical.lenovo.com	43.255.224.102	-	端口未开放	端口未开放
+shu.lenovo.com	10.96.160.83	-	端口未开放	端口未开放
+smart.lenovo.com	43.255.224.102	-	端口未开放	端口未开放
+analytics.lenovo.com	223.202.19.71	-	端口未开放	端口未开放
+365.lenovo.com	124.127.169.23	80,443	openresty/1.9.3.1	80:正常访问
+bigdata.lenovo.com	223.202.108.27	80,443	openresty/1.13.6.1	80:正常访问
+callback.lenovo.com	103.244.58.27	-	端口未开放	端口未开放
+cdms.lenovo.com	124.127.169.167,114.247.140.167	80	Microsoft-IIS/8.5	80:正常访问
+dashboard.lenovo.com	219.142.122.230	-	端口未开放	端口未开放
+jira.lenovo.com	34.232.5.214	80,443		80:正常访问
+jishi.lenovo.com	223.202.19.68	443	nginx	443:(403) 已禁止
+jinrong.lenovo.com	111.205.39.137	80,443	nginx	80:(500) 内部服务器错误
+lb1.lenovo.com	202.96.27.253	-	端口未开放	端口未开放
+logupload.lenovo.com	104.232.254.6	80,443	获取失败	80:-
+myapp.lenovo.com	103.30.234.97	443	获取失败	443:-
+ns6.lenovo.com	114.247.140.55	-	端口未开放	端口未开放
+ns8.lenovo.com	103.30.232.32	-	端口未开放	端口未开放
+ns7.lenovo.com	103.30.235.115	-	端口未开放	端口未开放
+openvpn.lenovo.com	49.2.123.56	-	端口未开放	端口未开放
+openvpn.bjbgp.lenovo.com	77.4.7.92	-	端口未开放	端口未开放
+polaris.lenovo.com	111.205.39.5,106.37.234.5	443	nginx/1.9.3	443:(404) 未找到
+saas.lenovo.com	60.205.234.210	443		443:正常访问
+scrm.lenovo.com	101.37.131.177	80		80:正常访问
+tracking.lenovo.com	142.0.173.134	80,443	-	80:(404) 未找到
+tongbu.lenovo.com	223.202.25.77	80,443	Apache-Coyote/1.1	80:正常访问
+tongji.lenovo.com	223.202.19.71	-	端口未开放	端口未开放
+sync.lenovo.com	223.202.19.62	80	获取失败	80:-
+sunny.lenovo.com	219.142.122.49	80	Microsoft-IIS/7.0	80:正常访问
+vmall.lenovo.com	101.227.98.137	80	Cdn Cache Server V2.0	80:(503) 服务器不可用
+wechat.lenovo.com	43.255.224.54	-	端口未开放	端口未开放
+xiaole.lenovo.com	34.192.1.108,52.22.83.39	80,443	-	80:(404) 未找到
+ue.lenovo.com	39.106.171.193	80	Apache/2.4.18 (Ubuntu)	80:(404) 未找到
+lm.lenovo.com	124.127.169.137	80,443	nginx	80:(403) 已禁止
+ux.lenovo.com	43.255.224.86	80		80:正常访问
+qc.lenovo.com	219.141.216.129	-	端口未开放	端口未开放
+rr.lenovo.com	34.197.35.101,54.236.129.204	80	nginx	80:正常访问
+vb.lenovo.com	223.202.25.130	80,443	nginx	80:正常访问
+qi.lenovo.com	10.120.23.75	-	端口未开放	端口未开放
+aio.lenovo.com	47.91.203.113	80,443	nginx	80:正常访问
+yh.lenovo.com	223.202.19.67	-	端口未开放	端口未开放
+rz.lenovo.com	111.205.39.137	80,443	nginx	80:(500) 内部服务器错误
+bsp.lenovo.com	23.50.27.244	80,443		80:正常访问
+clr.lenovo.com	124.127.169.188	80	nginx	80:正常访问
+cdo.lenovo.com	123.127.211.12,219.142.122.12	80	nginx/1.12.2	80:正常访问
+csp.lenovo.com	23.50.27.244	80,443	获取失败	80:-
+dds.lenovo.com	52.220.151.252,52.74.224.99	443		443:正常访问
+dlx.lenovo.com	219.142.122.49	80	Microsoft-IIS/7.0	80:正常访问
+dmp.lenovo.com	223.202.25.91	-	端口未开放	端口未开放
+dtf.lenovo.com	43.255.224.87	443		443:正常访问
+ess.lenovo.com	124.127.169.219	80	Microsoft-IIS/7.5	80:正常访问
+ecg.lenovo.com	43.255.224.120	80,443	nginx/1.12.2	80:(404) 未找到
+exc.lenovo.com	219.142.122.201	-	端口未开放	端口未开放
+fsr.lenovo.com	223.202.110.11	443	nginx	443:(404) 未找到
+glu.lenovo.com	103.218.240.30	80,443	Tengine	80:正常访问
+hci.lenovo.com	47.91.203.113	80,443	nginx	80:正常访问
+gla.lenovo.com	223.202.25.68	80	Apache-Coyote/1.1	80:(405) 不允许的方法
+hpc.lenovo.com	103.30.232.221	80,443	获取失败	80:-
+hst.lenovo.com	106.37.234.124	80	Tengine/2.1.2	80:(404) 未找到
+ibd.lenovo.com	43.255.224.102	-	端口未开放	端口未开放
+jyh.lenovo.com	125.76.247.163	80	Tengine	80:(504) 网关超时
+kmp.lenovo.com	69.166.150.131	80,443	获取失败	80:-
+lbp.lenovo.com	184.51.15.87,184.51.15.69	80,443	Apache	80:正常访问
+lcs.lenovo.com	124.127.169.79	80,443	nginx/1.14.0	80:正常访问
+ljs.lenovo.com	223.202.19.68	443	nginx	443:(403) 已禁止
+laq.lenovo.com	223.202.19.65	-	端口未开放	端口未开放
+ltc.lenovo.com	213.105.96.34	443	-	443:(404) 未找到
+lzm.lenovo.com	223.202.25.66	80	nginx/1.11.3	80:正常访问
+lsc.lenovo.com	103.30.234.76	443	Microsoft-IIS/7.5	443:正常访问
+lsa.lenovo.com	184.51.15.173,184.51.15.164	80,443	nginx/1.10.2	80:正常访问
+ltb.lenovo.com	223.202.19.62	80	获取失败	80:-
+lyh.lenovo.com	223.202.19.67	-	端口未开放	端口未开放
+mds.lenovo.com	13.228.193.96,52.221.6.209	80	nginx/1.12.2	80:正常访问
+mde.lenovo.com	115.29.16.130	-	端口未开放	端口未开放
+mcn.lenovo.com	223.202.62.232,223.202.62.231	-	端口未开放	端口未开放
+mbr.lenovo.com	115.29.16.130	-	端口未开放	端口未开放
+mca.lenovo.com	115.29.16.130	-	端口未开放	端口未开放
+mdt.lenovo.com	52.80.69.92,52.80.97.114	80	Apache/2.4.18 (Unix) mod_jk/1.2.41	80:正常访问
+mes.lenovo.com	223.202.62.234	-	端口未开放	端口未开放
+mfr.lenovo.com	115.29.16.130	-	端口未开放	端口未开放
+mit.lenovo.com	115.29.16.130	-	端口未开放	端口未开放
+mjp.lenovo.com	115.29.16.130	-	端口未开放	端口未开放
+mmc.lenovo.com	124.127.169.179,114.247.140.179	80	nginx/1.10.1	80:正常访问
+lbc.lenovo.com	106.38.19.53	443	获取失败	443:-
+min.lenovo.com	223.202.62.232,223.202.62.231	-	端口未开放	端口未开放
+mmx.lenovo.com	115.29.16.130	-	端口未开放	端口未开放
+nfl.lenovo.com	23.50.27.244	80,443	AkamaiGHost	80:(400) 错误的请求
+muk.lenovo.com	115.29.16.130	-	端口未开放	端口未开放
+mus.lenovo.com	54.215.241.186	-	端口未开放	端口未开放
+moc.lenovo.com	223.202.108.26	80,443	nginx/1.8.1	80:正常访问
+mqs.lenovo.com	103.30.234.176	-	端口未开放	端口未开放
+msd.lenovo.com	43.255.224.242	80,443	获取失败	80:-
+ocr.lenovo.com	52.80.194.175	80,443	nginx/1.15.1	80:正常访问
+ola.lenovo.com	43.255.224.76	80	nginx/1.14.0	80:正常访问
+osd.lenovo.com	54.222.225.67	80,443	Apache/2.4.18 (Unix) OpenSSL/1.0.1f mod_jk/1.2.41	80:正常访问
+lmc.lenovo.com	124.127.169.145	80	nginx/1.8.0	80:正常访问
+lcc.lenovo.com	124.127.169.90	443	nginx/1.9.3	443:(404) 未找到
+pfm.lenovo.com	114.247.140.7	80,443	获取失败	80:-
+ovp.lenovo.com	103.30.234.142	80,443	nginx/1.10.1	80:正常访问
+ppm.lenovo.com	43.255.224.210	80	nginx/1.10.1	80:正常访问
+fod.lenovo.com	124.127.169.146	443	获取失败	443:-
+rta.lenovo.com	114.247.140.78,124.127.169.78	80,443	Apache/2.2.15 (CentOS)	80:(403) 已禁止
+rvl.lenovo.com	103.30.234.70	443	nginx/1.12.0	443:(401) 未经授权
+ssp.lenovo.com	13.56.122.221,54.183.149.136	80,443	Apache	80:(404) 未找到
+spm.lenovo.com	124.127.169.79	80,443	nginx/1.14.0	80:正常访问
+snc.lenovo.com	103.30.234.80	443		443:正常访问
+tda.lenovo.com	52.237.37.65	80,443	Microsoft-HTTPAPI/2.0	80:(404) 未找到
+sso.lenovo.com	52.205.73.22,34.202.124.209	443	获取失败	443:-
+soa.lenovo.com	103.30.234.166	443	nginx	443:(404) 未找到
+sdo.lenovo.com	39.107.149.206	80,443	-	80:(405) 不允许的方法
+sdi.lenovo.com	124.127.169.237	443	获取失败	443:-
+tms.lenovo.com	124.127.169.59	80,443	Microsoft-IIS/7.5	80:正常访问
+otp.lenovo.com	106.37.234.66	80,443	nginx/1.6.2	80:正常访问
+uki.lenovo.com	54.210.229.110,34.202.65.138	80,443	nginx	80:(403) 已禁止
+ips.lenovo.com	124.127.169.237	443	获取失败	443:-
+ued.lenovo.com	106.37.234.135,111.205.39.135	80	nginx/1.12.0	80:正常访问
+upe.lenovo.com	10.251.71.147,10.251.71.119	-	端口未开放	端口未开放
+scc.lenovo.com	219.141.216.10	80,443	Microsoft-HTTPAPI/2.0	80:(404) 未找到
+wms.lenovo.com	124.127.169.85	80	Tengine/2.1.1	80:正常访问
+whp.lenovo.com	219.142.122.225	443	Microsoft-IIS/10.0	443:(403) 已禁止
+lb2.lenovo.com	219.141.216.253	-	端口未开放	端口未开放
+a720.lenovo.com	50.57.139.101	-	端口未开放	端口未开放
+avae.lenovo.com	104.232.225.21,104.232.225.18	443	获取失败	443:-
+avap.lenovo.com	103.30.234.172,103.30.234.175	443	获取失败	443:-
+avcn.lenovo.com	210.12.225.33,124.127.169.29,210.12.225.30,124.127.169.26	443	获取失败	443:-
+baas.lenovo.com	221.204.166.38,119.6.229.101,113.200.16.27,121.29.54.65,121.29.54.199,27.221.54.20,113.200.16.32,218.11.8.104,27.221.54.19,221.204.166.22,221.204.166.20,113.200.16.31,121.29.54.195,42.56.79.189,113.200.16.30	80,443	openresty	80:(404) 未找到
+byod.lenovo.com	103.30.232.152	80	Microsoft-IIS/7.5	80:正常访问
+dcsc.lenovo.com	104.76.137.52	80,443	nginx/1.10.2	80:正常访问
+dors.lenovo.com	123.127.211.101,219.142.122.101	-	端口未开放	端口未开放
+dpms.lenovo.com	219.142.122.187,123.127.211.187	80	Microsoft-IIS/7.5	80:正常访问
+dqms.lenovo.com	106.37.234.46,111.205.39.46	80,443	Microsoft-IIS/7.5	80:正常访问
+dtwx.lenovo.com	43.255.224.46	80	Microsoft-IIS/7.5	80:正常访问
+epic.lenovo.com	219.142.122.207	80,443	获取失败	80:-
+fod2.lenovo.com	104.232.254.5	443	Tengine/2.1.2	443:正常访问
+gucp.lenovo.com	106.37.234.3	80,443	nginx	80:正常访问
+iiot.lenovo.com	120.136.130.24	80,443	nginx/1.12.2	80:(404) 未找到
+imfg.lenovo.com	106.37.234.9	443	获取失败	443:-
+iotp.lenovo.com	223.202.108.26	80,443	nginx/1.8.1	80:正常访问
+jrlx.lenovo.com	223.202.110.13	80,443	nginx	80:正常访问
+lcwx.lenovo.com	54.222.155.119	80	Microsoft-IIS/7.5	80:正常访问
+lena.lenovo.com	54.251.179.246,54.254.189.197	80,443	Apache-Coyote/1.1	80:正常访问
+lems.lenovo.com	43.255.224.239	80	Microsoft-HTTPAPI/2.0	80:(404) 未找到
+licp.lenovo.com	124.127.169.176,114.247.140.176	80	nginx/1.9.3	80:正常访问
+lois.lenovo.com	202.96.27.94,213.81.128.52,12.11.224.131,122.248.137.36,219.141.216.94	-	端口未开放	端口未开放
+lpsc.lenovo.com	124.127.169.79	80,443	nginx/1.14.0	80:正常访问
+lpns.lenovo.com	43.255.224.160	-	端口未开放	端口未开放
+lpos.lenovo.com	23.66.37.72	80,443	-	80:(403) 已禁止
+lrms.lenovo.com	58.247.171.39	80	Apache-Coyote/1.1	80:正常访问
+luci.lenovo.com	103.30.234.150	443	nginx/1.12.2	443:(404) 未找到
+luep.lenovo.com	223.202.62.185	80	获取失败	80:-
+madp.lenovo.com	103.30.234.164	80	nginx/1.8.1	80:正常访问
+moli.lenovo.com	52.22.83.39,34.192.1.108	80,443	-	80:(404) 未找到
+msbj.lenovo.com	123.127.211.10,219.142.122.10	80,443	nginx/1.8.1	80:(502) 错误的网关
+myvc.lenovo.com	178.79.149.134	80,443	nginx/1.4.6 (Ubuntu)	80:正常访问
+oacp.lenovo.com	219.141.216.127	80,443	Microsoft-IIS/10.0	80:正常访问
+pros.lenovo.com	58.247.171.13	-	端口未开放	端口未开放
+qyjr.lenovo.com	223.202.110.13	80,443	nginx	80:正常访问
+sczx.lenovo.com	42.121.13.217	-	端口未开放	端口未开放
+sdac.lenovo.com	106.38.19.21	443	Microsoft-IIS/8.5	443:(403) 已禁止
+seal.lenovo.com	10.33.52.201	-	端口未开放	端口未开放
+siot.lenovo.com	39.107.146.210	80,443		80:正常访问
+smrz.lenovo.com	123.59.145.231	-	端口未开放	端口未开放
+snpm.lenovo.com	52.89.160.171	80,443	Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips mod_jk/1.2.42	80:正常访问
+spms.lenovo.com	58.247.171.25	443	Apache/2.4.34 (Win64) OpenSSL/1.1.0h mod_jk/1.2.40	443:正常访问
+szpp.lenovo.com	43.255.224.29	80	Apache/2.4.6 (CentOS) PHP/5.6.36	80:正常访问
+tamp.lenovo.com	43.255.224.117	-	端口未开放	端口未开放
+toad.lenovo.com	144.188.129.107	80,443	获取失败	80:-
+tsap.lenovo.com	124.127.255.34	80	Apache-Coyote/1.1	80:(405) 不允许的方法
+upem.lenovo.com	34.239.235.51	-	端口未开放	端口未开放
+wlcx.lenovo.com	39.106.109.208	80,443	Microsoft-IIS/8.5	80:正常访问
+xapi.lenovo.com	106.37.234.3	80,443	nginx	80:(404) 未找到
+yzbb.lenovo.com	118.244.198.34	-	端口未开放	端口未开放
+zeta.lenovo.com	114.113.233.228	-	端口未开放	端口未开放
+land.lenovo.com	192.28.154.252	80,443	获取失败	80:-
+www8.lenovo.com	54.255.156.43,54.169.164.112	80,443	获取失败	80:-

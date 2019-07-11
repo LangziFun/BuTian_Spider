@@ -1,0 +1,169 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+static.xiaojukeji.com	195.27.31.253,195.27.31.225,195.27.31.213,195.27.31.223,195.27.31.224,195.27.31.226,195.27.31.222,195.27.31.221	80,443	Tengine	80:(403) 已禁止
+www.xiaojukeji.com	123.207.209.16	80,443	-	80:(500) 内部服务器错误
+daijia.xiaojukeji.com	114.80.187.101	80,443	Tengine	80:正常访问
+es.xiaojukeji.com	123.207.209.55	80,443	Tengine/2.1.0	80:正常访问
+job.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	nginx/1.10.2	80:正常访问
+research.xiaojukeji.com	123.207.209.71	80	Apache-Coyote/1.1	80:正常访问
+shangye.xiaojukeji.com	123.126.122.34,111.206.25.148,123.126.121.184	-	端口未开放	端口未开放
+recommend.xiaojukeji.com	163.177.89.162,163.177.71.185	-	端口未开放	端口未开放
+d.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	Apache-Coyote/1.1	80:正常访问
+c.xiaojukeji.com	116.85.3.15,116.85.3.14	80,443	Tengine/2.1.0	80:(404) 未找到
+campus.xiaojukeji.com	115.159.231.213	80,443	Tengine	80:(404) 未找到
+g.xiaojukeji.com	163.177.89.162,163.177.71.185	-	端口未开放	端口未开放
+e.xiaojukeji.com	163.177.71.185,163.177.89.162	-	端口未开放	端口未开放
+m.xiaojukeji.com	163.177.71.185,163.177.89.162	-	端口未开放	端口未开放
+wp.xiaojukeji.com	116.85.50.136	80,443	nginx/1.12.2	80:正常访问
+help.xiaojukeji.com	116.85.3.9,116.85.3.8	80,443	nginx/1.6.2	80:正常访问
+email.xiaojukeji.com	97.74.135.133,45.40.130.40,45.40.130.41,97.74.135.55,72.167.218.45,68.178.252.5,72.167.218.55,97.74.135.45,173.201.193.133,173.201.192.5,173.201.193.20,173.201.192.20,68.178.252.20,173.201.192.148,72.167.218.173,68.178.252.148,173.201.193.5,97.74.135.148,173.201.193.148,173.201.192.133,68.178.252.133,72.167.218.183	80,443	Apache	80:正常访问
+as.xiaojukeji.com	116.85.3.15,116.85.3.14	80,443	Jetty(9.3.20.v20170531)	80:正常访问
+app.xiaojukeji.com	116.85.2.14,116.85.2.15	80,443		80:正常访问
+developer.xiaojukeji.com	116.85.2.14,116.85.2.15	80,443	nginx/1.6.2	80:正常访问
+mall.xiaojukeji.com	163.177.89.162,163.177.71.185	-	端口未开放	端口未开放
+api.xiaojukeji.com	123.207.209.41,123.207.209.42	80,443	Tengine	80:正常访问
+page.xiaojukeji.com	183.57.82.230	80,443	Tengine	80:正常访问
+group.xiaojukeji.com	116.85.0.3,116.85.0.4	80,443	router	80:(403) 已禁止
+open.xiaojukeji.com	123.207.209.42,123.207.209.41	80,443	nginx/1.6.2	80:正常访问
+msg.xiaojukeji.com	123.207.209.57,123.207.209.56	80,443	router	80:(404) 未找到
+crm.xiaojukeji.com	123.126.122.34,111.206.25.148,123.126.121.184	-	端口未开放	端口未开放
+vip.xiaojukeji.com	117.51.128.14,117.51.128.15,117.51.128.13	80,443	router	80:正常访问
+openapi.xiaojukeji.com	123.126.122.34,111.206.25.148,123.126.121.184	-	端口未开放	端口未开放
+shop.xiaojukeji.com	116.85.0.3,116.85.0.4	80,443	nginx	80:正常访问
+test.xiaojukeji.com	117.51.128.5	80,443	Kylin/0.10.3	80:(404) 未找到
+activity.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	router	80:(502) 错误的网关
+portal.xiaojukeji.com	111.202.154.112	80,443	Tengine/2.1.0	80:正常访问
+security.xiaojukeji.com	116.85.3.15,116.85.3.14	80,443	router	80:正常访问
+image.xiaojukeji.com	116.85.0.3,116.85.0.4	80,443	Tengine	80:正常访问
+pay.xiaojukeji.com	123.207.209.8,123.207.209.7,123.207.209.10,123.207.209.9	80,443	router	80:正常访问
+ads.xiaojukeji.com	116.85.2.14,116.85.2.15	80,443	nginx/1.6.2	80:正常访问
+payment.xiaojukeji.com	14.215.168.6,14.215.168.5	80,443	-	80:(404) 未找到
+svn.xiaojukeji.com	10.10.10.214	-	端口未开放	端口未开放
+ad.xiaojukeji.com	116.85.3.15,116.85.3.14	80,443	router	80:(405) 不允许的方法
+style.xiaojukeji.com	116.85.2.4,116.85.2.5	80,443	nginx/1.6.2	80:(404) 未找到
+athena.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	nginx/1.6.2	80:正常访问
+apollo.xiaojukeji.com	163.177.89.162,163.177.71.185	-	端口未开放	端口未开放
+biz.xiaojukeji.com	116.85.2.14,116.85.2.15	80,443	nginx/1.6.2	80:正常访问
+auth.xiaojukeji.com	123.207.209.7,123.207.209.9,123.207.209.10,123.207.209.8	80,443	router	80:正常访问
+bi.xiaojukeji.com	163.177.71.185,163.177.89.162	-	端口未开放	端口未开放
+community.xiaojukeji.com	203.69.105.228,203.69.105.227,203.69.105.223,203.69.105.253,203.69.105.224,203.69.105.221,203.69.105.222	80,443	Tengine	80:正常访问
+channel.xiaojukeji.com	163.177.89.162,163.177.71.185	-	端口未开放	端口未开放
+ci.xiaojukeji.com	111.206.25.148,123.126.121.184,123.126.122.34	-	端口未开放	端口未开放
+ct.xiaojukeji.com	116.85.2.15,116.85.2.14	80,443	fasthttp	80:(404) 未找到
+code.xiaojukeji.com	10.10.10.109	-	端口未开放	端口未开放
+connect.xiaojukeji.com	163.177.71.185,163.177.89.162	-	端口未开放	端口未开放
+cs.xiaojukeji.com	116.85.3.17	-	端口未开放	端口未开放
+discovery.xiaojukeji.com	116.85.3.15,116.85.3.14	80,443	Tengine	80:(403) 已禁止
+data.xiaojukeji.com	123.207.209.71	80	Apache-Coyote/1.1	80:正常访问
+go.xiaojukeji.com	116.85.2.15,116.85.2.14	80,443	nginx/1.6.2	80:正常访问
+gateway.xiaojukeji.com	111.206.25.148,123.126.121.184,123.126.122.34	-	端口未开放	端口未开放
+imap.xiaojukeji.com	173.201.193.129,72.167.218.138,97.74.135.143,173.201.192.129,97.74.135.10,68.178.252.117,173.201.192.158,173.201.193.97	-	端口未开放	端口未开放
+home.xiaojukeji.com	163.177.71.185,163.177.89.162	-	端口未开放	端口未开放
+ke.xiaojukeji.com	116.85.3.15,116.85.3.14	80,443	Tengine	80:正常访问
+irc.xiaojukeji.com	163.177.89.162,163.177.71.185	-	端口未开放	端口未开放
+member.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	nginx/1.6.2	80:正常访问
+me.xiaojukeji.com	123.207.209.10,123.207.209.9,123.207.209.8,123.207.209.7	80,443	router	80:(405) 不允许的方法
+mp.xiaojukeji.com	123.207.209.57,123.207.209.56	80,443	router	80:(403) 已禁止
+mis.xiaojukeji.com	116.85.3.15,116.85.3.14	80,443	router	80:(405) 不允许的方法
+res.xiaojukeji.com	116.85.3.15,116.85.3.14	80,443	-	80:(405) 不允许的方法
+office.xiaojukeji.com	163.177.89.162,163.177.71.185	-	端口未开放	端口未开放
+partner.xiaojukeji.com	123.125.253.33	-	端口未开放	端口未开放
+pop.xiaojukeji.com	72.167.218.138,173.201.193.129,173.201.193.97,173.201.192.129,97.74.135.10,68.178.252.117,97.74.135.143,173.201.192.158	-	端口未开放	端口未开放
+smtp.xiaojukeji.com	72.167.238.29,68.178.213.203,68.178.213.37	-	端口未开放	端口未开放
+8.xiaojukeji.com	116.85.3.15,116.85.3.14	80,443	nginx/1.6.2	80:正常访问
+stat.xiaojukeji.com	163.177.71.185,163.177.89.162	-	端口未开放	端口未开放
+storage.xiaojukeji.com	10.85.128.58	-	端口未开放	端口未开放
+h5.xiaojukeji.com	182.140.140.223,182.140.140.224,182.140.140.225,182.140.140.226,182.140.140.227,182.140.140.220,182.140.140.221,182.140.140.222	80,443	Tengine	80:(502) 错误的网关
+train.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	router	80:正常访问
+titan.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	router	80:(405) 不允许的方法
+tracker.xiaojukeji.com	116.85.3.4,116.85.3.3	80,443	nginx/1.6.2	80:正常访问
+voyager.xiaojukeji.com	117.51.128.14,117.51.128.15,117.51.128.13	80,443	router	80:(403) 已禁止
+whiskey.xiaojukeji.com	116.85.2.11,116.85.2.12	80,443	-	80:(404) 未找到
+task.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	Tengine	80:正常访问
+venus.xiaojukeji.com	163.177.71.185,163.177.89.162	-	端口未开放	端口未开放
+vpn.xiaojukeji.com	115.182.212.199	-	端口未开放	端口未开放
+sftp.xiaojukeji.com	14.215.168.5	80,443	-	80:(501) 未实现
+bus.xiaojukeji.com	116.85.3.6,116.85.3.7	80,443	nginx/1.6.2	80:正常访问
+car.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	nginx/1.6.2	80:正常访问
+sdk.xiaojukeji.com	116.85.3.15,116.85.3.14	80,443	Apache-Coyote/1.1	80:正常访问
+record.xiaojukeji.com	116.85.2.5,116.85.2.4	80,443	router	80:(403) 已禁止
+way.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	nginx/1.11.10	80:正常访问
+life.xiaojukeji.com	163.177.89.162,163.177.71.185	-	端口未开放	端口未开放
+knowledge.xiaojukeji.com	116.85.3.9,116.85.3.8	80,443	nginx/1.6.2	80:正常访问
+dream.xiaojukeji.com	123.207.209.9,123.207.209.10,123.207.209.8,123.207.209.7	80,443	router	80:(405) 不允许的方法
+wave.xiaojukeji.com	116.85.3.15,116.85.3.14	80,443	nginx/1.6.2	80:正常访问
+mountain.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	router	80:(405) 不允许的方法
+safety.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	Apache-Coyote/1.1	80:(404) 未找到
+rent.xiaojukeji.com	116.85.3.13,116.85.3.12	80,443	Tengine/2.1.0	80:正常访问
+star.xiaojukeji.com	116.85.3.11,116.85.3.10	80,443	Tengine	80:正常访问
+ticket.xiaojukeji.com	116.85.3.12,116.85.3.13	80,443	Tengine/2.1.0	80:正常访问
+brain.xiaojukeji.com	123.126.121.184,123.126.122.34,111.206.25.148	-	端口未开放	端口未开放
+gift.xiaojukeji.com	100.70.135.15	-	端口未开放	端口未开放
+shield.xiaojukeji.com	122.246.20.206	80,443	Tengine	80:(404) 未找到
+its.xiaojukeji.com	116.85.3.15,116.85.3.14	80,443	获取失败	80:-
+campaign.xiaojukeji.com	116.85.3.15,116.85.3.14	80,443	nginx/1.6.2	80:(403) 已禁止
+welfare.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	Tengine/2.1.0	80:(404) 未找到
+jazz.xiaojukeji.com	123.126.121.184,123.126.122.34,111.206.25.148	-	端口未开放	端口未开放
+contract.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	nginx/1.6.2	80:正常访问
+capacity.xiaojukeji.com	163.177.71.185,163.177.89.162	-	端口未开放	端口未开放
+prime.xiaojukeji.com	116.85.3.15,116.85.3.14	80,443	nginx/1.6.2	80:正常访问
+traffic.xiaojukeji.com	100.69.238.47	-	端口未开放	端口未开放
+label.xiaojukeji.com	116.85.2.5,116.85.2.4	80,443	router	80:(405) 不允许的方法
+merchants.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	Tengine	80:正常访问
+manhattan.xiaojukeji.com	123.207.209.36	80,443	-	80:(404) 未找到
+gov.xiaojukeji.com	116.85.3.13,116.85.3.12	80,443	Tengine/2.1.0	80:正常访问
+assets.xiaojukeji.com	36.104.137.99,36.104.137.97,36.104.137.96,36.104.137.95,36.104.137.100,36.104.137.91,36.104.137.92,36.104.137.98	80,443	Tengine	80:(404) 未找到
+cooper.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	-	80:(404) 未找到
+chexian.xiaojukeji.com	111.206.25.148,123.126.121.184,123.126.122.34	-	端口未开放	端口未开放
+diaoyan.xiaojukeji.com	116.85.3.9,116.85.3.8	80,443	nginx/1.6.2	80:(404) 未找到
+daixiao.xiaojukeji.com	111.202.154.103	-	端口未开放	端口未开放
+faxian.xiaojukeji.com	163.177.89.162,163.177.71.185	-	端口未开放	端口未开放
+gongyi.xiaojukeji.com	117.51.128.15,117.51.128.14,117.51.128.13	80,443	router	80:(502) 错误的网关
+hongbao.xiaojukeji.com	116.85.3.15,116.85.3.14	80,443	Tengine/2.1.0	80:(404) 未找到
+kefu.xiaojukeji.com	116.85.3.9,116.85.3.8	80,443	nginx/1.6.2	80:(403) 已禁止
+lego.xiaojukeji.com	116.85.3.8,116.85.3.9	80,443	nginx/1.6.2	80:(403) 已禁止
+mapi.xiaojukeji.com	116.85.3.15,116.85.3.14	80,443	-	80:(404) 未找到
+noah.xiaojukeji.com	116.85.3.8,116.85.3.9	80,443	nginx/1.6.2	80:正常访问
+notify.xiaojukeji.com	116.85.2.5,116.85.2.4	80,443	nginx/1.10.2	80:正常访问
+muse.xiaojukeji.com	123.126.121.184,123.126.122.34,111.206.25.148	-	端口未开放	端口未开放
+opendata.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	Tengine	80:正常访问
+pingan.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	nginx/1.10.2	80:正常访问
+qijian.xiaojukeji.com	116.85.3.15,116.85.3.14	80,443	Tengine	80:正常访问
+quan.xiaojukeji.com	163.177.89.162,163.177.71.185	-	端口未开放	端口未开放
+saas.xiaojukeji.com	116.85.3.7,116.85.3.6	80,443	router	80:(405) 不允许的方法
+sentry.xiaojukeji.com	116.85.0.249,116.85.0.248	80,443	nginx/1.12.2	80:正常访问
+shorturl.xiaojukeji.com	123.126.122.34,111.206.25.148,123.126.121.184	-	端口未开放	端口未开放
+smsapi.xiaojukeji.com	163.177.89.162,163.177.71.185	-	端口未开放	端口未开放
+testapi.xiaojukeji.com	117.51.128.5	80,443	Kylin/0.10.3	80:(403) 已禁止
+tiyan.xiaojukeji.com	116.85.3.9,116.85.3.8	80,443	router	80:(405) 不允许的方法
+wenjuan.xiaojukeji.com	116.85.3.4,116.85.3.3	80,443	nginx/1.6.2	80:(404) 未找到
+zhishi.xiaojukeji.com	116.85.3.9,116.85.3.8	80,443	nginx/1.6.2	80:(403) 已禁止
+zhushou.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	nginx/1.6.2	80:正常访问
+ex.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	openresty	80:正常访问
+hd.xiaojukeji.com	139.199.240.46,139.199.240.49,123.207.209.23,123.207.209.24	80,443	-	80:(404) 未找到
+rz.xiaojukeji.com	116.85.3.15,116.85.3.14	80,443	Tengine/2.2.1	80:(404) 未找到
+yc.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	nginx/1.6.2	80:正常访问
+apm.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	nginx/1.10.1	80:(404) 未找到
+amc.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	Tengine/2.2.1	80:正常访问
+afo.xiaojukeji.com	116.85.3.15,116.85.3.14	80,443	nginx/1.6.2	80:正常访问
+anm.xiaojukeji.com	123.207.209.34	80,443	-	80:(403) 已禁止
+bp.xiaojukeji.com	163.177.71.185,163.177.89.162	-	端口未开放	端口未开放
+che.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	Tengine	80:正常访问
+dby.xiaojukeji.com	116.85.3.11,116.85.3.10	80,443	router	80:正常访问
+dtp.xiaojukeji.com	116.85.3.9,116.85.3.8	80,443	nginx/1.6.2	80:(404) 未找到
+dsp.xiaojukeji.com	117.51.128.13,117.51.128.15,117.51.128.14	80,443	router	80:(405) 不允许的方法
+env.xiaojukeji.com	10.78.128.20	-	端口未开放	端口未开放
+gwp.xiaojukeji.com	123.207.209.39,123.207.209.60	-	端口未开放	端口未开放
+iot.xiaojukeji.com	116.85.3.14,116.85.3.15	80,443	router	80:(405) 不允许的方法
+ivr.xiaojukeji.com	116.85.3.8,116.85.3.9	80,443	nginx/1.6.2	80:正常访问
+iov.xiaojukeji.com	116.85.3.20,116.85.3.19	80,443	-	80:(404) 未找到
+kfc.xiaojukeji.com	116.85.3.8,116.85.3.9	80,443	nginx/1.6.2	80:(404) 未找到
+mpb.xiaojukeji.com	116.85.2.14,116.85.2.15	80,443	router	80:正常访问
+mpx.xiaojukeji.com	123.207.209.56,123.207.209.57	80,443	router	80:正常访问
+ota.xiaojukeji.com	116.85.2.5,116.85.2.4	80,443	-	80:(404) 未找到
+oms.xiaojukeji.com	123.207.209.129	-	端口未开放	端口未开放
+pkg.xiaojukeji.com	172.20.3.3	-	端口未开放	端口未开放
+spp.xiaojukeji.com	116.85.3.15,116.85.3.14	80,443	nginx/1.6.2	80:正常访问
+tms.xiaojukeji.com	123.207.209.56,123.207.209.57	80,443	nginx/1.10.2	80:(502) 错误的网关
+upm.xiaojukeji.com	123.207.209.10,123.207.209.9,123.207.209.8,123.207.209.7	80,443	router	80:正常访问
+zyd.xiaojukeji.com	116.85.0.4,116.85.0.3	80,443	-	80:(405) 不允许的方法
+me2.xiaojukeji.com	116.85.3.15,116.85.3.14	80,443	nginx/1.6.2	80:(405) 不允许的方法

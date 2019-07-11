@@ -1,0 +1,51 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+hr.sangfor.com	113.105.88.157	80,443	*****	80:正常访问
+www.sangfor.com	54.169.70.12	80,443	nginx	80:正常访问
+rma.sangfor.com	113.105.88.157	80,443	*****	80:正常访问
+newcrm.sangfor.com	54.169.70.12	80,443	获取失败	80:-
+m.sangfor.com	54.169.70.12	80,443	nginx	80:正常访问
+p.sangfor.com	113.105.88.60	80,443	nginx	80:正常访问
+wiki.sangfor.com	121.122.31.113	80,443	Apache/2.4.9 (Win32) PHP/5.5.12	80:正常访问
+demo.sangfor.com	121.122.31.113	80,443	Apache/2.4.9 (Win32) PHP/5.5.12	80:正常访问
+bbs.sangfor.com	121.10.121.121,183.58.17.65	80,443	Apache	80:正常访问
+w3.sangfor.com	200.200.0.133,200.200.0.133	-	端口未开放	端口未开放
+cms.sangfor.com	202.131.75.66	-	端口未开放	端口未开放
+mail.sangfor.com	108.177.125.108,108.177.125.109	-	端口未开放	端口未开放
+crm.sangfor.com	202.131.75.82	443	Server	443:正常访问
+rp.sangfor.com	113.105.88.60	80,443	nginx	80:正常访问
+download.sangfor.com	118.143.122.148	80	-	80:(404) 未找到
+sec.sangfor.com	114.215.138.248	80	nginx	80:正常访问
+auth.sangfor.com	47.90.116.119	80,443	nginx	80:正常访问
+clt.sangfor.com	47.90.116.119	80,443	nginx	80:正常访问
+community.sangfor.com	13.228.166.178	80,443	******	80:正常访问
+ec.sangfor.com	54.169.70.12	80,443	*****	80:正常访问
+oa.sangfor.com	200.200.0.133	-	端口未开放	端口未开放
+labs.sangfor.com	13.228.166.178	80,443	******	80:正常访问
+link.sangfor.com	52.72.49.79	80,443	-	80:(404) 未找到
+meeting.sangfor.com	118.143.122.146	80	Microsoft-IIS/8.5	80:正常访问
+ir.sangfor.com	77.67.126.72,77.67.126.16	80,443	-	80:(400) 错误的请求
+partners.sangfor.com	202.131.75.82	443	Server	443:正常访问
+go.sangfor.com	54.243.103.39,107.21.244.221	80	-	80:(404) 未找到
+ssl.sangfor.com	54.169.70.12	80,443	nginx	80:正常访问
+mx.sangfor.com	108.177.125.27	-	端口未开放	端口未开放
+pop.sangfor.com	108.177.97.108,108.177.97.109	-	端口未开放	端口未开放
+pop3.sangfor.com	64.233.188.108,64.233.188.109	-	端口未开放	端口未开放
+site.sangfor.com	61.145.164.212	-	端口未开放	端口未开放
+smtp.sangfor.com	74.125.23.108,74.125.23.109	-	端口未开放	端口未开放
+cloud.sangfor.com	183.60.252.68	443	nginx	443:(404) 未找到
+analysis.sangfor.com	47.90.116.119	80,443	nginx	80:正常访问
+verse.sangfor.com	200.200.0.183	-	端口未开放	端口未开放
+intelligence.sangfor.com	47.90.116.119	80,443	nginx	80:正常访问
+notes.sangfor.com	200.200.0.22	-	端口未开放	端口未开放
+cname1.sangfor.com	121.46.26.132	-	端口未开放	端口未开放
+newweb.sangfor.com	54.169.70.12	80,443	nginx	80:(400) 错误的请求
+tracking.sangfor.com	113.105.88.60	80,443	-	80:(404) 未找到
+ea.sangfor.com	113.105.88.62	443	Apache	443:(404) 未找到
+gcs.sangfor.com	113.105.88.62	443	Apache	443:(404) 未找到
+imd.sangfor.com	54.169.70.12	80,443	nginx	80:(400) 错误的请求
+bpm.sangfor.com	200.200.0.133	-	端口未开放	端口未开放
+ors.sangfor.com	120.237.110.178	80,443	Apache	80:正常访问
+upd.sangfor.com	47.90.116.119	80,443	nginx	80:正常访问
+vls.sangfor.com	113.105.88.62	443	Apache	443:(404) 未找到
+sso.sangfor.com	200.200.0.133	-	端口未开放	端口未开放
+sse.sangfor.com	200.200.0.133	-	端口未开放	端口未开放

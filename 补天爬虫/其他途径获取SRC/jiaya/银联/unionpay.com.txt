@@ -1,0 +1,27 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+mail.unionpay.com	218.80.192.197	80,443	nginx/1.10.2	80:正常访问
+mobile.unionpay.com	180.97.251.2	80,443	Apache-Coyote/1.1	80:(500) 内部服务器错误
+mpay.unionpay.com	180.97.251.2	80,443	Apache-Coyote/1.1	80:(500) 内部服务器错误
+online.unionpay.com	180.97.251.2	80,443	wswaf/2.8.0-10.el6	80:正常访问
+minipay.unionpay.com	202.96.255.138	80,443	Apache	80:正常访问
+merchant.unionpay.com	202.101.33.15	80,443	UPJAS	80:(405) 不允许的方法
+portal.unionpay.com	58.216.21.191,115.231.21.58	80,443	UPJAS	80:正常访问
+member.unionpay.com	180.97.251.2	80,443	Apache	80:正常访问
+m.unionpay.com	61.129.96.128	80,443	Apache	80:正常访问
+www.unionpay.com	180.97.251.2	80,443	Apache	80:正常访问
+bbs.unionpay.com	180.97.251.2	80,443	UPJAS	80:(403) 已禁止
+cn.unionpay.com	180.97.251.2	80,443	Apache	80:正常访问
+openapi.unionpay.com	180.97.251.2	80,443	Cdn Cache Server V2.0	80:(502) 错误的网关
+en.unionpay.com	180.97.251.2	80,443	wswaf/2.8.0-10.el6	80:正常访问
+open.unionpay.com	180.97.251.2	80,443	Apache	80:正常访问
+yun.unionpay.com	180.97.251.2	80,443	Apache-Coyote/1.1	80:正常访问
+pan.unionpay.com	101.230.222.41	-	端口未开放	端口未开放
+cert.unionpay.com	218.80.192.241	80,443	Apache-Coyote/1.1	80:(403) 已禁止
+corporate.unionpay.com	180.97.251.2	80,443	Apache	80:正常访问
+fr.unionpay.com	180.97.251.2	80,443	wswaf/2.8.0-10.el6	80:正常访问
+kr.unionpay.com	180.97.251.2	80,443	wswaf/2.8.0-10.el6	80:正常访问
+supplier.unionpay.com	218.80.192.202	80	nginx	80:正常访问
+sign.unionpay.com	180.97.251.2	80,443	获取失败	80:-
+gateway2.unionpay.com	218.80.192.214	-	端口未开放	端口未开放
+haigou.unionpay.com	101.226.177.115	80,443	nginx	80:正常访问
+jiaotong.unionpay.com	222.66.82.69	-	端口未开放	端口未开放

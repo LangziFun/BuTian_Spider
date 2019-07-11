@@ -1,0 +1,3 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+openvpn.shouhu.com	188.5.4.96	-	端口未开放	端口未开放
+openvpn.bjbgp.shouhu.com	197.4.4.12	-	端口未开放	端口未开放

@@ -1,0 +1,14 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+www.csgo.com.cn	218.14.200.84,14.18.201.47	80,443	nginx	80:正常访问
+img.csgo.com.cn	218.14.200.84,14.18.201.47	80,443	nginx	80:(403) 已禁止
+api.csgo.com.cn	203.80.148.243	80,443	nginx	80:(403) 已禁止
+app.csgo.com.cn	203.80.148.243	80,443	nginx	80:(403) 已禁止
+static.csgo.com.cn	218.14.200.84,14.18.201.47	80,443	nginx	80:(403) 已禁止
+ad.csgo.com.cn	203.80.148.243	80,443	nginx	80:(403) 已禁止
+data.csgo.com.cn	203.80.148.247	80,443	nginx	80:正常访问
+community.csgo.com.cn	203.80.149.103	80,443	nginx	80:正常访问
+members.csgo.com.cn	203.80.148.243	80,443	nginx	80:正常访问
+store.csgo.com.cn	203.80.149.103	80,443	nginx	80:正常访问
+upload.csgo.com.cn	221.228.74.243	80,443	nginx	80:正常访问
+event.csgo.com.cn	203.80.148.250	80,443	nginx	80:正常访问
+replay.csgo.com.cn	180.101.192.248	80,443	nginx/1.10.3 (Ubuntu)	80:正常访问

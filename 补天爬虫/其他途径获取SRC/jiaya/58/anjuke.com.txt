@@ -1,0 +1,678 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+aba.anjuke.com	115.159.231.212	80,443	nginx	80:正常访问
+2fcd.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+aks.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+5a0sh.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+alsm.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+agent.anjuke.com	115.159.231.148	80,443	nginx	80:(404) 未找到
+ank.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+1111wuxi.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+1111beijing.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+anqing.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+api.anjuke.com	115.159.231.221	80,443	nginx	80:(403) 已禁止
+ans.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+anshan.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+anyang.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+aq.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+ans.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+aq.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+aw.beijing.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+aw.chengdu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+ay.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+aw.shanghai.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+as.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+b5ijing.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+ay.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+ba.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+baiyin.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+ay.stage58.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+baishan.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+ba.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+baoding.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+baotou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+bao.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+bb.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+aus.haiwai.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+baoding.stage58.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+bd.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+beijing.forum.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+bei1ing.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+beijihg.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+beijing.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+beijing.sp.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+beijing.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+bh.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+benxi.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+bh.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+bijie.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+binzhou.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+bij.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+bj.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+bj.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+boertala.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+bj.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+boz.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+bozhou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+boz.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+bs.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+brijing.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+bt.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+buangzhou.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+bycem.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+bygl.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+bycem.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+cang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+cang.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+bx.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+bz.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+cang.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+cangzhou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+cc.forum.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+cc.fang.stage58.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+cc.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+cc.xzl.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+cc.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+cd.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+ccd.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+cf.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+cd.fang.stage58.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+chang.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+chang.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+ch.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+ch.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+changji.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+changde.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+changzhou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chao.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chat.anjuke.com	115.159.231.212	80,443	nginx	80:(502) 错误的网关
+chaoyang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chaozhou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chaohu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chen.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chegdu.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+chd.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+chengdh.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+bayinguoleng.anjuke.com	123.206.235.82	-	端口未开放	端口未开放
+chengdu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chengdj.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+chen.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+cheng.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+chengdu.forum.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chengdu.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+chengdu.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+chengdu.m.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chengdu.sina.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chengdub.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+chi.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chi.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chengduu.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+chenhdu.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+chengdu.stage58.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+chifeng.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chizhou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chongqing.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chongqing.forum.m.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chenngdu.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+chongqing.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+chongqing.xzl.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chongqing.sina.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chongqing.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+chongqing.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chongz.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+chu.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chrngdu.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+chuxiong.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chwngdu.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+chu.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+cq.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+cq.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+cs.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+cs.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+cs.fang.stage58.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+cs.sp.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+cq.fang.stage58.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+cx.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+cy.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+cy.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+cx.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+cz.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+cz.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+cz.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+cz.stage58.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+dalian.forum.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+dalian.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+dalian.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+cz.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+dalian.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+dalian.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+datong.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+dd.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+dazhou.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+datong.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+dazhou.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+dd.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+de.stage58.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+de.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+dg.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+dg.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+dg.news.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+dg.xzl.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+dg.stage58.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+di.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+ding.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+dingxi.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+dingzhou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+dl.fang.stage58.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+dq.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+dl.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+dl.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+dongying.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+dl.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+dq.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+dt.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+du.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+dz.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+dx.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+dzh.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+dz.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+eeds.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+eeds.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+dy.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+dz.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+dzh.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+cq.xzl.anjuke.com	123.206.235.82	-	端口未开放	端口未开放
+eeds.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+ez.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+es.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+ezhou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+fcg.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+fangchenggang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+fcg.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+forum.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+foshan.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+fosahan.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+fosan.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+flshan.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+foshan.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+foshan.m.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+foshan.sina.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+foshan.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+foshna.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+foshan.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+fs.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+fs.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+fs.xzl.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+fsoshan.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+fsh.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+fux.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+enshi.anjuke.com	123.206.235.82	443	nginx	443:(404) 未找到
+fux.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+fuxin.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+fuyang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+fuzhoushi.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+fuz.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+fz.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+fy.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+fy.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+fuzhou.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+fx.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+fz.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+fz.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+fz.xzl.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+g7angzhou.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+ga.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+ga.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+ganzhou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+gan.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+gaz.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+gg.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+gg.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+ghangzhou.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+gl.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+gl.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+gt.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+guagzhou.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+guahgzhou.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+guajgzhou.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+guang.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+guang2hou.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+guanggzhou.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+guangzbou.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+guangzgou.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+guangzhoh.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+guangzhou.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+guangzhou.forum.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+guangzhou.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+guangzhou.xzl.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+guangzhou.sina.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+guangzhuo.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+guangzhou.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+guangzohou.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+guangzuou.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+guanngzhou.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+guanjzhou.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+guanzghou.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+guilin.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+guilin.stage58.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+gy.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+gz.xzl.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+gz.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+gy.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+gz.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+gy.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+haikou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+hain.zu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+haikou.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+hainan.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+ha.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+gz.fang.stage58.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+hami.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+hai.fang.stage58.fang.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+bb.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+hai.fang.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+lv.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+i.anjuke.com	115.159.231.148	80,443	nginx	80:(404) 未找到
+m.anjuke.com	115.159.231.212	80,443	nginx	80:正常访问
+s.anjuke.com	115.159.231.148	80,443	nginx	80:(403) 已禁止
+t.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+user.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+zz.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+mail.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+haiwai.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+mall.anjuke.com	115.159.231.186	80,443	nginx	80:正常访问
+cms.anjuke.com	115.159.231.145	80,443	Tengine	80:正常访问
+new.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+news.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+ai.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+app.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+android.anjuke.com	115.159.231.24	80,443	nginx	80:(404) 未找到
+as.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+sq.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+static.anjuke.com	113.96.154.108,14.215.166.109,121.12.123.229,113.107.216.121,113.105.165.44,113.96.98.102,14.215.167.196,183.2.192.198,113.107.216.119,121.12.122.120,113.107.216.105,14.215.166.199,61.142.166.245,113.105.155.198,14.215.167.197	80,443	nginx	80:(403) 已禁止
+my.anjuke.com	115.159.231.148	80,443	nginx	80:正常访问
+yu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+mobile.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+push1.anjuke.com	115.159.231.227	443	获取失败	443:-
+hk.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+tw.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+docs.anjuke.com	114.80.230.199	-	端口未开放	端口未开放
+download.anjuke.com	58.247.138.69	-	端口未开放	端口未开放
+push.anjuke.com	180.153.87.57	-	端口未开放	端口未开放
+adm.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+pay.anjuke.com	115.159.231.148	80,443	nginx	80:(502) 错误的网关
+mm.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+aq.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+kf.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+eerduosi.anjuke.com	115.159.231.212	80,443	获取失败	80:-
+bn.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+biz.anjuke.com	115.159.231.148	80,443	nginx	80:正常访问
+bz.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+cs.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+wiki.anjuke.com	192.168.1.100	-	端口未开放	端口未开放
+song.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+imap.anjuke.com	163.177.72.143,163.177.90.125	80,443	获取失败	80:-
+ks.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+ls.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+ly.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+mz.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+nd.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+nc.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+np.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+nu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+pop.anjuke.com	163.177.72.143,163.177.90.125	80,443	nginx/1.8.1	80:(403) 已禁止
+pages.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+pe.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+pl.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+pt.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+dm.anjuke.com	114.80.230.206,114.80.230.212,114.80.230.211,114.80.230.208	-	端口未开放	端口未开放
+sg.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+sms.anjuke.com	115.159.231.221	80,443	nginx	80:正常访问
+smtp.anjuke.com	163.177.90.125,163.177.72.143	80,443	nginx/1.8.1	80:(403) 已禁止
+sn.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+supplier.anjuke.com	115.159.231.221	80,443	nginx	80:(403) 已禁止
+sw.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+3.anjuke.com	115.159.231.148	80,443	nginx	80:(502) 错误的网关
+live.anjuke.com	10.132.38.6	-	端口未开放	端口未开放
+h5.anjuke.com	115.159.231.148	80,443	nginx	80:正常访问
+tc.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+tr.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+ts.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+wf.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+one.anjuke.com	115.159.231.148	80,443	nginx	80:正常访问
+job.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+long.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+campaign.anjuke.com	114.80.230.198	-	端口未开放	端口未开放
+1.news.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+2324.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+2.news.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+3.news.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+360.m.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+9z.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+album01.app.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+alsm.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+androidpush.m.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+anshun.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+api.app.anjuke.com	115.159.231.221	80,443	nginx	80:正常访问
+anqing.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+apk.app.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+baike.anjuke.com	115.159.231.148	80,443	nginx	80:正常访问
+baoshan.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+bazhong.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+beijing.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+beihai.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+bbs-static.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+bengbu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+beiyong.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+betl.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+bi.m.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+c5.app.anjuke.com	115.159.231.221	80,443	nginx	80:正常访问
+c6.app.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+bygl.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+bycem.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+c4.app.anjuke.com	115.159.231.221	80,443	nginx	80:正常访问
+cdn.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+changdu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+changchun.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+changzhi.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chengde.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chuzhou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+cnbps.app.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+cnimg.app.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+api20.anjuke.com	180.153.87.54	-	端口未开放	端口未开放
+cnc.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+contract.app.anjuke.com	115.159.231.221	80,443	nginx	80:正常访问
+dafeng.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+dali.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+data.m.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+daxue.anjuke.com	115.159.231.212	80,443	nginx	80:正常访问
+dazhou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+decision.app.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+dezhou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+deyang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+diqing.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+dl.app.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+docs.app.anjuke.com	115.159.231.221	80,443	nginx	80:正常访问
+dlm8px9rrt.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+dxal.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+enquiry.app.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+files.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+ftp.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+fuzhou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+goods.app.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+guantao.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+guigang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+guyuan.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+haerbin.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+haibei.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+hefei.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+heihe.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+hengyang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+heze.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+hongkong.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+huaian.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+huaihua.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+huangshan.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+huizhou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+huoqiu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+img.app.anjuke.com	115.159.231.221	80,443	nginx	80:正常访问
+images.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+img.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+img1.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+jiayuguan.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+jinchang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+jinan.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+jingmen.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+jsondata.app.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+html5.anjuke.com	119.28.230.24,119.28.37.234	80	openresty	80:正常访问
+klmy.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+kunming.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+laibin.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+kfzx.anjuke.com	115.159.231.148	80,443	nginx	80:正常访问
+laiwu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+lasa.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+lianyungang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+liangshan.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+liaoyuan.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+leshan.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+linxia.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+linyi.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+linzhi.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+liuzhou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+logs.app.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+loudi.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+luan.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+lvliang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+luoyang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+lx.m.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+m.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+mail.app.anjuke.com	115.159.231.221	80,443	nginx	80:正常访问
+mall.m.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+maven.app.anjuke.com	115.159.231.221	80,443	nginx	80:正常访问
+miko.app.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+meishan.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+mp3.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+nanjing.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+nanchang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+nantong.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+neijiang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+newadmin.m.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+ningbo.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+notify.anjuke.com	115.159.231.221	80,443	nginx	80:正常访问
+order.app.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+oss.m.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+paas.app.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+panzhihua.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+panshi.anjuke.com	115.159.231.221	80,443	Tengine	80:正常访问
+picup.m.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+plan.app.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+print.app.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+puer.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+putian.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+qian.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+qingyang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+qingyuan.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+puyang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+qingdao.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+qiqihaer.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+quanjing.anjuke.com	115.159.231.200	80,443	nginx	80:(404) 未找到
+quzhou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+sanmenxia.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+search.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+shangrao.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+shaoyang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+shaoguan.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+shaoxing.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+shiyan.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+shuyang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+smsapi.app.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+so.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+songyuan.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+source.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+spare.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+static.m.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+statwap.m.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+suzhou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+supplier.app.anjuke.com	115.159.231.221	80,443	nginx	80:正常访问
+t.app.anjuke.com	115.159.231.221	80,443	nginx	80:正常访问
+tangshan.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+taizhou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+test.app.anjuke.com	115.159.231.221	80,443	nginx	80:正常访问
+testspace.app.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+test.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+test2.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+test2.m.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+tianjin.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+tianshui.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+tieling.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+tonghua.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+toyota.app.anjuke.com	115.159.231.221	80,443	nginx	80:正常访问
+tong.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+tongc.anjuke.com	123.206.235.82	443	nginx	443:(404) 未找到
+total.m.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+tongl.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+safetest.anjuke.com	61.240.150.11	-	端口未开放	端口未开放
+tencent.anjuke.com	115.159.231.58	80	获取失败	80:-
+up.app.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+vipstatic.anjuke.com	113.96.98.102,14.215.167.196,183.2.192.198,113.107.216.119,121.12.122.120,113.107.216.105,14.215.166.199,61.142.166.245,113.105.155.198,14.215.167.197,113.96.154.108,14.215.166.109,121.12.123.229,113.107.216.121,113.105.165.44	80,443	nginx	80:正常访问
+wap.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+wechat.anjuke.com	115.159.231.148	80,443	nginx	80:(404) 未找到
+weifang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+wenzhou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+wlcb.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+wlmq.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+wuhai.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+wuhan.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+wulumuqi.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+wuwei.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+wx.app.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+wx.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+xbnc88.m.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+xianyang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+xiamen.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+xingtai.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+xinyu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+xinyang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+xt.app.anjuke.com	115.159.231.221	80,443	nginx	80:正常访问
+xinzhou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+xunyuan.app.anjuke.com	115.159.231.145	80,443	nginx	80:正常访问
+xuchang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+xuancheng.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+xuzhou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+yangzhou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+yantai.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+yangjiang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+yichun.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+yibin.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+yich.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+yingtan.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+yingkou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+yinchuan.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+yong.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+wiki.corp.anjuke.com	10.249.6.250	-	端口未开放	端口未开放
+yulin.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+yuncheng.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+yy.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+yz.bbs.anjuke.com	115.159.231.145	80,443	nginx	80:(404) 未找到
+zaozhuang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+zhangjiakou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+zhangzhou.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+zhaoqing.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+zhucheng.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+zibo.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+zjtl.bbs.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+ziyang.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+zunyi.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+dx.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+dw.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+ez.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+dy.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+hh.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+hf.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+fx.anjuke.com	115.159.231.200	80,443	nginx	80:正常访问
+ji.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+hb.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+nq.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+lf.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+jy.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+qd.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+qy.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+ln.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+qx.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+sx.anjuke.com	123.206.235.82	443	nginx	443:(404) 未找到
+xg.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+ty.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+xz.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+zk.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+zt.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+wn.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+xl.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+zj.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+yq.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+ys.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+zh.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+yj.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+wh.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+zq.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+zi.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+wu.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+yf.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+yb.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+zg.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+aks.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+ank.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+chd.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+cna.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+fsh.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+guo.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+han.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+heg.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+hlr.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+hsh.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+ifx.anjuke.com	115.159.231.200	80,443	nginx	80:(404) 未找到
+ics.anjuke.com	115.159.231.148	80,443	nginx	80:正常访问
+dma.anjuke.com	222.73.66.231	-	端口未开放	端口未开放
+jiy.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+jin.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+jms.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+hxt.anjuke.com	116.62.138.241	80	nginx/1.10.2	80:(404) 未找到
+jzh.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+jyg.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+lps.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+mas.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+nan.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+nei.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+pie.anjuke.com	115.159.231.143	80,443	nginx	80:正常访问
+qth.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+qxn.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+snj.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+smx.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+shn.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+suz.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+tai.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+tlf.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+wfd.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+wos.anjuke.com	115.159.231.24	80,443	nginx	80:正常访问
+wuh.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+wys.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+xam.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+ych.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+xzl.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+yiy.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+yue.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+yxx.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+zjk.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+zmd.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+s58.anjuke.com	115.159.231.148	80,443	nginx	80:(403) 已禁止
+amtp.anjuke.com	115.159.231.227	443	获取失败	443:-
+hezh.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+ione.anjuke.com	115.159.231.148	80,443	nginx	80:正常访问
+jinc.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+kzls.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+liny.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+lizh.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+my58.anjuke.com	115.159.231.148	80,443	nginx	80:(500) 内部服务器错误
+qqhe.anjuke.com	123.206.235.82	443	nginx	443:(404) 未找到
+shao.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+suiz.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+upd3.anjuke.com	115.159.231.221	80,443	nginx	80:正常访问
+upd1.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+upd2.anjuke.com	115.159.231.221	80,443	nginx	80:(404) 未找到
+yanl.anjuke.com	115.159.231.212	80,443	nginx	80:(404) 未找到
+fs.stage58.fang.anjuke.com	115.159.231.143	80,443	获取失败	80:-
+stats.anjuke.com	115.159.231.148	80,443	获取失败	80:-
+admin.news.anjuke.com	115.159.231.200	80,443	获取失败	80:-
+fz.fang.stage58.fang.anjuke.com	115.159.231.143	80,443	获取失败	80:-
+mail.news.anjuke.com	115.159.231.143	80,443	获取失败	80:-
+fz.stage58.fang.anjuke.com	115.159.231.200	80,443	获取失败	80:-
+wap.news.anjuke.com	115.159.231.200	80,443	获取失败	80:-
+dg.fang.anjuke.com	115.159.231.200	80,443	获取失败	80:-
+html.news.anjuke.com	115.159.231.200	80,443	获取失败	80:-
+pic.news.anjuke.com	115.159.231.200	80,443	获取失败	80:-
+vip.anjuke.com	115.159.231.148	80,443	获取失败	80:-
+img.news.anjuke.com	115.159.231.200	80,443	获取失败	80:-
+email.news.anjuke.com	115.159.231.143	80,443	获取失败	80:-
+brand.anjuke.com	115.159.231.200	80,443	获取失败	80:-
+beta.news.anjuke.com	115.159.231.200	80,443	获取失败	80:-
+m.news.anjuke.com	115.159.231.200	80,443	获取失败	80:-

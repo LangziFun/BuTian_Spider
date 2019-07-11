@@ -1,0 +1,22 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+m.lexinfintech.com	115.159.189.222,123.206.22.43	80,443	Tengine	80:正常访问
+www.lexinfintech.com	123.206.22.43,115.159.189.222	80,443	Tengine	80:正常访问
+mail.lexinfintech.com	207.148.16.162,45.77.204.174	443	Microsoft-IIS/8.5	443:(440) Login Timeout
+zhaopin.lexinfintech.com	47.95.46.1	80	nginx/1.4.6 (Ubuntu)	80:正常访问
+download.lexinfintech.com	10.1.48.28	-	端口未开放	端口未开放
+test.lexinfintech.com	45.77.204.174,207.148.16.162	443	Microsoft-IIS/8.5	443:(440) Login Timeout
+security.lexinfintech.com	120.77.77.36	80	Tengine/2.1.0	80:(405) 不允许的方法
+gy.lexinfintech.com	115.159.189.222,123.206.22.43	80,443	Tengine	80:(500) 内部服务器错误
+ir.lexinfintech.com	95.100.252.40,95.100.252.8	80,443		80:正常访问
+mx.lexinfintech.com	218.17.197.165	443	Microsoft-IIS/8.5	443:(440) Login Timeout
+pr.lexinfintech.com	123.206.22.43,115.159.189.222	80,443	Tengine	80:正常访问
+res.lexinfintech.com	115.159.189.222,123.206.22.43	80,443	Tengine	80:正常访问
+testing.lexinfintech.com	10.1.48.26	-	端口未开放	端口未开放
+vpn.lexinfintech.com	218.17.197.170	-	端口未开放	端口未开放
+webmail.lexinfintech.com	218.17.197.174	443	Tengine/2.1.0	443:正常访问
+challenge.lexinfintech.com	58.67.214.173	-	端口未开放	端口未开放
+bole.lexinfintech.com	47.95.46.1	80	nginx/1.4.6 (Ubuntu)	80:正常访问
+openvpn.bjbgp.lexinfintech.com	77.4.7.92	-	端口未开放	端口未开放
+sslvpn.lexinfintech.com	218.17.197.169	80,443	Server	80:正常访问
+xinren.lexinfintech.com	39.108.103.135	80,443	nginx/1.1.19	80:正常访问
+cres.lexinfintech.com	113.200.16.27,113.200.16.32,113.200.16.31,27.221.54.22,118.212.234.89,218.11.8.104,27.221.54.20,121.29.54.65,221.204.166.22,27.221.54.19,221.204.166.38,113.200.16.30,27.221.54.21,119.6.229.101,221.204.166.20	80,443	nws_ocmid_hy	80:正常访问

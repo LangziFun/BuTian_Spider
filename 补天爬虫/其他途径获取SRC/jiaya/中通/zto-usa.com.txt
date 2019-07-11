@@ -1,0 +1,5 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+b.zto-usa.com	47.90.63.81	80	nginx/1.12.2	80:正常访问
+www.zto-usa.com	47.90.63.81	80	nginx/1.12.2	80:正常访问
+openvpn.zto-usa.com	249.129.46.48	-	端口未开放	端口未开放
+openvpn.bjbgp.zto-usa.com	197.4.4.12	-	端口未开放	端口未开放

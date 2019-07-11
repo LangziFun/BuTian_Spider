@@ -1,0 +1,37 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+error2.kuaibo.com	115.231.216.12	80,443	获取失败	80:-
+mini.kuaibo.com	115.231.216.12	80,443	nginx	80:正常访问
+msg.kuaibo.com	218.71.143.154	-	端口未开放	端口未开放
+pause-ad.kuaibo.com	115.231.216.12	80,443	nginx	80:正常访问
+minisite.kuaibo.com	115.231.216.12	80,443	nginx	80:正常访问
+s.kuaibo.com	115.231.216.12	80,443	nginx	80:(403) 已禁止
+security.kuaibo.com	115.231.216.12	80,443	nginx	80:正常访问
+searchstat.kuaibo.com	183.60.41.18	80	nginx	80:正常访问
+hao.kuaibo.com	115.231.216.12	80,443	获取失败	80:-
+error1.kuaibo.com	115.231.216.12	80	获取失败	80:-
+qd.kuaibo.com	115.231.216.12,115.231.216.11	80,443	nginx	80:正常访问
+dl.kuaibo.com	115.231.216.11,115.231.216.12	80,443	nginx	80:正常访问
+op.kuaibo.com	115.231.216.10	-	端口未开放	端口未开放
+v.kuaibo.com	175.6.0.106	-	端口未开放	端口未开放
+mobile.kuaibo.com	183.60.41.122	-	端口未开放	端口未开放
+shop.kuaibo.com	61.147.92.183	-	端口未开放	端口未开放
+sub.kuaibo.com	115.231.216.10	-	端口未开放	端口未开放
+agent.kuaibo.com	115.231.216.25,115.231.216.24	-	端口未开放	端口未开放
+so.kuaibo.com	115.231.216.12	80,443	获取失败	80:-
+meinv.kuaibo.com	218.71.143.139	80	nginx	80:(403) 已禁止
+private.kuaibo.com	128.1.174.241	-	端口未开放	端口未开放
+stat.kuaibo.com	115.231.216.10	-	端口未开放	端口未开放
+tj.kuaibo.com	218.71.143.142	-	端口未开放	端口未开放
+cloud.kuaibo.com	115.231.216.3	-	端口未开放	端口未开放
+iploc.kuaibo.com	128.1.174.241	-	端口未开放	端口未开放
+openvpn.kuaibo.com	253.157.14.165	-	端口未开放	端口未开放
+statis.kuaibo.com	115.231.216.46	-	端口未开放	端口未开放
+stun.kuaibo.com	61.163.46.77	-	端口未开放	端口未开放
+wechat.kuaibo.com	183.60.41.126	443	nginx/1.14.0	443:(403) 已禁止
+is.kuaibo.com	115.231.216.12	80,443	nginx	80:正常访问
+qbho.kuaibo.com	183.60.41.18	80	nginx	80:正常访问
+ulog.kuaibo.com	218.71.143.142	-	端口未开放	端口未开放
+img.kuaibo.com	115.231.216.12	80,443	获取失败	80:-
+dm.kuaibo.com	115.231.216.12	80,443	获取失败	80:-
+update.kuaibo.com	115.231.216.12	80,443	获取失败	80:-
+lbu.kuaibo.com	115.231.216.12	80,443	获取失败	80:-

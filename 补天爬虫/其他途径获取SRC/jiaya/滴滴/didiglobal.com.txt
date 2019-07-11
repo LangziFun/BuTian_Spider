@@ -1,0 +1,67 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+d.didiglobal.com	117.51.1.5,117.51.1.4	80,443	-	80:(500) 内部服务器错误
+m.didiglobal.com	80.231.126.185,80.231.126.236,80.231.126.181,80.231.126.183,80.231.126.182,80.231.126.186,80.231.126.184	80,443	Tengine	80:(404) 未找到
+s.didiglobal.com	116.85.2.14,116.85.2.15	80,443	Tengine	80:正常访问
+www.didiglobal.com	117.51.1.4,117.51.1.5	80,443	-	80:(500) 内部服务器错误
+help.didiglobal.com	117.51.1.4,117.51.1.5	80,443	nginx/1.6.2	80:(403) 已禁止
+api.didiglobal.com	117.51.1.4,117.51.1.5	80,443	router	80:正常访问
+img0.didiglobal.com	80.231.126.186,80.231.126.236,80.231.126.181,80.231.126.182,80.231.126.183,80.231.126.184,80.231.126.185	80,443	Tengine	80:(404) 未找到
+as.didiglobal.com	117.51.1.5,117.51.1.4	80,443	Jetty(9.3.20.v20170531)	80:正常访问
+img4.didiglobal.com	80.231.126.236,80.231.126.181,80.231.126.182,80.231.126.186,80.231.126.185,80.231.126.184,80.231.126.183	80,443	Tengine	80:(404) 未找到
+img.didiglobal.com	80.231.126.181,80.231.126.186,80.231.126.182,80.231.126.184,80.231.126.185,80.231.126.183,80.231.126.236	80,443	Tengine	80:(404) 未找到
+img1.didiglobal.com	80.231.126.185,80.231.126.184,80.231.126.186,80.231.126.181,80.231.126.183,80.231.126.182,80.231.126.236	80,443	Tengine	80:(404) 未找到
+developer.didiglobal.com	117.51.1.5,117.51.1.4	80,443	Tengine	80:正常访问
+img3.didiglobal.com	80.231.126.186,80.231.126.181,80.231.126.183,80.231.126.236,80.231.126.184,80.231.126.182,80.231.126.185	80,443	Tengine	80:(404) 未找到
+img2.didiglobal.com	80.231.126.183,80.231.126.184,80.231.126.185,80.231.126.186,80.231.126.236,80.231.126.181,80.231.126.182	80,443	Tengine	80:(404) 未找到
+page.didiglobal.com	117.51.1.5,117.51.1.4	80,443	nginx/1.6.2	80:(404) 未找到
+feedback.didiglobal.com	116.85.3.10,116.85.3.11	80,443	Tengine/2.1.0	80:正常访问
+static.didiglobal.com	195.27.31.232,195.27.31.231	80,443	Tengine	80:(403) 已禁止
+mail.didiglobal.com	111.202.154.100	80	Microsoft-IIS/8.5	80:(440) Login Timeout
+msg.didiglobal.com	117.51.1.5,117.51.1.4	80,443	router	80:(404) 未找到
+message.didiglobal.com	117.51.1.5,117.51.1.4	80,443	router	80:正常访问
+openapi.didiglobal.com	117.51.1.4,117.51.1.5	80,443	Tengine	80:正常访问
+open.didiglobal.com	117.51.1.4,117.51.1.5	80,443	Tengine	80:正常访问
+vip.didiglobal.com	117.51.1.5,117.51.1.4	80,443	router	80:正常访问
+tw.didiglobal.com	203.90.234.199	80,443	router	80:正常访问
+hk.didiglobal.com	203.90.234.199	80,443	router	80:正常访问
+share.didiglobal.com	117.51.1.4,117.51.1.5	80,443	nginx/1.6.2	80:(403) 已禁止
+pay.didiglobal.com	117.51.1.5,117.51.1.4	80,443	router	80:正常访问
+website.didiglobal.com	195.27.31.231,195.27.31.232	80,443	Tengine	80:(500) 内部服务器错误
+conf.didiglobal.com	117.51.1.5,117.51.1.4	80,443	nginx/1.6.2	80:正常访问
+ct.didiglobal.com	117.51.1.4,117.51.1.5	80,443	-	80:(404) 未找到
+cs.didiglobal.com	117.51.1.4,117.51.1.5	80,443	nginx/1.6.2	80:正常访问
+me.didiglobal.com	117.51.1.4,117.51.1.5	80,443	Apache-Coyote/1.1	80:(405) 不允许的方法
+mis.didiglobal.com	117.51.1.5,117.51.1.4	80,443	Apache-Coyote/1.1	80:(405) 不允许的方法
+res.didiglobal.com	117.51.1.4,117.51.1.5	80,443	nginx/1.6.2	80:(403) 已禁止
+reg.didiglobal.com	117.51.1.5,117.51.1.4	80,443	router	80:正常访问
+titan.didiglobal.com	117.51.1.4,117.51.1.5	80,443	Apache-Coyote/1.1	80:(405) 不允许的方法
+voyager.didiglobal.com	117.51.1.4,117.51.1.5	80,443	nginx/1.6.2	80:(403) 已禁止
+tracker.didiglobal.com	80.231.126.186,80.231.126.184,80.231.126.183,80.231.126.236,80.231.126.181,80.231.126.182,80.231.126.185	80,443	Tengine	80:(404) 未找到
+mx1.didiglobal.com	36.110.17.22	80,443	Microsoft-IIS/8.5	80:(440) Login Timeout
+mx2.didiglobal.com	111.202.154.82	80,443	Microsoft-IIS/8.5	80:(440) Login Timeout
+common.didiglobal.com	117.51.1.5,117.51.1.4	80,443	router	80:正常访问
+growth.didiglobal.com	117.51.1.4,117.51.1.5	80,443	-	80:(404) 未找到
+dream.didiglobal.com	117.51.1.4,117.51.1.5	80,443	Apache-Coyote/1.1	80:(405) 不允许的方法
+star.didiglobal.com	117.51.1.4,117.51.1.5	80,443	Tengine	80:正常访问
+taxi.didiglobal.com	117.51.1.4,117.51.1.5	80,443	-	80:(404) 未找到
+prime.didiglobal.com	117.51.1.5,117.51.1.4	80,443	Tengine	80:正常访问
+talent.didiglobal.com	116.85.2.4,116.85.2.5	80,443	nginx/1.10.2	80:正常访问
+mexico.didiglobal.com	117.51.1.5,117.51.1.4	80,443	nginx/1.6.2	80:正常访问
+assets.didiglobal.com	80.231.126.185,80.231.126.186,80.231.126.183,80.231.126.182,80.231.126.236,80.231.126.184,80.231.126.181	80,443	Tengine	80:(404) 未找到
+bigdata.didiglobal.com	10.14.128.22	-	端口未开放	端口未开放
+diaoyan.didiglobal.com	117.51.1.4,117.51.1.5	80,443	nginx/1.6.2	80:(404) 未找到
+dimg.didiglobal.com	117.51.1.5,117.51.1.4	80,443	nginx/1.6.2	80:(403) 已禁止
+kefu.didiglobal.com	117.51.1.4,117.51.1.5	80,443	nginx/1.6.2	80:(403) 已禁止
+muse.didiglobal.com	117.51.1.4,117.51.1.5	80,443	nginx/1.12.2	80:正常访问
+openvpn.didiglobal.com	188.5.4.96	-	端口未开放	端口未开放
+openvpn.bjbgp.didiglobal.com	188.5.4.96	-	端口未开放	端口未开放
+qingfeng.didiglobal.com	116.85.3.14,116.85.3.15	80,443	nginx/1.6.2	80:正常访问
+test-api.didiglobal.com	117.51.2.1	80,443	router	80:正常访问
+yijian.didiglobal.com	116.85.3.11,116.85.3.10	80,443	Tengine/2.1.0	80:正常访问
+hd.didiglobal.com	117.51.1.5,117.51.1.4	80,443	-	80:(404) 未找到
+anm.didiglobal.com	117.51.1.5,117.51.1.4	80,443	router	80:(403) 已禁止
+apm.didiglobal.com	117.51.1.5,117.51.1.4	80,443	Tengine	80:正常访问
+csi.didiglobal.com	117.51.1.5,117.51.1.4	80,443	Tengine	80:正常访问
+mmp.didiglobal.com	117.51.1.4,117.51.1.5	80,443	Tengine	80:正常访问
+upm.didiglobal.com	117.51.1.4,117.51.1.5	80,443	nginx/1.6.2	80:正常访问
+lion.didiglobal.com	117.51.1.4,117.51.1.5	80,443	nginx/1.6.2	80:正常访问
